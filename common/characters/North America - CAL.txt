@@ -24,4 +24,16 @@ characters = {
 
 
     ## Advisors - Civilian ##
+
+
+    ### Scientists - Air ###
+
+
+    ### Scientists - Army ###
+
+
+    ### Scientists - Naval ###
+
+
+    ### Scientists - Nuclear ###
 }
