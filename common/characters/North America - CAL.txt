@@ -8,10 +8,20 @@ characters = {
     ### Field Marshals ###
 
 
-
     ### Corps Commanders ###
 
 
-
     ### Admirals ###
+
+
+    ## Advisors - Army (Chiefs/High Command) ##
+
+
+    ## Advisors - Navy (Chiefs/High Command) ##
+
+
+    ## Advisors - Air Force (Chiefs/High Command) ##
+
+
+    ## Advisors - Civilian ##
 }
