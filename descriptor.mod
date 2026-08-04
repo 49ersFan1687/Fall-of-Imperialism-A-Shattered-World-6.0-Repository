@@ -5,3 +5,4 @@ tags={
 replace_path = "common/characters"
 replace_path = "history/states"
 name= "Fall of Imperialism - A Shattered World DEV Version"
+supported_version="1.19.2.0"
