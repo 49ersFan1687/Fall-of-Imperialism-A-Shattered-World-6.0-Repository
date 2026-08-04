@@ -1,6 +1,6 @@
 characters = {
     ### Civilian Leaders ###
-    
+
 
     ### Military Leaders ###
     CAL_dwight_david_eisenhower = {
@@ -30,7 +30,29 @@ characters = {
     }
 
     ### Field Marshals ###
-
+    CAL_curtis_emerson_lemay = {
+        name = "Curtis Emerson LeMay"
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/CAL/Portrait_CAL_Curtis_Emerson_Lemay.dds"
+            }
+            army = {
+                large = "gfx/leaders/CAL/Portrait_CAL_Curtis_Emerson_Lemay.dds"
+            }
+        }
+        field_marshal = {
+            traits = {
+                trait_reckless
+		        air_commander
+		        politically_connected
+            }
+            skill = 2
+	        attack_skill = 3
+	        defense_skill = 3
+	        planning_skill = 3
+	        logistics_skill = 3
+        }
+    }
 
     ### Corps Commanders ###
 
