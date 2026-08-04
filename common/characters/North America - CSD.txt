@@ -1,0 +1,39 @@
+characters = {
+    ### Civilian Leaders ###
+
+
+    ### Military Leaders ###
+
+
+    ### Field Marshals ###
+
+
+    ### Corps Commanders ###
+
+
+    ### Admirals ###
+
+
+    ## Advisors - Army (Chiefs/High Command) - NOT GENREALS/FIELD MARSHALS ##
+
+
+    ## Advisors - Navy (Chiefs/High Command) - NOT GENREALS/FIELD MARSHALS ##
+
+
+    ## Advisors - Air Force (Chiefs/High Command) - NOT GENREALS/FIELD MARSHALS ##
+
+
+    ## Advisors - Civilian ##
+
+
+    ### Scientists - Air ###
+
+
+    ### Scientists - Army ###
+
+
+    ### Scientists - Naval ###
+
+
+    ### Scientists - Nuclear ###
+}
