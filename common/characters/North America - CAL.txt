@@ -1,3 +1,17 @@
 characters = {
-    
+    ### Civilian Leaders ###
+
+
+    ### Military Leaders ###
+
+
+    ### Field Marshals ###
+
+
+
+    ### Corps Commanders ###
+
+
+
+    ### Admirals ###
 }
