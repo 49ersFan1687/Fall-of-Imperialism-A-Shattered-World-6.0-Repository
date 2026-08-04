@@ -4,7 +4,6 @@ characters = {
 
     ### Military Leaders ###
 
-
     ### Field Marshals ###
 
 
