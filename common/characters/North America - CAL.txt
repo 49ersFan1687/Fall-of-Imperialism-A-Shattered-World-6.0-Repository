@@ -14,13 +14,13 @@ characters = {
     ### Admirals ###
 
 
-    ## Advisors - Army (Chiefs/High Command) ##
+    ## Advisors - Army (Chiefs/High Command) - NOT GENREALS/FIELD MARSHALS ##
 
 
-    ## Advisors - Navy (Chiefs/High Command) ##
+    ## Advisors - Navy (Chiefs/High Command) - NOT GENREALS/FIELD MARSHALS ##
 
 
-    ## Advisors - Air Force (Chiefs/High Command) ##
+    ## Advisors - Air Force (Chiefs/High Command) - NOT GENREALS/FIELD MARSHALS ##
 
 
     ## Advisors - Civilian ##
