@@ -420,8 +420,59 @@ characters = {
     }
 
     CAL_creighton_williams_abrams_jr = {
-        
+        name = "Crieghton Williams Abrams Jr."
+        portraits = {
+            army = {
+                large = "gfx/leaders/CAL/Portrait_CAL_Creighton_Williams_Abrams_Jr.dds"
+            }
+        }
+        corps_commander = {
+            traits = {
+                panzer_leader
+                organizer
+                thorough_planner
+                brilliant_strategist
+                panzer_expert
+            }
+			skill = 5
+			legacy_id = 999
+			attack_skill = 4
+			defense_skill = 3
+			planning_skill = 3
+			logistics_skill = 5
+        }
     }
+
+    CAL_john_lesesne_dewitt = {
+		name = "John Lesesne DeWitt"
+		portraits = {
+			army = {
+				large = "gfx/leaders/CAL/Portrait_CAL_John_Lesesne_DeWitt.dds"
+			}
+		}
+		corps_commander = {
+			#desc = dont' leave equal symbol empty
+			traits = {
+				inflexible_strategist
+				cautious
+				infantry_leader
+			}
+			skill = 3
+			attack_skill = 2
+			defense_skill = 3
+			planning_skill = 1
+			logistics_skill = 4
+		}
+	}
+
+    CAL_albert_coady_wedemeyer = {
+		name = "Albert Coady Wedemeyer"
+		portraits = {
+            army = {
+                large = "gfx/leaders/CAL/Portrait_CAL_Albert_Coady_Wedemeyer.dds"
+            }
+        }
+	}
 
     ### Admirals ###
 
