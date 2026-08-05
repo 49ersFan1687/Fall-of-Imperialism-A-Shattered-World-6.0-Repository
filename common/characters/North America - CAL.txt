@@ -231,7 +231,6 @@ characters = {
             }
         }
         corps_commander = {
-			#desc = dont' leave equal symbol empty 
             traits = {
 				infantry_leader
 				infantry_expert
