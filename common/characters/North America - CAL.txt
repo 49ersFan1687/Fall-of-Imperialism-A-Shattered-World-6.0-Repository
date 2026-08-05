@@ -199,6 +199,180 @@ characters = {
         }
     }
 
+    CAL_glynda_goodwitch = {
+        name = "Glynda Goodwitch"
+        portraits = {
+			army = {
+				large = "gfx/leaders/CAL/Portrait_CAL_Glynda_Goodwitch.dds"
+			}
+		}
+        corps_commander = {
+            traits = {
+                career_officer
+                infantry_officer
+                infantry_leader
+            }
+			skill = 3
+			attack_skill = 3
+			defense_skill = 2
+			planning_skill = 2
+			logistics_skill = 3
+        }
+    }
+
+    CAL_william_childs_westmoreland = {
+        name = "William Childs Westmoreland"
+        portraits = {
+			army = {
+				large = "gfx/leaders/CAL/Portrait_CAL_William_Childs_Westmoreland.dds"
+			}
+		}
+        corps_commander = {
+            traits = {
+                organizer
+                fast_planner
+                paratrooper
+                commando
+            }
+            skill = 4
+            attack_skill = 5
+			defense_skill = 3
+			planning_skill = 4
+			logistics_skill = 4
+        }
+    }
+
+    CAL_maxwell_davenport_taylor = {
+        name = "Maxwell Davenport Taylor"
+        portraits = {
+			army = {
+				large = "gfx/leaders/CAL/Portrait_CAL_Maxwell_Davenport_Taylor.dds"
+			}
+		}
+        corps_commander = {
+            traits = {
+                commando
+                media_personality
+                paratrooper
+                career_officer
+            }
+	        skill = 4
+	        attack_skill = 3
+	        defense_skill = 4
+	        planning_skill = 4
+	        logistics_skill = 2
+        }
+    }
+
+    CAL_mark_wayne_clark = {
+        name = "Mark Wayne Clark"
+        portraits = {
+			army = {
+				large = "gfx/leaders/CAL/Portrait_CAL_Mark_Wayne_Clark.dds"
+			}
+		}
+		corps_commander = {
+			traits = {
+				reckless
+				infantry_officer
+				infantry_leader
+			}
+			skill = 3
+			attack_skill = 5
+			defense_skill = 3
+			planning_skill = 1
+			logistics_skill = 2
+		}
+    }
+
+    CAL_henry_harley_arnold = {
+        name = "Henry Harley Arnold"
+        portraits = {
+			army = {
+				large = "gfx/leaders/CAL/Portrait_CAL_Henry_Harley_Arnold.dds"
+			}
+		}
+        corps_commander = {
+            traits = {
+		        career_officer
+		        politically_connected
+		        inspirational_leader
+		        organizer
+                air_commander
+	        }
+	        skill = 4
+	        attack_skill = 4
+	        defense_skill = 3
+	        planning_skill = 3
+	        logistics_skill = 3
+        } 
+    }
+
+    CAL_jacob_loucks_devers = {
+        name = "Jacob Loucks Devers"
+        portraits = {
+			army = {
+				large = "gfx/leaders/CAL/Portrait_CAL_Jacob_Loucks_Devers.dds"
+			}
+		}
+        corps_commander = {
+			traits = {
+                artillery_officer
+                artillery_specialist
+                trait_reckless
+                panzer_leader
+                career_officer
+            }
+			skill = 3
+			attack_skill = 4
+			defense_skill = 2
+			planning_skill = 3
+			logistics_skill = 2
+		}
+    }
+
+    CAL_leonard_townsend_gerow = {
+        name = "Leonard Townsend Gerow"
+        portraits = {
+			army = {
+				large = "gfx/leaders/CAL/Portrait_CAL_Leonard_Townsend_gerow.dds"
+			}
+		}
+        corps_commander = {
+			traits = {
+                organizer
+                infantry_officer
+            }
+			skill = 3
+			attack_skill = 3
+			defense_skill = 2
+			planning_skill = 3
+			logistics_skill = 3
+		}
+    }
+
+    CAL_ulysses_simpson_grant_iii = {
+        name = "Ulysses Simpson Grant III"
+        portraits = {
+			army = {
+				large = "gfx/leaders/CAL/Portrait_CAL_Ulysses_Simpson_grant_III.dds"
+			}
+		}
+        corps_commander = {
+            traits = { 
+		        infantry_leader
+		        media_personality
+		        skilled_staffer
+		        inflexible_strategist
+	        }
+	        skill = 3
+	        attack_skill = 2
+	        defense_skill = 2
+	        planning_skill = 4
+	        logistics_skill = 3
+        }
+    }
+
     CAL_hobart_raymond_gay = {
         name = "Hobart Raymond Gay"
         portraits = {
