@@ -177,6 +177,75 @@ characters = {
         }
     }
 
+    CAL_lewis_burwell_puller = {
+        name = "Lewis Burwell Puller"
+        portraits = {
+			army = {
+				large = "gfx/leaders/CAL/Portrait_CAL_Lewis_Burwell_Puller.dds"
+			}
+		}
+        corps_commander = {
+            traits = {
+		        harsh_leader
+		        career_officer
+		        commando
+		        naval_invader
+	        }
+	        skill = 3
+	        attack_skill = 3
+	        defense_skill = 1
+	        planning_skill = 4
+	        logistics_skill = 2
+        }
+    }
+
+    CAL_hobart_raymond_gay = {
+        name = "Hobart Raymond Gay"
+        portraits = {
+			army = {
+				large = "gfx/leaders/CAL/Portrait_CAL_Hobart_Raymond_Gay.dds"
+			}
+		}
+        corps_commander = {
+            traits = {
+				panzer_leader
+				armor_officer
+				trait_reckless
+			}
+            skill = 4
+			attack_skill = 2
+			defense_skill = 3
+			planning_skill = 3
+			logistics_skill = 3
+        }
+    }
+
+    CAL_charles_hartwell_bonesteel_iii = {
+        name = "Charles Hartwell Bonesteel III"
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/CAL/Portrait_CAL_Charles_Hartwell_Bonesteel_III.dds"
+            }
+            army = {
+                large = "gfx/leaders/CAL/Portrait_CAL_Charles_Hartwell_Bonesteel_III.dds"
+            }
+        }
+        corps_commander = {
+			#desc = dont' leave equal symbol empty 
+            traits = {
+				infantry_leader
+				infantry_expert
+				trickster
+				harsh_leader
+			}
+			skill = 4
+            attack_skill = 5
+            defense_skill = 3
+            planning_skill = 3
+            logistics_skill = 2
+        }
+    }
+
     ### Admirals ###
 
 
