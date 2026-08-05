@@ -1,7 +1,14 @@
-### Army Advisor Traits ###
+leader_traits = {
+    ### Chief of Staff Traits ###
+    
+
+    ### Army Advisor Traits ###
 
 
-### Navy Advisor Traits ###
+    ### Navy Advisor Traits ###
 
 
-### Air Advisor Traits ###
+    ### Air Advisor Traits ###
+
+}
+

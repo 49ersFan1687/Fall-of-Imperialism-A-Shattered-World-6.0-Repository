@@ -134,7 +134,48 @@ characters = {
     }
 
     ### Corps Commanders ###
+    CAL_walton_harris_walker = {
+        name = "Walton Harris Walker"
+        portraits = {
+            army = {
+                large = "gfx/leaders/CAL/Portrait_CAL_Walton_Harris_Walker.dds"
+            }
+        }
+        corps_commander = {
+            traits = {
+                politically_connected
+                career_officer
+                panzer_leader
+                armored_officer
+            }
+            skill = 2
+	        attack_skill = 4
+	        defense_skill = 2
+	        planning_skill = 4
+	        logistics_skill = 2
+        }
+    }
 
+    CAL_smedley_darlington_butler = {
+        name = "Smedley Darlington Butler"
+        portraits = {
+			army = {
+				large = "gfx/leaders/CAL/Portrait_CAL_Smedley_Darlington_Butler.dds"
+			}
+		}
+        corps_commander = {
+            traits = {
+				inspirational_leader
+				commando
+				naval_invader
+			}
+			skill = 4
+			attack_skill = 4
+			defense_skill = 2
+			planning_skill = 4
+			logistics_skill = 4
+        }
+    }
 
     ### Admirals ###
 
