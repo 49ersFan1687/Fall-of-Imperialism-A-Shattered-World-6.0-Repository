@@ -1,0 +1,35 @@
+state={
+	id=1205
+	name="STATE_1205"
+	
+	resources={
+		steel=1
+		oil=1
+	}
+	
+	history={
+		owner = OCA
+		add_core_of = OCA
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		
+		victory_points = { # Vicksburg
+			10410 10 
+		}
+		victory_points = { # Greenville
+			4510 5 
+		}
+	}
+	
+	provinces={
+		4510 7464 10410 10753 11717 12328 14059 14060
+	}
+	manpower=994986
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

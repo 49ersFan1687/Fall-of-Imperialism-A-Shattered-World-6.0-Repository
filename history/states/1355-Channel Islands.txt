@@ -1,0 +1,24 @@
+state={
+	id=1355
+	name="STATE_1355"
+	
+	history={
+		owner = OCA
+		add_core_of = OCA
+		
+		buildings = {
+			infrastructure = 1
+			13912 = {
+				naval_base = 1
+			}
+		}
+	}
+	
+	provinces={
+		13912 13913 
+	}
+	manpower=12523
+	buildings_max_level_factor=1.000
+	state_category=tiny_island
+	local_supplies=0.000
+}

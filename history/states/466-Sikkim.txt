@@ -1,0 +1,26 @@
+
+state={
+	id=466
+	name="STATE_466"
+	resources={
+		aluminium=4.000
+	}
+
+	history={
+		owner = ESA
+		add_core_of = BAN
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		4435 
+	}
+	manpower=316385	
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

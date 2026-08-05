@@ -1,0 +1,31 @@
+
+state={
+	id=306
+	name="STATE_306"
+
+	history={
+		owner = GRA
+		add_core_of = GRA
+		add_core_of = COL
+		
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 5
+			air_base = 2
+		}
+		
+		victory_points = {
+			10747 20 
+		}
+
+	}
+
+	provinces={
+		7993 10747 10790 
+	}
+	manpower=8101377
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+	local_supplies=4.000
+}

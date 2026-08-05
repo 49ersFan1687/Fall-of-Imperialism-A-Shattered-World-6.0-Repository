@@ -1,0 +1,30 @@
+
+state={
+	id=385
+	name="STATE_385"
+	manpower = 1063000
+	
+	state_category = city
+
+	history={
+		owner = OCA
+		add_core_of = OCA
+		
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 3
+			arms_factory = 2
+			air_base = 6
+		}
+		
+		victory_points = { # Portland
+			3513 20 
+		}
+	}
+
+	provinces={
+		3513 13819 13820 13821
+	}
+
+	local_supplies=0.0 
+}

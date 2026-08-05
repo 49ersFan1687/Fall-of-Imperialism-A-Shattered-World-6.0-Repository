@@ -1,0 +1,24 @@
+state={
+	id=1144
+	name="STATE_1144"
+	
+	resources = {
+		coal = 4
+	}
+	
+	history={
+		owner = SIA
+		add_core_of = SIA
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces={
+		10330 10356 
+	}
+	manpower=87000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

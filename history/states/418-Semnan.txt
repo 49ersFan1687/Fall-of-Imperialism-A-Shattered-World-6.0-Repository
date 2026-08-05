@@ -1,0 +1,29 @@
+
+state={
+	id=418
+	name="STATE_418"
+	manpower = 1262975
+	
+	resources = {
+		coal = 20
+	}
+	
+	state_category = rural
+
+	history={
+		owner = EUR
+		buildings = {
+			infrastructure = 1
+		}
+		victory_points = {
+			8093 1 
+		}
+		add_core_of = EUR
+	}
+
+	provinces={
+		8009 8093 10873 11671 12704 12748 12818 
+	}
+
+	local_supplies=0.0 
+}

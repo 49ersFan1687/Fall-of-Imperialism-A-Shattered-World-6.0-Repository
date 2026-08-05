@@ -1,0 +1,25 @@
+state={
+	id=1334
+	name="STATE_1334"
+	
+	resources={
+		aluminium=8
+	}
+	
+	history={
+		owner = OCA
+		add_core_of = OCA
+		
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces={
+		4347 13801 13802 13804 13805 
+	}
+	manpower=50179
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+}

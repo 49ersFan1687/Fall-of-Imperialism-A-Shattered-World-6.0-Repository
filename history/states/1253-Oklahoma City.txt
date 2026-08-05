@@ -1,0 +1,30 @@
+state={
+	id=1253
+	name="STATE_1253"
+	
+	history={
+		owner = OCA
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = OCA
+		
+		victory_points = { # Oklahoma City
+			7904 20
+		}
+		
+		victory_points = { # Norman
+			5103 3
+		}
+	}
+	
+	provinces={
+		5103 7904 13526 13531 13532 13533 
+	}
+	manpower=525685
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

@@ -1,0 +1,30 @@
+state={
+	id=1056
+	name="STATE_1056"
+	
+	resources = {
+		coal = 10
+	}
+	
+	history={
+		owner = OCA
+		add_core_of = OCA
+		
+		buildings = {
+			infrastructure = 3
+		}
+		
+		victory_points = { # Nottingham
+			364 10
+		}
+
+	}
+	
+	provinces={
+		364 
+	}
+	manpower=967734
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

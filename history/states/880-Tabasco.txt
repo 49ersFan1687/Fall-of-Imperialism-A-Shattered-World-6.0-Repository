@@ -1,0 +1,25 @@
+
+state={
+	id=880
+	name="STATE_880"
+
+	history={
+		owner = YUC
+		victory_points = { # Villahermosa
+			2021 5 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 2
+		}
+		add_core_of = YUC
+	}
+
+	provinces={
+		2021 
+	}
+	manpower=1322961	
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

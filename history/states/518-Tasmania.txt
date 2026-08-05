@@ -1,0 +1,47 @@
+state=
+{
+	id=518
+	name="STATE_518"
+	manpower = 364294
+	
+	state_category = town
+	
+	resources = {
+		coal = 12
+	}
+
+	history=
+	{
+		owner = OCA
+		victory_points = { # Hobart
+			2189 10 
+		}
+		victory_points = { # Port Arthur
+			5187 1 
+		}
+		victory_points = { # Launceston
+			12645 5 
+		}
+		victory_points = { # Devonport
+			5181 1 
+		}
+		victory_points = { # Stanley
+			10665 1 
+		}
+		victory_points = { # Strahan
+			2183 1 
+		}
+		buildings = {
+			infrastructure = 3 #was: 5
+			2189 = {
+				naval_base = 2
+			}
+		}
+		add_core_of = OCA
+	}
+	provinces={
+		2183 2189 5181 5187 10665 12645
+	}
+
+	local_supplies=0.0 
+}

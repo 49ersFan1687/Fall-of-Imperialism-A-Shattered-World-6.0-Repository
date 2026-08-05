@@ -1,0 +1,33 @@
+state={
+	id=1208
+	name="STATE_1208"
+	
+	resources={
+		steel=12
+	}
+	
+	history={
+		owner = OCA
+		buildings = {
+			infrastructure = 3 #was: 6
+			industrial_complex = 3
+			arms_factory = 1
+		}
+		add_core_of = OCA
+		
+		victory_points = { # Mankato
+			4807 5 
+		}
+		victory_points = { # Rochester
+			4664 5 
+		}
+	}
+	
+	provinces={
+		1867 4664 4807 7536 12577 
+	}
+	manpower=1039426
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

@@ -1,0 +1,35 @@
+state={
+	id=1196
+	name="STATE_1196"
+	
+	resources={
+		steel=1
+		aluminium=6
+		oil=1
+	}
+	
+	history={
+		owner = OCA
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 2
+		}
+		add_core_of = OCA
+		victory_points = { # Bentonville
+			4567 5
+		}
+		victory_points = { # Searcy
+			10477 5
+		}
+
+	}
+	
+	provinces={
+		4567 4597 7586 10477 12778 
+	}
+	manpower=533546
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

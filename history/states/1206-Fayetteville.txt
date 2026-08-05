@@ -1,0 +1,29 @@
+state={
+	id=1206
+	name="STATE_1206"
+	
+	resources={
+		tungsten=3
+	}
+	
+	history={
+		owner = OCA
+		add_core_of = OCA
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		victory_points = {
+			10281 5 
+		}
+
+	}
+	
+	provinces={
+		1758 10281 14041 14042 14043
+	}
+	manpower=388962
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

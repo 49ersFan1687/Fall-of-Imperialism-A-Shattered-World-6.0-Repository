@@ -1,0 +1,30 @@
+
+state={
+	id=754
+	name="STATE_754"
+
+	history={
+		owner = MAL
+		add_core_of = MAL
+		victory_points = {
+			10212 3 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 1
+			10212 = {
+				naval_base = 2
+			}
+		}
+
+	}
+
+	provinces={
+		4338 10212 12171 
+	}
+	manpower=761528
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

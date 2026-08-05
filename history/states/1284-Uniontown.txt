@@ -1,0 +1,34 @@
+state={
+	id=1284
+	name="STATE_1284"
+	
+	resources={
+		steel=8
+		coal = 4
+	}
+	
+	history={
+		owner = OCA
+		add_core_of = OCA
+		
+		buildings = {
+			infrastructure = 3
+		}
+		
+		victory_points = { # Bethel Park
+			13555 5
+		}
+		
+		victory_points = { # Monessen
+			13556 5
+		}
+	}
+	
+	provinces={
+		3802 13555 13556
+	}
+	manpower=590758
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

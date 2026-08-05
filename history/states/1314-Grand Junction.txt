@@ -1,0 +1,33 @@
+state={
+	id=1314
+	name="STATE_1314"
+	
+	resources={
+		steel=4
+		tungsten=12
+		oil=5
+		coal=20
+	}
+	
+	history={
+		owner = OCA
+		add_core_of = OCA
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		
+		victory_points = { # Grand Junction
+			7684 5 
+		}
+	}
+	
+	provinces={
+		1658 7684 13447 13666 13667 13683 13684 13685 14381
+	}
+	manpower=452692
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

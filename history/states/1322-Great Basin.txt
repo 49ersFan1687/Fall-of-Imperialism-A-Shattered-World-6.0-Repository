@@ -1,0 +1,27 @@
+state={
+	id=1322
+	name="STATE_1322"
+	
+	resources={
+		steel=32
+		tungsten=12
+		aluminium=24
+	}
+
+	history={
+		owner = OCA
+		add_core_of = OCA
+		
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces={
+		1862 4521 7827 7879 10591 12399 12425 13671 13735 14135 14136
+	}
+	manpower=52600
+	buildings_max_level_factor=1.000
+	state_category = wasteland
+	local_supplies=0.000
+}

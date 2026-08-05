@@ -1,0 +1,39 @@
+state={
+	id=1403
+	name="STATE_1403"
+
+	history={
+		owner = ESA
+		add_core_of = ESA
+		
+		buildings = {
+			infrastructure = 4
+			air_base = 4
+			dockyard = 3
+			arms_factory = 1
+			industrial_complex = 3
+			
+			1092 = {
+				naval_base = 10
+				naval_headquarters = {
+					level = 1
+					allowed = {
+						has_dlc = "No Compromise, No Surrender"
+					}
+				}
+			}
+		}
+		
+		victory_points = {
+			1092 30
+		}
+	}
+	
+	provinces={
+		1092 
+	}
+	manpower=1898000
+	buildings_max_level_factor=1
+	state_category=city
+	local_supplies=0
+}

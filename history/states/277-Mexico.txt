@@ -1,0 +1,32 @@
+
+state={
+	id=277
+	name="STATE_277"
+	resources={
+		steel=6.000
+	}
+
+	history={
+		owner = MZT
+		buildings = {
+			infrastructure = 3
+			arms_factory = 2
+			industrial_complex = 4
+			air_base = 3
+
+		}
+		add_core_of = MZT
+		victory_points = { # Mexico
+			1965 50
+		}
+
+	}
+
+	provinces={
+		1965 
+	}
+	manpower=23389044
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+	local_supplies=0.000
+}

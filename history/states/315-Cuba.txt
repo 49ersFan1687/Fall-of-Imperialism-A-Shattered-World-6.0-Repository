@@ -1,0 +1,43 @@
+
+state={
+	id=315
+	name="STATE_315"
+	resources={
+		steel=3.000
+		chromium=90.000
+	}
+
+	history={
+		owner = OCA
+		add_core_of = OCA
+		
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 1
+			air_base = 1
+			7622 = {
+				naval_base = 3
+				naval_headquarters = {
+					level = 1
+					allowed = {
+						has_dlc = "No Compromise, No Surrender"
+					}
+				}
+			}
+		}
+		
+		victory_points = { # Havana
+			7622 20 
+		}
+
+	}
+
+	provinces={
+		7622 
+	}
+	manpower=2718900
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

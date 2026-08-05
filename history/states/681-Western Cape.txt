@@ -1,0 +1,37 @@
+
+state={
+	id=681
+	name="STATE_681"
+
+	history={
+		owner = OCA
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			air_base = 1
+			12589 = {
+				naval_base = 4
+				naval_headquarters = {
+					level = 1
+					allowed = {
+						has_dlc = "No Compromise, No Surrender"
+					}
+				}
+			}
+
+		}
+		victory_points = {
+			12589 20 
+		}
+		add_core_of = OCA
+
+	}
+
+	provinces={
+		4822 10415 12547 12589 12692 
+	}
+	manpower=4013830
+	buildings_max_level_factor=1.000
+	state_category=large_city
+	local_supplies=0.000
+}

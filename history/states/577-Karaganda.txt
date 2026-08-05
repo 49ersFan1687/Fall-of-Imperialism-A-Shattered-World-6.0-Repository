@@ -1,0 +1,26 @@
+
+state={
+	id=577
+	name="STATE_577"
+	resources={
+		oil=13.000
+	}
+
+	history={
+		owner = EUR
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = EUR
+
+	}
+
+	provinces={
+		1239 1287 1402 4232 4333 4595 7332 7335 7350 7405 7407 7425 10292 12152 
+	}
+	manpower=1713208	
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

@@ -1,0 +1,34 @@
+
+state={
+	id=967
+	name="STATE_967"
+	
+	resources = {
+		coal=12
+	}
+
+	history={
+		owner = COL
+		add_core_of = COL
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 3
+			air_base = 1
+
+		}
+		
+		victory_points = {
+			7936 10 
+		}
+
+	}
+
+	provinces={
+		2079 7936 
+	}
+	manpower=4970918
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

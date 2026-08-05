@@ -1,0 +1,29 @@
+
+state={
+	id=588
+	name="STATE_588"
+	resources={
+		chromium=10.000
+	}
+
+	history={
+		owner = EUR
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = EUR
+		victory_points = { # Oskemen
+			1864 5
+		}
+
+	}
+
+	provinces={
+		1749 1818 1864 7890 10610 12427 12564 13151 
+	}
+	manpower=1567225
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

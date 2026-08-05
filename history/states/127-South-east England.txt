@@ -1,0 +1,27 @@
+
+state={
+	id=127
+	name="STATE_127"
+
+	history={
+		owner = OCA
+		buildings = {
+			infrastructure = 3
+			synthetic_refinery = 2
+
+		}
+		add_core_of = OCA
+		
+		victory_points = { # Worthing
+			11446 5
+		}
+	}
+
+	provinces={
+		11446
+	}
+	manpower=1274684
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=16.000
+}

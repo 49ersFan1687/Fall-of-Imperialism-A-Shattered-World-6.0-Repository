@@ -1,0 +1,39 @@
+
+state={
+	id=148
+	name="STATE_148"
+	resources={
+		steel=7.000
+		chromium=2.000
+	}
+
+	history={
+		owner = EUR
+		victory_points = {
+			11164 2 
+		}
+		victory_points = {
+			6087 1 
+		}
+		victory_points = {
+			11125 1 
+		}
+		victory_points = {
+			6142 1 
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = EUR
+
+	}
+
+	provinces={
+		30 103 124 162 167 203 2992 3055 3069 3097 3107 3158 3193 6061 6076 6087 6128 6137 6142 6179 9112 9189 9223 11030 11115 11125 11130 11164 11167 11204 
+	}
+	manpower=200571
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=3.000
+}

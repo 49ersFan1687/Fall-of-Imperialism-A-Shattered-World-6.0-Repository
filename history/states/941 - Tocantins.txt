@@ -1,0 +1,31 @@
+
+state={
+	id=941
+	name="STATE_941"
+
+	history={
+		owner = ATL
+		add_core_of = ATL
+		
+		buildings = {
+			infrastructure = 0
+		}
+		
+		victory_points = { # Palmas
+			13334 5 
+		}
+		
+		victory_points = { # Araguaína
+			13299 5 
+		}
+
+	}
+
+	provinces={
+		2168 5151 13299 13300 13333 13334 
+	}
+	manpower=975176
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

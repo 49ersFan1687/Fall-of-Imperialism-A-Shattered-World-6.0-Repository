@@ -1,0 +1,32 @@
+state={
+	id=1449
+	name="STATE_1449"
+	
+	resources={
+		steel=12
+		oil=1
+		coal = 10
+	}
+	
+	history={
+		owner = OCA
+		add_core_of = OCA
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		
+		victory_points = { # Altoona
+			3850 5
+		}
+	}
+	
+	provinces={
+		847 880 3850 6872 9789 11758 11769 11789 
+	}
+	manpower=614673
+	buildings_max_level_factor=1
+	state_category = rural
+	local_supplies=0
+}

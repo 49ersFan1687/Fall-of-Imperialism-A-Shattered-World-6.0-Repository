@@ -1,0 +1,25 @@
+state={
+	id=898
+	name="STATE_898"
+	manpower = 963600
+	state_category = rural
+
+	history={
+		owner = FWA
+		add_core_of = FWA
+		add_core_of = MLI
+		
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		5101 
+	}
+	
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

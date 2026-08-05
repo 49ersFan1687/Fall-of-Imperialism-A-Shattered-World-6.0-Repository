@@ -1,0 +1,21 @@
+state={
+	id=1432
+	name="STATE_1432"
+
+	history={
+		owner = SHP
+		add_core_of = SHP
+		add_core_of = PRU
+		
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	provinces={
+		5162 
+	}
+	manpower=109508
+	buildings_max_level_factor=1
+	state_category=rural
+	local_supplies=0
+}

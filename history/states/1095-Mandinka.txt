@@ -1,0 +1,20 @@
+state={
+	id=1095
+	name="STATE_1095"
+	history={
+		owner = FWA
+		add_core_of = FWA
+		add_core_of = GNA
+		
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	provinces={
+		4957 5039 8008 
+	}
+	manpower=1656600
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

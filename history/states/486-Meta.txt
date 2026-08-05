@@ -1,0 +1,25 @@
+
+state={
+	id=486
+	name="STATE_486"
+
+	history={
+		owner = GRA
+		add_core_of = GRA
+		add_core_of = COL
+		
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		1887 2007 5026 10792 12729 13352 
+	}
+	manpower=1000295
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

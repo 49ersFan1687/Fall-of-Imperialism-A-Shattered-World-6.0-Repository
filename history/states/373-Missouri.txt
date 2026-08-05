@@ -1,0 +1,41 @@
+
+state={
+	id=373
+	name="STATE_373"
+	manpower = 2032055
+	
+	state_category = town
+	
+	resources={
+		steel=8
+		aluminium=12
+		coal=8
+	}
+
+
+	history={
+		owner = OCA
+		add_core_of = OCA
+		
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 4
+			arms_factory = 1
+		}
+		
+		victory_points = { # Springfield
+			10370 5 
+		}
+		
+		victory_points = { # Joplin
+			1534 5 
+		}
+
+	}
+
+	provinces={
+		1441 1534 1564 1621 4449 4540 10370 12346 12463 14108
+	}
+
+	local_supplies=7.0 
+}

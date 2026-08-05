@@ -1,0 +1,27 @@
+
+state={
+	id=891
+	name="STATE_891"
+	resources={
+		rubber=2.000
+		steel=24.000
+	}
+
+	history={
+		owner = FRT
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = FRT
+
+	}
+
+	provinces={
+		1552 4735 7548 8054 
+	}
+	manpower=1337319
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

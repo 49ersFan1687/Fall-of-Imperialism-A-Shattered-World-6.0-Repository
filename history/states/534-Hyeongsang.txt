@@ -1,0 +1,42 @@
+
+state={
+	id=534
+	name="STATE_534"
+	
+	resources = {
+		coal=16
+	}
+
+	history={
+		owner = ESA
+		add_core_of = ESA
+		buildings = {
+			infrastructure = 2
+			arms_factory = 2
+			industrial_complex = 2
+			fuel_silo = 1
+			4056 = {
+				naval_base = 3
+				naval_headquarters = {
+					level = 1
+					allowed = {
+						has_dlc = "No Compromise, No Surrender"
+					}
+				}
+			}
+
+		}
+		victory_points = {
+			4056 10 
+		}
+
+	}
+
+	provinces={
+		1054 1081 4056 4086 4103 7121 10115 11912 12060 12089 
+	}
+	manpower=10789436
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+	local_supplies=0.000
+}

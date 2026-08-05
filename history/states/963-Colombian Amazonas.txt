@@ -1,0 +1,22 @@
+
+state={
+	id=963
+	name="STATE_963"
+
+	history={
+		owner = COL
+		add_core_of = COL
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+
+	provinces={
+		12770 12825 13348 13349 
+	}
+	manpower=129937
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

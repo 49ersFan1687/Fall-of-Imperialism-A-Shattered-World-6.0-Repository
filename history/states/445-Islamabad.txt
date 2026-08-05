@@ -1,0 +1,27 @@
+
+state={
+	id=445
+	name="STATE_445"
+
+	history={
+		victory_points = { # Islamabad
+			10173 10
+		}
+		owner = PAK
+		buildings = {
+			infrastructure = 2
+			air_base = 4
+
+		}
+		add_core_of = PAK
+
+	}
+
+	provinces={
+		10173 
+	}
+	manpower=246000
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

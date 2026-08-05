@@ -1,0 +1,23 @@
+
+state={
+	id=674
+	name="STATE_674"
+
+	history={
+		owner = EUR
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = EUR
+
+	}
+
+	provinces={
+		9109 11082 11188 13097 
+	}
+	manpower=238535
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

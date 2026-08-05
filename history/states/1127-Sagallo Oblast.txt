@@ -1,0 +1,31 @@
+state={
+	id=1127
+	name="STATE_1127"
+	
+	history={
+		owner = SAG
+		add_core_of = SAG
+		add_core_of = SOM
+		victory_points = { # Novaya Moskva
+			4985 15
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+			air_base = 3
+			4985 = {
+				naval_base = 5
+			}
+		}
+
+	}
+	
+	provinces={
+		4985 
+	}
+	manpower=357810
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

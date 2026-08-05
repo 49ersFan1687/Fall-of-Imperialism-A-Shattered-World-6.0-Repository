@@ -1,0 +1,32 @@
+state=
+{
+	id=269
+	name="STATE_269"
+	manpower = 714219
+	
+	state_category = town
+	
+	history= {
+		victory_points = { 
+			10833 1
+		}
+		victory_points = { 
+			5068 1
+		}
+		owner = SAG
+		add_core_of = SOM
+		buildings = {
+			infrastructure = 2
+			arms_factory = 2
+			industrial_complex = 3
+			10833 = {
+				naval_base = 1
+			}
+		}
+	}
+	provinces={
+		5068 10777 10833
+	}
+
+	local_supplies=0.0 
+}

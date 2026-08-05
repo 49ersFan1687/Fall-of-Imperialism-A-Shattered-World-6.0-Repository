@@ -1,0 +1,25 @@
+state={
+	id=1041
+	name="STATE_1041"
+	
+	history={
+		owner = OCA
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = OCA
+		
+		victory_points = { # Salisbury
+			6351 5 
+		}
+	}
+	
+	provinces={
+		6351 11471 
+	}
+	manpower=504984
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

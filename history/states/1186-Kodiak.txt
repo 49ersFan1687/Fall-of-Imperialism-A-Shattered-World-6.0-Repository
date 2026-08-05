@@ -1,0 +1,25 @@
+state={
+	id=1186
+	name="STATE_1186"
+	
+	resources = {
+		steel=2
+	}
+	
+	history={
+		owner = OCA
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = OCA
+
+	}
+	
+	provinces={
+		1135 1830 7884 10679 10694 12661 13090 
+	}
+	manpower=39734
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

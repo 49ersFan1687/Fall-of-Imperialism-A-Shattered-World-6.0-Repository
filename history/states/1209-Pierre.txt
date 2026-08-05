@@ -1,0 +1,32 @@
+state={
+	id=1209
+	name="STATE_1209"
+	
+	resources={
+		steel=1
+	}
+	
+	history={
+		owner = OCA
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		add_core_of = OCA
+		victory_points = { # Pierre
+			12620 10 
+		}
+		victory_points = { # Sioux Falls
+			10595 5 
+		}
+
+	}
+	
+	provinces={
+		4880 7862 10569 10595 12620 12667 
+	}
+	manpower=404405
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

@@ -1,0 +1,27 @@
+state={
+	id=1375
+	name="STATE_1375"
+
+	history={
+		owner = MAL
+		add_core_of = MAL
+		victory_points = {
+			7329 4
+		}
+		victory_points = {
+			12199 4 
+		}
+		buildings = {
+			infrastructure = 2
+		}
+
+	}
+
+	provinces={
+		4355 7329 10227 12199 
+	}
+	manpower=1384525
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

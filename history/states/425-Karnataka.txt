@@ -1,0 +1,38 @@
+
+state={
+	id=425
+	name="STATE_425"
+	resources={
+		chromium=10.000
+	}
+
+	history={
+		owner = PID
+		add_core_of = RAJ
+		add_core_of = PID
+		victory_points = { # Bangalore
+			8011 20 
+		}
+		victory_points = { # Mangaluru
+			7244 5 
+		}
+		victory_points = { # Hubballi
+			4278 5 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 1
+
+		}
+
+	}
+
+	provinces={
+		1412 4278 4291 4315 4344 5032 7244 7250 7395 7411 8011 8100 10190 10208 10259 10799 12105 12146 12208 12734 
+	}
+	manpower=36678422
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

@@ -1,0 +1,43 @@
+state={
+	id=1340
+	name="STATE_1340"
+	
+	history={
+		owner = OCA
+		add_core_of = OCA
+		
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 3
+			dockyard = 2
+			13979 = {
+				naval_base = 4
+			}
+		}
+		
+		victory_points = { # Oakland
+			13979 10
+		}
+		
+		victory_points = { # Fremont
+			13977 5
+		}
+		
+		victory_points = { # Berkeley
+			13978 5
+		}
+		
+		victory_points = { # Martinez
+			3678 5
+		}
+	}
+	
+	provinces={
+		3678 13951 13953 13968 13969 13973 13977 13978 13979 13980 14137
+	}
+	manpower=1654991
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

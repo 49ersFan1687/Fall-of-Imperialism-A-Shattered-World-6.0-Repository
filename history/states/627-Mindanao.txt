@@ -1,0 +1,30 @@
+
+state={
+	id=627
+	name="STATE_627"
+	manpower = 2198683 #Mindanao will be split into their respective regions, 2 of which are demilitarized,CARAGA=1371512=
+	
+	state_category = large_town
+
+	history={
+		owner = PHI
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			air_base = 1
+			4241 = {
+				naval_base = 1
+			}
+		}
+		victory_points = {
+			4241 10
+		}
+		add_core_of = PHI
+	}
+
+	provinces={
+		1407 4241 7284 10328 12158 
+	}
+
+	local_supplies=0.0 
+}

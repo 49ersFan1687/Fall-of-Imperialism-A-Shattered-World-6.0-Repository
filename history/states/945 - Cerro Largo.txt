@@ -1,0 +1,40 @@
+
+state = {
+	id = 945
+	name = "STATE_945"
+	manpower = 850391
+	
+	state_category = large_town
+	
+	resources = {
+		steel = 2
+	}
+
+	history = { 
+
+		owner = PAM
+		add_core_of = PAM
+		add_core_of = URG
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			dockyard = 1
+		}
+
+		victory_points = { # Melo
+			1641 5
+		}
+
+		victory_points = { # Punta del Este
+			12336 10
+		}
+
+	}
+
+	provinces = {
+		1641 1654 10347 12336 12481
+	}
+
+	local_supplies = 0.0 
+}

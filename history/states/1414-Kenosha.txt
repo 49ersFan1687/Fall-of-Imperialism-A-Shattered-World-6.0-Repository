@@ -1,0 +1,32 @@
+state={
+	id=1414
+	name="STATE_1414"
+	
+	resources={
+		steel=10
+	}
+
+	history={
+		owner = OCA
+		add_core_of = OCA
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		
+		victory_points = { # Kenosha
+			13583 5 
+		}
+		
+		victory_points = { # Beloit
+			9657 5
+		}
+	}
+	provinces={
+		9657 13579 13580 13581 13583 
+	}
+	manpower=672595
+	buildings_max_level_factor=1
+	state_category=town
+	local_supplies=0
+}

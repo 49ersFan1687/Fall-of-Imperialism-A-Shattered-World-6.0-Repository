@@ -1,0 +1,30 @@
+state={
+	id=136
+	name="STATE_136"
+	resources={
+		tungsten=4.000
+		aluminium=3.000
+	}
+	history={
+		owner = OCA
+		add_core_of = OCA
+		buildings = {
+			infrastructure = 3
+			synthetic_refinery = 1
+			dockyard = 2
+		}
+		victory_points = {
+			200 5 #Aberdeen
+		}
+		victory_points = {
+			3150 1 #Dundee
+		}
+	}
+	provinces={
+		200 3150 11055 11136 11207 
+	}
+	manpower=671659
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

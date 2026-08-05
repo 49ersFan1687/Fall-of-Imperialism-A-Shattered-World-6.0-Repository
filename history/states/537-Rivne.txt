@@ -1,0 +1,32 @@
+
+state={
+	id=537
+	name="STATE_537"
+	resources={
+		oil=3.000
+	}
+
+	history={
+		victory_points = {
+			6435 2 
+		}
+		victory_points = {
+			6520 1 
+		}
+		owner = EUR
+		add_core_of = EUR
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		474 6435 6520 6557 11543 
+	}
+	manpower=981934
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

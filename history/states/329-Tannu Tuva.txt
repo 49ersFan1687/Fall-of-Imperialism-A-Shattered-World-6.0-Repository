@@ -1,0 +1,42 @@
+
+state={
+	id=329
+	name="STATE_329"
+	manpower = 305000
+	resources={
+		chromium=2 # was: 2
+	}
+	
+	state_category = rural
+
+	history={
+		owner = EUR
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 1
+		}
+		victory_points = { # Kyzyl
+			10627 5
+		}
+		victory_points = { # Turan
+			10646 3
+		}
+		victory_points = { # Erzin
+			1877 1
+		}
+		victory_points = { # Toora-Khem
+			12625 1
+		}
+		victory_points = { # Kyzyl-Khaya
+			7804 1
+		}
+		add_core_of = EUR
+	}
+
+	provinces={
+		1676 1877 4680 7703 7731 7804 7819 10597 10627 10646 12610 12625 
+	}
+
+	local_supplies=0.0 
+}

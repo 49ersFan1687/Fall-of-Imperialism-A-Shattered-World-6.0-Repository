@@ -1,0 +1,23 @@
+
+state={
+	id=759
+	name="STATE_759"
+
+	history={
+		owner = INS
+		add_core_of = INS
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		1413 7223 7642 10135 12277 12293 
+	}
+	manpower=23979998
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

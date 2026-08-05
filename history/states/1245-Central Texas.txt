@@ -1,0 +1,36 @@
+state={
+	id=1245
+	name="STATE_1245"
+	
+	resources={
+		steel=12
+		aluminium=6
+		tungsten=2
+		oil=52
+	}
+	
+	history={
+		owner = OCA
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		add_core_of = OCA
+		
+		victory_points = { # Waco
+			5022 10
+		}
+		
+		victory_points = { # Killeen
+			13502 5
+		}
+	}
+	
+	provinces={
+		1915 5022 6798 7836 7981 8064 12728 12875 13502 13503 
+	}
+	manpower=1170336
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

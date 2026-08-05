@@ -1,0 +1,31 @@
+state={
+	id=1363
+	name="STATE_1363"
+	
+	resources={
+		oil=12
+	}
+	
+	history={
+		owner = OCA
+		add_core_of = OCA
+		
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+		}
+		
+		victory_points = { # Fresno
+			6876 15
+		}
+	}
+	
+	provinces={
+		6876 13960 13961 
+	}
+	manpower=802861
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

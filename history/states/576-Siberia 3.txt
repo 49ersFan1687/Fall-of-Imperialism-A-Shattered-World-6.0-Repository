@@ -1,0 +1,38 @@
+
+state={
+	id=576
+	name="STATE_576"
+	
+	resources = {
+		coal = 48
+	}
+
+	history={
+		owner = EUR
+		buildings = {
+			infrastructure = 3
+			arms_factory = 2
+			industrial_complex = 3
+
+		}
+		add_core_of = EUR
+		victory_points = { # Kemerovo
+			4665 15 
+		}
+		victory_points = { # Novokuznetsk
+			1685 10
+		}
+		victory_points = { # Prokopyevsk
+			1369 5
+		}
+
+	}
+
+	provinces={
+		1369 1685 4665 4789 4793 7757 7822 7886 12631 
+	}
+	manpower=3042066
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=5.000
+}

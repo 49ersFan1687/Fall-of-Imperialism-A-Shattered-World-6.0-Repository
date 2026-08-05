@@ -1,0 +1,25 @@
+state={
+	id=1453
+	name="STATE_1453"
+	
+	history={
+		owner = OCA
+		add_core_of = OCA
+		
+		buildings = {
+			infrastructure = 2
+		}
+		
+		victory_points = { # Greeley
+			7780 5 
+		}
+	}
+	
+	provinces={
+		7780 11772 12570 12642 13662 13663 13664 13675 13676 13677 
+	}
+	manpower=416343
+	buildings_max_level_factor=1
+	state_category=rural
+	local_supplies=0
+}

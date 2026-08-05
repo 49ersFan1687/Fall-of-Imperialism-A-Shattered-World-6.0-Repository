@@ -1,0 +1,36 @@
+state={
+	id=1265
+	name="STATE_1265"
+	
+	history={
+		owner = OCA
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			11975 = {
+				naval_base = 5
+			}
+		}
+		add_core_of = OCA
+		
+		victory_points = { # Savannah
+			11975 10
+		}
+		
+		victory_points = { # Augusta
+			7118 10
+		}
+		
+		victory_points = { # Sandersville
+			14121 5
+		}
+	}
+	
+	provinces={
+		7118 10465 11975 14121
+	}
+	manpower=1546259
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

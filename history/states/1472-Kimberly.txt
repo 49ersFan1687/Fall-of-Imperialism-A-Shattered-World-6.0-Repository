@@ -1,0 +1,31 @@
+state={
+	id=1472
+	name="STATE_1472"
+	
+	resources = {
+		steel = 24
+		aluminium = 12
+		coal = 20
+		oil = 2
+	}
+	
+	history={
+		owner = OCA
+		add_core_of = OCA
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		
+		victory_points = { 14488 5 } # Broome
+	}
+	
+	provinces={
+		2201 5207 8155 8209 8247 10937 10958 11016 14486 14487 14488 14489 14490 14491 14492 14493 14494 14495 14496 14497 14498 14499 14500 14501 14502
+	}
+	manpower=200400
+	buildings_max_level_factor=1
+	state_category=rural
+	local_supplies=0
+}

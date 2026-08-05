@@ -1,0 +1,33 @@
+state={
+	id=1358
+	name="STATE_1358"
+	
+	resources={
+		steel=4
+		oil=12
+	}
+	
+	history={
+		owner = OCA
+		add_core_of = OCA
+		
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+			air_base = 3
+		}
+		
+		victory_points = { # Bakersfield
+			13965 10
+		}
+	}
+	
+	provinces={
+		4518 9911 11763 13893 13962 13963 13964 13965 13966 
+	}
+	manpower=714660
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

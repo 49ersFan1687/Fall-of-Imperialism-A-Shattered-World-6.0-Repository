@@ -1,0 +1,24 @@
+state={
+	id=1025
+	name="STATE_1025"
+	
+	resources = {
+		coal = 4
+	}
+	
+	history={
+		owner = FRT
+		add_core_of = FRT
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces={
+		1846 5221 10930 
+	}
+	manpower=1792480
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

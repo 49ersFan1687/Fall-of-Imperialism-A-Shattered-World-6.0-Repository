@@ -1,0 +1,22 @@
+state={
+	id=1474
+	name="STATE_1474"
+	
+	history={
+		owner = OCA
+		add_core_of = OCA
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+	}
+	
+	provinces={
+		1526 2157 4630 5175 10983 14458 14533 14534 14535 14536 14537 14538 14539 14540 14541
+	}
+	manpower=211000
+	buildings_max_level_factor=1
+	state_category=town
+	local_supplies=0
+}

@@ -1,0 +1,41 @@
+
+state={
+	id=403
+	name="STATE_403"
+	
+	resources={
+		oil=26.000
+		chromium=20.000
+		aluminium=8.000
+	}
+
+	history={
+		owner = EUR
+		victory_points = { # Tyumen
+			1387 15 
+		}
+		victory_points = { # Tobolsk
+			4754 5 
+		}
+		victory_points = { # Ishim
+			10670 3 
+		}
+		victory_points = { # Uvat
+			7833 1
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = EUR
+
+	}
+
+	provinces={
+		1387 1880 3472 4209 4659 4754 4780 4824 6787 7774 7833 7846 9512 10659 10670 12390 12521 
+	}
+	manpower=2727152	
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=3.000
+}

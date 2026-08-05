@@ -1,0 +1,27 @@
+
+state={
+	id=516
+	name="STATE_516"
+	
+	resources = {
+		coal = 8
+	}
+
+	history={
+		owner = EUR
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = EUR
+
+	}
+
+	provinces={
+		4686 7556 7777 10148 10366 10508 10601 12397 12487 
+	}
+	manpower=2067456
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

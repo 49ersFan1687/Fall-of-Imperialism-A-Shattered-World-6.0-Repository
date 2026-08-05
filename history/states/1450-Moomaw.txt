@@ -1,0 +1,26 @@
+state={
+	id=1450
+	name="STATE_1450"
+	
+	resources={
+		steel=6
+		aluminium=3
+	}
+
+	history={
+		owner = OCA
+		add_core_of = OCA
+		
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	
+	provinces={
+		13545 14105 
+	}
+	manpower=68961
+	buildings_max_level_factor=1
+	state_category=underpopulated_region
+	local_supplies=0
+}

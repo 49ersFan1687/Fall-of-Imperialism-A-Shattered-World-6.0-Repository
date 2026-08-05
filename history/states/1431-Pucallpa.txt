@@ -1,0 +1,28 @@
+state={
+	id=1431
+	name="STATE_1431"
+	
+	history = {
+
+		owner = SHP
+		add_core_of = SHP
+		add_core_of = PRU
+
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+		}
+
+		victory_points = { # Pucallpa
+			2226 5
+		}
+	}
+	
+	provinces={
+		2226 
+	}
+	manpower=273727
+	buildings_max_level_factor=1
+	state_category=rural
+	local_supplies=0
+}

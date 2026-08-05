@@ -1,0 +1,27 @@
+state={
+	id=1096
+	name="STATE_1096"
+	history={
+		owner = FWA
+		add_core_of = FWA
+		add_core_of = GNA
+		
+		buildings = {
+			infrastructure = 2
+			1909 = {
+				naval_base = 1
+			}
+		}
+		
+		victory_points = {
+			1909 1 
+		}
+	}
+	provinces={
+		1909 
+	}
+	manpower=773080
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

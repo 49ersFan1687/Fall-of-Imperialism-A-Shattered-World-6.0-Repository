@@ -1,0 +1,27 @@
+state={
+	id=1059
+	name="STATE_1059"
+	
+	history = {
+		owner = EUR
+		buildings = {
+			infrastructure = 2
+			925 = {
+				naval_base = 4
+			}
+		}
+		add_core_of = EUR
+		
+		victory_points = {
+			925 1 
+		}
+	}
+	
+	provinces={
+		925 967 
+	}
+	manpower=1392813
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

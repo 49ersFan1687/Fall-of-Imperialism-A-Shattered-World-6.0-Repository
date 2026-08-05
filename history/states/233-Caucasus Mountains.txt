@@ -1,0 +1,29 @@
+
+state={
+	id=233
+	name="STATE_233"
+	resources={
+		chromium=18.000
+	}
+
+	history={
+		owner = EUR
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = EUR
+		
+		victory_points = {
+			714 5
+		}
+	}
+
+	provinces={
+		714 6692 9649 11664 
+	}
+	manpower=358343
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

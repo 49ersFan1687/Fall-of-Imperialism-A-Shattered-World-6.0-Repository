@@ -1,0 +1,28 @@
+state={
+	id=1285
+	name="STATE_1285"
+	
+	resources={
+		steel=8
+		chromium=2
+		tungsten=1
+	}
+	
+	history={
+		owner = OCA
+		add_core_of = OCA
+		
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+	
+	provinces={
+		733 10481 
+	}
+	manpower=195372
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

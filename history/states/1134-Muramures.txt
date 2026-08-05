@@ -1,0 +1,31 @@
+state={
+	id=1134
+	name="STATE_1134"
+	
+	resources = {
+		coal = 8
+	}
+	
+	history={
+		owner = EUR
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = EUR
+		
+		victory_points = { # Satu Mare
+			746 10 
+		}
+		victory_points = { # Sighetu Marmatiei
+			9704 5 
+		}
+	}
+	
+	provinces={
+		713 727 746 9687 9704 11676
+	}
+	manpower=939771
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

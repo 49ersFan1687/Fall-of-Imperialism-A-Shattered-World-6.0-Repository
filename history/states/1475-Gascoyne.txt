@@ -1,0 +1,21 @@
+state={
+	id=1475
+	name="STATE_1475"
+	
+	history={
+		owner = OCA
+		add_core_of = OCA
+		
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	
+	provinces={
+		1511 1540 7608 14522 14523 14524 14525 14526 14527 14528 14529
+	}
+	manpower=72000
+	buildings_max_level_factor=1
+	state_category=pastoral
+	local_supplies=0
+}

@@ -1,0 +1,25 @@
+state={
+	id=1316
+	name="STATE_1316"
+	
+	history={
+		owner = OCA
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 2
+		}
+		add_core_of = OCA
+		victory_points = { # Salt Lake City
+			4865 20 
+		}
+	}
+	
+	provinces={
+		4865 13687 13688 13689 13690 
+	}
+	manpower=345559
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

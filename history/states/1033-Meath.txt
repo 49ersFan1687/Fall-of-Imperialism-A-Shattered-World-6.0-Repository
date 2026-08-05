@@ -1,0 +1,23 @@
+state={
+	id=1033
+	name="STATE_1033"
+	
+	history={
+		owner = OCA
+		victory_points = {
+			303 1 #Tullamore
+		}
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = OCA
+	}
+	
+	provinces={
+		303 369 3359 11303 
+	}
+	manpower=439955
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

@@ -1,0 +1,26 @@
+
+state={
+	id=966
+	name="STATE_966"
+
+	history={
+		owner = ATL
+		add_core_of = ATL
+		
+		buildings = {
+			infrastructure = 2
+		}
+		
+		victory_points = { # Maceió
+			10939 5
+		}
+	}
+
+	provinces={
+		1524 10939 10998 
+	}
+	manpower=2069161
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

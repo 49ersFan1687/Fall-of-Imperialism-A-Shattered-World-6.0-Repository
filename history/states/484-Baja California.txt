@@ -1,0 +1,34 @@
+
+state={
+	id=484
+	name="STATE_484"
+
+	history={
+		owner = OCA
+		add_core_of = OCA
+		
+		buildings = {
+			infrastructure = 2
+			air_base = 3
+			1892 = {
+				naval_base = 2
+			}
+		}
+		
+		victory_points = { # Tijuana
+			12461 15 
+		}
+		victory_points = { # Flood City
+			13421 5 
+		}
+
+	}
+
+	provinces={
+		1892 7964 12461 12859 13215 13216 13421
+	}
+	manpower=1520855	
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

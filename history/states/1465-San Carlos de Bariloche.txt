@@ -1,0 +1,22 @@
+state={
+	id=1465
+	name="STATE_1465"
+	
+	history = {
+		owner = PAM
+		add_core_of = PAM
+		add_core_of = ARG
+
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	
+	provinces={
+		10981 12982 14393 14394 14395 
+	}
+	manpower=307258
+	buildings_max_level_factor=1
+	state_category=rural
+	local_supplies=0
+}

@@ -1,0 +1,44 @@
+state={
+	id=1204
+	name="STATE_1204"
+	
+	history={
+		owner = OCA
+		add_core_of = OCA
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 2
+			
+			air_base = 5
+			13425 = {
+				bunker = 5
+			}
+		}
+		
+		victory_points = { # Fort Knox
+			13425 5
+		}
+		
+		victory_points = { # West Point
+			14233 3
+		}
+		
+		victory_points = { # Muldraugh
+			14235 1
+		}
+		
+		victory_points = { # Riverside
+			14232 1
+		}
+	}
+	
+	provinces={
+		13425 14232 14233 14234 14235 14236 14237 14238
+	}
+	manpower=443455
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

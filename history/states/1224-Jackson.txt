@@ -1,0 +1,33 @@
+state={
+	id=1224
+	name="STATE_1224"
+	
+	resources={
+		steel=12
+		aluminium=8
+		chromium=2
+		tungsten=24
+		oil=10
+		coal=8
+	}
+	
+	history={
+		owner = OCA
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = OCA
+		
+		victory_points = { # Jackson
+			12651 5
+		}
+	}
+	
+	provinces={
+		1815 7688 7888 10640 12561 12633 12651 13444 13445 13446
+	}
+	manpower=201958
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

@@ -1,0 +1,23 @@
+state={
+	id=972
+	name="STATE_972"
+	provinces={
+		3422 
+	}
+	history={
+		owner = OCA
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			3422 = {
+				naval_base = 1
+
+			}
+		}
+		add_core_of = OCA
+	}
+	manpower=6562
+	buildings_max_level_factor=1.000
+	state_category = town
+	local_supplies=0.000
+}

@@ -1,0 +1,34 @@
+
+state={
+	id=544
+	name="STATE_544"
+	manpower = 2458847
+	history={
+		owner = FRT
+		buildings = {
+			infrastructure = 2
+			dockyard = 1
+			industrial_complex = 2
+			8245 = {
+				naval_base = 1
+			}
+
+		}
+		victory_points = {
+			8245 15 
+		}
+		victory_points = {
+			2193 5 
+		}
+		add_core_of = FRT
+
+	}
+
+	provinces={
+		2193 5177 5212 8245 
+	}
+
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

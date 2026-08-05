@@ -1,0 +1,27 @@
+state={
+	id=1223
+	name="STATE_1223"
+	
+	resources = {
+		steel = 2
+	}
+
+	history = {
+		owner = PAM
+		add_core_of = PAM
+		add_core_of = URG
+
+		buildings = {
+			infrastructure = 2
+		}
+
+	}
+	
+	provinces={
+		4457 12496 
+	}
+	manpower=553409
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

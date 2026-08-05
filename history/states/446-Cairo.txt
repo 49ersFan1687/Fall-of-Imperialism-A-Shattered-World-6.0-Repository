@@ -1,0 +1,38 @@
+
+state={
+	id=446
+	name="STATE_446"
+
+	history={
+		owner = NLE
+		add_core_of = NLE
+		add_core_of = EGY
+		buildings = {
+			infrastructure = 3
+			12049 = {
+				naval_base = 2
+
+			}
+			4073 = {
+				naval_base = 1
+
+			}
+
+		}
+		victory_points = {
+			12049 5 
+		}
+		victory_points = {
+			4073 3 
+		}
+
+	}
+
+	provinces={
+		4073 9947 12049 10126
+	}
+	manpower=434715
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

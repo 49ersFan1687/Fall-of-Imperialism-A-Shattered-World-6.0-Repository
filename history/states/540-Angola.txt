@@ -1,0 +1,32 @@
+
+state={
+	id=540
+	name="STATE_540"
+
+	history={
+		owner = FRT
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 2
+			8248 = {
+				naval_base = 1
+
+			}
+
+		}
+		victory_points = {
+			8248 10
+		}
+		add_core_of = FRT
+
+	}
+
+	provinces={
+		8248 
+	}
+	manpower=2865802
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

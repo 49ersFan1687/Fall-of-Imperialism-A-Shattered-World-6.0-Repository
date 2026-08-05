@@ -1,0 +1,27 @@
+
+state = {
+	id = 157
+	name = "STATE_157"
+	manpower = 1217791	
+	
+	state_category = city
+
+	history = {
+		owner = EUR
+		
+		buildings = {
+			infrastructure = 3 #was: 6
+			industrial_complex = 1
+			6831 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = EUR
+	}
+
+	provinces = {
+		963 3910 6831 9838
+	}
+
+	local_supplies = 0.0 
+}

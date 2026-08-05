@@ -1,0 +1,25 @@
+state={
+	id=1243
+	name="STATE_1243"
+	
+	history={
+		owner = OCA
+		buildings = {
+			infrastructure = 3
+			arms_factory = 2
+			industrial_complex = 2
+		}
+		add_core_of = OCA
+		victory_points = { # Austin
+			12341 15
+		}
+	}
+	
+	provinces={
+		12341 
+	}
+	manpower=571453
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

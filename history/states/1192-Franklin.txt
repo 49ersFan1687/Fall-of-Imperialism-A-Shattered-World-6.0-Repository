@@ -1,0 +1,51 @@
+state={
+	id=1192
+	name="STATE_1192"
+	
+	resources={
+		steel=10
+		coal = 8
+	}
+
+
+	history={
+		owner = OCA
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		add_core_of = OCA
+		
+		victory_points = { # Knoxville
+			913 15 
+		}
+		
+		victory_points = { # Chattanooga 
+			14027 10 
+		}
+		
+		victory_points = { # Cleveland
+			10909 5 
+		}
+		
+		victory_points = { # Oak Ridge
+			14023 5 
+		}
+		
+		victory_points = { # Morristown
+			8014 5 
+		}
+		
+		victory_points = { # Kingsport
+			14026 5 
+		}
+	}
+	
+	provinces={
+		913 7791 8014 10909 14021 14022 14023 14024 14025 14026 14027
+	}
+	manpower=749878
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

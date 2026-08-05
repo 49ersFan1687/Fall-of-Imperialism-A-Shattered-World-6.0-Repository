@@ -1,0 +1,38 @@
+state={
+	id=1351
+	name="STATE_1351"
+	
+	history={
+		owner = OCA
+		add_core_of = OCA
+		
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+		}
+		
+		victory_points = { # Riverside
+			13926 15
+		}
+		
+		victory_points = { # San Bernadino
+			13911 10
+		}
+		
+		victory_points = { # Hamet
+			13982 5
+		}
+		
+		victory_points = { # Temecula
+			13930 5
+		}
+	}
+	
+	provinces={
+		13911 13918 13922 13925 13926 13930 13931 13982 
+	}
+	manpower=1587359
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

@@ -1,0 +1,31 @@
+state={
+	id=1470
+	name="STATE_1470"
+	
+	history={
+		owner = OCA
+		add_core_of = OCA
+		
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 3
+			2219 = { naval_base = 2 }
+		}
+		
+		victory_points = { 2219 5 }
+		
+		victory_points = { 8186 5 }
+		
+		victory_points = { 8220 1 }
+		
+		victory_points = { 12906 1 }
+	}
+	
+	provinces={
+		2219 5183 8186 8220 10927 12906 14546 14547 14548 14549 14550 14551 14552 14553 14554 14555 14556 14557 14558 14559 14560 14561
+	}
+	manpower=232000
+	buildings_max_level_factor=1
+	state_category=town
+	local_supplies=0
+}

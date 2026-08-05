@@ -1,0 +1,27 @@
+state={
+	id=1321
+	name="STATE_1321"
+	
+	resources={
+		steel=12
+		aluminium=10
+		tungsten=2
+	}
+	
+	history={
+		owner = OCA
+		add_core_of = OCA
+		
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	
+	provinces={
+		4736 12134 13736 13744 13745 13746 13748 13749 13874
+	}
+	manpower=54000
+	buildings_max_level_factor=1.000
+	state_category = pastoral
+	local_supplies=0.000
+}

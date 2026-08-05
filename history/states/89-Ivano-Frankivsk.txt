@@ -1,0 +1,30 @@
+
+state={
+	id=89
+	name="STATE_89"
+
+	history={
+		victory_points = {
+			11411 3 
+		}
+		victory_points = {
+			11550 1
+		}
+		owner = EUR
+		buildings = {
+			infrastructure = 3
+			air_base = 3
+
+		}
+		add_core_of = EUR
+
+	}
+
+	provinces={
+		3743 6460 9425 11411 11550 
+	}
+	manpower=1162566
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

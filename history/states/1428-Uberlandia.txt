@@ -1,0 +1,53 @@
+state={
+	id=1428
+	name="STATE_1428"
+	
+	
+
+	history = {
+
+		owner = BRA
+		add_core_of = BRA
+
+		victory_points = { # Uberlândia
+			12977 10
+		}
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			
+			12977 = {
+				bunker = 5
+			}
+			
+			12923 = {
+				bunker = 3
+			}
+			
+			2218 = {
+				bunker = 3
+			}
+			
+			14248 = {
+				bunker = 3
+			}
+			
+			14249 = {
+				bunker = 3
+			}
+			
+			2190 = {
+				bunker = 3
+			}
+		}
+	}
+	
+	provinces={
+		2190 2218 10945 12923 12977 14248 14249
+	}
+	manpower=2730370
+	buildings_max_level_factor=1
+	state_category=town
+	local_supplies=0
+}

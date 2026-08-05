@@ -1,0 +1,40 @@
+
+state={
+	id=613
+	name="STATE_613"
+
+	history={
+		owner = ESA
+		add_core_of = ESA
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			air_base = 6
+			dockyard = 1
+			7014 = {
+				naval_base = 6
+				coastal_bunker = 1
+				bunker = 1
+				naval_headquarters = {
+					level = 1
+					allowed = {
+						has_dlc = "No Compromise, No Surrender"
+					}
+				}
+			}
+
+		}
+		victory_points = {
+			7014 20 
+		}
+
+	}
+
+	provinces={
+		7014 12076 
+	}
+	manpower=11859748
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+	local_supplies=0.000
+}

@@ -1,0 +1,31 @@
+state={
+	id=1317
+	name="STATE_1317"
+	
+	resources={
+		oil=32 # was: 20
+		aluminium=30 # was: 52
+	}
+	
+	history={
+		owner = OCA
+		add_core_of = OCA
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+		}
+		
+		victory_points = { # Santa Fe
+			12684 10
+		}
+	}
+	
+	provinces={
+		12684
+	}
+	manpower=104106
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

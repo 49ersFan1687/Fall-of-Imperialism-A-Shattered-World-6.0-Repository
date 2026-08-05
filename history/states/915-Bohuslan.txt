@@ -1,0 +1,26 @@
+
+state={
+	id=915
+	name="STATE_915"
+
+	history={
+		victory_points = {
+			6310 1 
+		}
+		owner = EUR
+		add_core_of = EUR
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+
+	provinces={
+		3307 6412 
+	}
+	manpower=271559
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

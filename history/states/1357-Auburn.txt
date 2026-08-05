@@ -1,0 +1,31 @@
+state={
+	id=1357
+	name="STATE_1357"
+	
+	resources={
+		aluminium=4
+		tungsten=2
+		oil=10
+	}
+	
+	history={
+		owner = OCA
+		add_core_of = OCA
+		
+		buildings = {
+			infrastructure = 2
+		}
+		
+		victory_points = { # Auburn
+			13872 5
+		}
+	}
+	
+	provinces={
+		13857 13858 13872 
+	}
+	manpower=164178
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

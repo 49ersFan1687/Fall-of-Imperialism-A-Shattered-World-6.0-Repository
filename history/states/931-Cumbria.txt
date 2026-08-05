@@ -1,0 +1,30 @@
+state = {
+	id=931
+	name="STATE_931"
+	manpower = 467355
+	state_category = rural
+	resources = {
+		steel = 20 
+		aluminium = 6
+		coal = 2
+	}
+
+	history = {
+		owner = OCA
+		add_core_of = OCA
+		buildings = {
+			infrastructure = 3 #was: 6
+		}
+		victory_points = { # Carlisle
+			219 5 
+		}
+		victory_points = { # Barrow-in-Furness
+			6399 5 
+		}
+	}
+
+	provinces = {
+		219 6399 9285 11332 
+	}
+	local_supplies = 0.000
+}

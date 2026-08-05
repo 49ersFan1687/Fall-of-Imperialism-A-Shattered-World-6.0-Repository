@@ -1,0 +1,30 @@
+
+state={
+	id=473
+	name="STATE_473"
+	resources={
+		oil = 2
+		coal = 12
+	}
+
+	history={
+		owner = OCA
+		add_core_of = OCA
+		
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 1
+		}
+		
+		victory_points = { 7259 5 } # Victoria 
+	}
+
+	provinces={
+		1214 1323 1393 1420 1737 1799 1858 4343 4385 4413 4870 7259 7761 7853 10228 10258 10273 10644 12231 12259 12272 12571 
+	}
+	manpower=1289468
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=4.000
+}

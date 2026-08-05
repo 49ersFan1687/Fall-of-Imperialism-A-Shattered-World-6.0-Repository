@@ -1,0 +1,30 @@
+
+state={
+	id=53
+	name="STATE_53"
+	
+	resources = {
+		coal = 36
+	}
+
+	history={
+		owner = EUR
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = EUR
+		victory_points = {
+			3522 5 
+		}
+
+	}
+
+	provinces={
+		3522 6487 9238 9375 9456 9560 11359 11468 
+	}
+	manpower=2873957
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=7.000
+}

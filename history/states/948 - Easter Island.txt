@@ -1,0 +1,22 @@
+state = {
+	id = 948
+	name = "STATE_948"
+	manpower = 6600
+	state_category = small_island
+	
+	history = {
+
+		owner = OCA
+		add_core_of = OCA
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		13080
+	}
+
+	local_supplies = 0.0 
+}

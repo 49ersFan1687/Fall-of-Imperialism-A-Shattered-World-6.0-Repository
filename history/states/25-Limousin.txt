@@ -1,0 +1,26 @@
+
+state={
+	id=25
+	name="STATE_25"
+
+	history={
+		owner = EUR
+		buildings = {
+			infrastructure = 3
+
+		}
+		victory_points = {
+			620 5 
+		}
+		add_core_of = EUR
+
+	}
+
+	provinces={
+		620 625 3621 3626 3771 6618 6648 11869 
+	}
+	manpower=594216
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

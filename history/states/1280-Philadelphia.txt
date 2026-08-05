@@ -1,0 +1,35 @@
+state={
+	id=1280
+	name="STATE_1280"
+	
+	history={
+		owner = OCA
+		add_core_of = OCA
+		
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 5
+			air_base = 5
+		}
+		
+		victory_points = { # Philadelphia
+			6845 25
+		}
+		
+		victory_points = { # Levittown
+			11799 5
+		}
+		
+		victory_points = { # Norristown
+			13561 5
+		}
+	}
+	
+	provinces={
+		6845 11799 13561 13562
+	}
+	manpower=3263035
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+	local_supplies=0.000
+}

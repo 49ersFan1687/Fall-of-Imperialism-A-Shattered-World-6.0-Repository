@@ -1,0 +1,27 @@
+
+state={
+	id=241
+	name="STATE_241"
+
+	history={
+		owner = EUR
+		victory_points = {
+			9288 10 
+		}
+		buildings = {
+			infrastructure = 3
+			air_base = 3
+
+		}
+		add_core_of = EUR
+
+	}
+
+	provinces={
+		215 3203 3293 3507 6232 6319 6344 6556 9249 9288 9342 9371 9396 9554 11355 11453 
+	}
+	manpower=1338617
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

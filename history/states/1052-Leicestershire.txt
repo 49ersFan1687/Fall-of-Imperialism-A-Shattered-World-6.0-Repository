@@ -1,0 +1,26 @@
+state={
+	id=1052
+	name="STATE_1052"
+	
+	history={
+		owner = OCA
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = OCA
+		
+		victory_points = {
+			11279 3 #Leicester
+		}
+
+	}
+	
+	provinces={
+		11279 
+	}
+	manpower=827407
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

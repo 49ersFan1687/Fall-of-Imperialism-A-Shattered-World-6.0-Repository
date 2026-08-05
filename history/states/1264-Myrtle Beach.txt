@@ -1,0 +1,25 @@
+state={
+	id=1264
+	name="STATE_1264"
+	
+	history={
+		owner = OCA
+		buildings = {
+			infrastructure = 3 #was: 5
+			industrial_complex = 1
+		}
+		add_core_of = OCA
+		
+		victory_points = { # Myrtle Beach
+			11927 5
+		}
+	}
+	
+	provinces={
+		11927 
+	}
+	manpower=327186
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

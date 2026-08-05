@@ -1,0 +1,21 @@
+state={
+	id=1451
+	name="STATE_1451"
+	
+	history={
+		owner = OCA
+		add_core_of = OCA
+		
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	
+	provinces={
+		4811 9802 13660 
+	}
+	manpower=290890
+	buildings_max_level_factor=1
+	state_category=rural
+	local_supplies=0
+}

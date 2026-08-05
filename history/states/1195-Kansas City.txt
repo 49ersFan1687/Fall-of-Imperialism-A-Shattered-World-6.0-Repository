@@ -1,0 +1,34 @@
+state={
+	id=1195
+	name="STATE_1195"
+	
+	resources={
+		steel=3
+		aluminium=5
+		coal=16
+	}
+	
+	history={
+		owner = OCA
+		buildings = {
+			infrastructure = 3 #was: 5
+			industrial_complex = 3
+			arms_factory = 2
+		}
+		add_core_of = OCA
+		victory_points = { # Kansas City
+			10717 15 
+		}
+		victory_points = { # Jefferson City
+			12361 5
+		}
+	}
+	
+	provinces={
+		10391 10717 12361 
+	}
+	manpower=1592088
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

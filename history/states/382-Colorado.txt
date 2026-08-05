@@ -1,0 +1,29 @@
+
+state={
+	id=382
+	name="STATE_382"
+	manpower = 527804
+	
+	state_category = metropolis
+
+	history={
+		owner = OCA
+		add_core_of = OCA
+		
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 3
+			arms_factory = 1
+		}
+		
+		victory_points = { # Denver
+			1827 20 
+		}
+	}
+
+	provinces={
+		1827 13668 13669 13670 13672 13673 13679
+	}
+
+	local_supplies=8.0 
+}

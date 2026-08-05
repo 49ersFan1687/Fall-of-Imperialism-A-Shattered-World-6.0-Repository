@@ -1,0 +1,32 @@
+state={
+	id=1199
+	name="STATE_1199"
+	
+	resources={
+		steel=2
+		oil=4
+	}
+
+	history={
+		owner = OCA
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 2
+		}
+		add_core_of = OCA
+		
+		victory_points = { # Jackson
+			4565 20 
+		}
+	}
+	
+	provinces={
+		4565 4650 10449 
+	}
+	manpower=1237465
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

@@ -1,0 +1,31 @@
+
+state={
+	id=749
+	name="STATE_749"
+	
+	resources = {
+		coal = 32
+	}
+
+	history={
+		owner = TIC
+		add_core_of = TIC
+		add_core_of = VIE
+		buildings = {
+			infrastructure = 2
+
+		}
+		victory_points = {
+			12019 1 
+		}
+
+	}
+
+	provinces={
+		1073 1157 4529 7015 7093 7518 9948 10075 10103 10129 12008 12048 12065 12075 12319 
+	}
+	manpower=8487787
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

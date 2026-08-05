@@ -1,0 +1,32 @@
+
+state={
+	id=619
+	name="STATE_619"
+	resources={
+		aluminium=2.000
+		chromium=2.000
+		coal=4
+	}
+
+	history={
+		owner = ESA
+		add_core_of = ESA
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			2015 2 
+		}
+
+	}
+
+	provinces={
+		898 959 3860 6822 6944 11878 
+	}
+	manpower=1815342
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

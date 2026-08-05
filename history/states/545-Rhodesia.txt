@@ -1,0 +1,33 @@
+
+state={
+	id=545
+	name="STATE_545"
+	
+	resources={
+		steel=6.000
+		aluminium=4.000
+	}
+
+	history={
+		owner = FRT
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+
+		}
+		victory_points = {
+			10929 20
+		}
+		add_core_of = FRT
+
+	}
+
+	provinces={
+		2216 10929 14400 14404 14405 14406 14407 14408
+	}
+	manpower=4468961
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=3.000
+}

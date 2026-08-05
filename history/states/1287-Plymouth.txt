@@ -1,0 +1,25 @@
+state={
+	id=1287
+	name="STATE_1287"
+	
+	history={
+		owner = OCA
+		add_core_of = OCA
+		
+		buildings = {
+			infrastructure = 3
+		}
+		
+		victory_points = { # New Bedford
+			905 5 
+		}
+	}
+	
+	provinces={
+		905 11830 
+	}
+	manpower=435588
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

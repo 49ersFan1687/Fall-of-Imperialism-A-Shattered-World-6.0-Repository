@@ -1,0 +1,31 @@
+state={
+	id=1413
+	name="STATE_1413"
+	
+	resources={
+		steel=8
+		aluminium=2
+		oil=1
+	}
+	
+	history={
+		owner = OCA
+		add_core_of = OCA
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		
+		victory_points = { # Rochester
+			3733 10 
+		}
+	}
+	provinces={
+		3733 3747 9664 11680 13557 14114 
+	}
+	manpower=1008862
+	buildings_max_level_factor=1
+	state_category=town
+	local_supplies=0
+}

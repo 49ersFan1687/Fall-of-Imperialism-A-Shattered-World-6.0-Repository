@@ -1,0 +1,31 @@
+state={
+	id=1240
+	name="STATE_1240"
+	
+	resources={
+		aluminium=12
+		oil=4
+		coal=10
+	}
+	
+	history={
+		owner = OCA
+		add_core_of = OCA
+		
+		buildings = {
+			infrastructure = 3
+		}
+		
+		victory_points = { # Huntsville
+			10504 5
+		}
+	}
+	
+	provinces={
+		10504 10861
+	}
+	manpower=495234
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

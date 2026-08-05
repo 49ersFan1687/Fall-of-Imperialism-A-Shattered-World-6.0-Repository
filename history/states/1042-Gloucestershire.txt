@@ -1,0 +1,25 @@
+state={
+	id=1042
+	name="STATE_1042"
+	
+	history={
+		owner = OCA
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = OCA
+		
+		victory_points = { # Gloucester
+			6378 5 
+		}
+	}
+	
+	provinces={
+		6221 6378 
+	}
+	manpower=487806
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

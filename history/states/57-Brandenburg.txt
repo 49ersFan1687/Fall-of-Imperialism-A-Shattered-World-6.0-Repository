@@ -1,0 +1,39 @@
+
+state={
+	id=57
+	name="STATE_57"
+	
+	resources = {
+		coal = 12
+	}
+
+	history={
+		owner = EUR
+		buildings = {
+			infrastructure = 4
+			arms_factory = 3
+			industrial_complex = 1
+			air_base = 3
+
+		}
+		add_core_of = EUR
+		1939.1.1 = {
+			buildings = {
+				radar_station = 1
+				arms_factory = 6
+				industrial_complex = 3
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		375 478 3367 3499 9428 9496 11219 11415 11444 11505 
+	}
+	manpower=2667237	
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

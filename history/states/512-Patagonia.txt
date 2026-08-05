@@ -1,0 +1,38 @@
+state={
+	id=512
+	name="STATE_512"
+	resources={
+		oil=3.000
+	}
+	history = {
+		owner = ARG
+		add_core_of = ARG
+
+		buildings = {
+			infrastructure = 3
+		}
+
+		victory_points = { # Rincon de Los Sauces
+			8192 5 
+		}
+
+		victory_points = { # Cutral Co
+			12306 5 
+		}
+
+		victory_points = { # Chimpay
+			2149 5 
+		}
+
+		victory_points = { # San Martin de los Andes
+			2199 5 
+		}
+	}
+	provinces={
+		2149 2199 8192 12306 14390 14391
+	}
+	manpower=652925
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

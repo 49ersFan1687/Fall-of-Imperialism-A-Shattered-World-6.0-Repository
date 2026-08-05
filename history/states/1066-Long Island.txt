@@ -1,0 +1,29 @@
+state={
+	id=1066
+	name="STATE_1066"	
+	history={
+		owner = OCA
+		add_core_of = OCA
+		
+		buildings = {
+			infrastructure = 3 #was: 8
+			industrial_complex = 2
+			dockyard=2
+		}
+		
+		victory_points = { # Lindenhurst
+			13541 10 
+		}
+		
+		victory_points = { # Hamptons
+			859 5 
+		}
+	}
+	provinces={
+		859 13541
+	}
+	manpower=2610555
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

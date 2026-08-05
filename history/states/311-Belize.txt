@@ -1,0 +1,25 @@
+state=
+{
+	id=311
+	name="STATE_311"
+	manpower = 159721
+	
+	state_category = rural
+	history=
+	{
+		add_core_of = YUC
+		owner = YUC
+		victory_points = {
+			2077 5
+		}
+		buildings = {
+			infrastructure = 2
+			2077 = {
+				naval_base = 1
+			}
+		}
+	}
+	provinces= { 2077 }
+
+	local_supplies=0.0 
+}

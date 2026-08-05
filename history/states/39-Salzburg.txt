@@ -1,0 +1,30 @@
+
+state={
+	id=39
+	name="STATE_39"
+	resources={
+		aluminium=14.000
+	}
+
+	history={
+		victory_points = {
+			688 10 
+		}
+		owner = EUR
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+		add_core_of = EUR
+
+	}
+
+	provinces={
+		688 3675 
+	}
+	manpower=442301
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

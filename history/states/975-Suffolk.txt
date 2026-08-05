@@ -1,0 +1,27 @@
+state={
+	id=975
+	name="STATE_975"
+	provinces={
+		221 271 
+	}
+	history={
+		owner = OCA
+		buildings = {
+			infrastructure = 3 #was: 7
+			industrial_complex = 2
+			arms_factory = 2
+		}
+		add_core_of = OCA
+		
+		victory_points = { # Ipswich
+			221 10
+		}
+		victory_points = { # Great Yarmouth
+			271 5
+		}
+	}
+	manpower=583594
+	state_category = rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

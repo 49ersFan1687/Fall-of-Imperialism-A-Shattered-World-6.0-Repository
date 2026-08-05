@@ -1,0 +1,33 @@
+
+state={
+	id=321
+	name="STATE_321"
+	manpower = 1007749	
+
+	state_category = city
+
+	history={
+		owner = PID
+		add_core_of = PID
+		add_core_of = RAJ
+		victory_points = {
+			1273 10 
+		}
+		buildings = {
+			infrastructure = 3 #was: 5
+			industrial_complex = 3
+			arms_factory = 1
+			dockyard = 1
+			air_base = 2
+			1273 ={
+				naval_base = 5
+			}
+		}
+	}
+
+	provinces={
+		1273 
+	}
+
+	local_supplies=0.0 
+}

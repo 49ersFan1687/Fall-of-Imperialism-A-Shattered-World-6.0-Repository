@@ -1,0 +1,22 @@
+
+state={
+	id=618
+	name="STATE_618"
+
+	history={
+		owner = ESA
+		add_core_of = ESA
+		
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces={
+		1838 4704 4788 4843 7732 10614 10839 12524 12598 12656 12671 
+	}
+	manpower=3517759
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

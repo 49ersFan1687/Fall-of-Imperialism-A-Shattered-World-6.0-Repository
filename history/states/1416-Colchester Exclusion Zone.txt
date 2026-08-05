@@ -1,0 +1,25 @@
+state={
+	id=1416
+	name="STATE_1416"
+	
+	history={
+		owner = OCA
+		add_core_of = OCA
+		
+		buildings = {
+			infrastructure = 0
+		}
+		
+		victory_points = { # Colchester
+			11374 1
+		}
+	}
+	
+	provinces={
+		11374 
+	}
+	manpower=27
+	buildings_max_level_factor=1
+	state_category=wasteland
+	local_supplies=0
+}

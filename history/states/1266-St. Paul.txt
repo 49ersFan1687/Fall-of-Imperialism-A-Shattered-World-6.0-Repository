@@ -1,0 +1,31 @@
+state={
+	id=1266
+	name="STATE_1266"
+	
+	resources={
+		steel=20
+	}
+	
+	history={
+		owner = OCA
+		add_core_of = OCA
+		
+		buildings = {
+			infrastructure = 3 #was: 6
+			industrial_complex = 2
+		}
+		
+		victory_points = { # St Paul
+			1719 10 
+		}
+
+	}
+	
+	provinces={
+		1719 6827 12550 
+	}
+	manpower=1088709
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

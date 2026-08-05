@@ -1,0 +1,58 @@
+
+state={
+	id=517
+	name="STATE_517"
+	resources={
+		steel=8.000
+		chromium=4.000
+		coal = 24
+		oil = 4
+	}
+
+	history={
+		owner = OCA
+		buildings = {
+			infrastructure = 4 #was: 6
+			arms_factory = 2
+			industrial_complex = 5
+			air_base = 3
+			7798 = {
+				naval_base = 4
+				coastal_bunker = 1
+				naval_headquarters = {
+					level = 1
+					allowed = {
+						has_dlc = "No Compromise, No Surrender"
+					}
+				}
+			}
+
+		}
+		victory_points = { # Melbourne
+			7798 30 
+		}
+		victory_points = { # Bendigo
+			2155 10 
+		}
+		victory_points = { # Ballarat
+			4776 10 
+		}
+		victory_points = { # Geelong
+			7811 10 
+		}
+		victory_points = { # Traralgon
+			10637 5 
+		}
+		add_core_of = OCA
+
+	}
+
+	provinces={
+		1759 2130 2155 4776 4791 7755 7798 7811 10553 10581 10622 10637 12576 12932 
+	}
+	manpower=3961613
+	buildings_max_level_factor=1.000
+	state_category=large_city
+
+	local_supplies=0.0 
+}

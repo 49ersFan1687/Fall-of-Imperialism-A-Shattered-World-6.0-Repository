@@ -1,0 +1,34 @@
+
+state={
+	id=472
+	name="STATE_472"
+
+	history={
+		owner = OCA
+		buildings = {
+			infrastructure = 2
+			synthetic_refinery = 1
+
+		}
+		add_core_of = OCA
+		
+		victory_points = { # Yellowknife
+			7901 10
+		}
+		victory_points = { # Fort Providence
+			2407 5
+		}
+		victory_points = { # Fort Resolution
+			13075 5
+		}
+
+	}
+
+	provinces={
+		2407 7696 7830 7901 10527 10703 13075 
+	}
+	manpower=41070
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

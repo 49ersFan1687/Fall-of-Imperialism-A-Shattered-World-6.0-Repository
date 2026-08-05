@@ -1,0 +1,26 @@
+state={
+	id=1369
+	name="STATE_1369"
+	
+	history={
+		owner = OCA
+		add_core_of = OCA
+		
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 3
+			arms_factory = 1
+		}
+		victory_points = { # St Louis
+			4569 20 
+		}
+	}
+	
+	provinces={
+		4569 
+	}
+	manpower=453000
+	buildings_max_level_factor=1.000
+	state_category=large_city
+	local_supplies=0.000
+}

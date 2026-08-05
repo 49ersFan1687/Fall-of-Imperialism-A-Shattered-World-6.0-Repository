@@ -1,0 +1,47 @@
+
+state={
+	id=363
+	name="STATE_363"
+	manpower = 2699835
+	
+	state_category = city
+
+	history={
+		owner = OCA
+		buildings = {
+			infrastructure = 3 #was: 6
+			industrial_complex = 3
+			air_base = 3
+			1132 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = OCA
+		
+		victory_points = { # Raleigh
+			7045 20
+		}
+		
+		victory_points = { # Rocky Mount
+			11783 5
+		}
+		
+		victory_points = { # Greenville
+			4168 5
+		}
+		
+		victory_points = { # Goldsboro
+			14087 5
+		}
+		
+		victory_points = { # Wilmington
+			1132 5
+		}
+	}
+
+	provinces={
+		1077 1132 1163 4168 7045 11783 12054 14087 14092
+	}
+
+	local_supplies=0.0 
+}

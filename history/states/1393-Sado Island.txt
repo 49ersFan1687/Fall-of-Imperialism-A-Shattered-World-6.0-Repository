@@ -1,0 +1,28 @@
+state={
+	id=1393
+	name="STATE_1393"
+
+	history={
+		owner = ESA
+		add_core_of = ESA
+		
+		buildings = {
+			infrastructure = 2
+			9952 = {
+				naval_base = 1
+
+			}
+		}
+		victory_points = { # Sado
+			9952 5 
+		}
+	}
+	
+	provinces={
+		9952 
+	}
+	manpower=56000
+	buildings_max_level_factor=1
+	state_category=town
+	local_supplies=0
+}

@@ -1,0 +1,30 @@
+state={
+	id=1473
+	name="STATE_1473"
+	
+	history={
+		owner = OCA
+		add_core_of = OCA
+		
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			arms_factory = 1
+			air_base = 3
+			1652 = {
+				naval_base = 1
+				coastal_bunker = 1
+			}
+		}
+		
+		victory_points = { 1652 20 } # Perth
+	}
+	
+	provinces={
+		1652 14530 14531 14532
+	}
+	manpower=1020000
+	buildings_max_level_factor=1
+	state_category=city
+	local_supplies=0
+}

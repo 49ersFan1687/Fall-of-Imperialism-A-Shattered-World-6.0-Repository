@@ -1,0 +1,49 @@
+state={
+	id=1038
+	name="STATE_1038"
+	
+	history={
+		owner = OCA
+		add_core_of = OCA
+		
+		buildings = {
+			infrastructure = 3
+			
+			14212 = {
+				naval_base = 10
+			}
+			
+			14211 = {
+				naval_base = 1
+			}
+		}
+		
+		victory_points = { # Clacton-On-Sea
+			14211 5
+		}
+		
+		victory_points = { # Southend-On-Sea
+			14212 10
+		}
+		
+		victory_points = { # Luton
+			14215 5
+		}
+		
+		victory_points = { # Watford
+			14216 10
+		}
+		
+		victory_points = { # Enfield
+			14217 5
+		}
+	}
+	
+	provinces={
+		14211 14212 14213 14214 14215 14216 14217
+	}
+	manpower=2082744
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

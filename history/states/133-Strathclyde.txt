@@ -1,0 +1,36 @@
+state={
+	id=133
+	name="STATE_133"
+	resources={
+		steel=21.000
+		coal=20.000
+	}
+	history={
+		owner = OCA
+		victory_points = {
+			3273 15
+		}
+		victory_points = {
+			11218 1 #Dumfries
+		}
+		buildings = {
+			infrastructure = 4 #was: 7
+			dockyard = 5
+			industrial_complex = 2
+			anti_air_building = 2
+			air_base = 3
+			6395 = {
+				naval_base = 2
+			}
+
+		}
+		add_core_of = OCA
+	}
+	provinces={
+		3273 6320 6395 
+	}
+	manpower=779593
+	buildings_max_level_factor=1.000
+	state_category=large_city
+	local_supplies=0.000
+}

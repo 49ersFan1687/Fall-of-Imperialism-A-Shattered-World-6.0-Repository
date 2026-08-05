@@ -1,0 +1,30 @@
+
+state={
+	id=999
+	name="STATE_999"
+	
+	history={
+		owner = MZT
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+		add_core_of = MZT
+		
+		victory_points = { # Queretaro
+			2011 10 
+		}
+		victory_points = { # Pachuca
+			7913 5 
+		}
+	}
+	
+	provinces={
+		2011 7913 
+	}
+	manpower=2512098
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

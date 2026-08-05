@@ -419,6 +419,10 @@ characters = {
         }
     }
 
+    CAL_creighton_williams_abrams_jr = {
+        
+    }
+
     ### Admirals ###
 
 

@@ -1,0 +1,31 @@
+state={
+	id=1279
+	name="STATE_1279"
+	
+	resources={
+		steel=4
+	}
+	
+	history={
+		owner = OCA
+		add_core_of = OCA
+		
+		buildings = {
+			infrastructure = 4
+			arms_factory = 2
+			industrial_complex = 2
+		}
+		
+		victory_points = { # Buffalo
+			11654 20 
+		}
+	}
+	
+	provinces={
+		734 6707 11654 13558
+	}
+	manpower=1763291
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

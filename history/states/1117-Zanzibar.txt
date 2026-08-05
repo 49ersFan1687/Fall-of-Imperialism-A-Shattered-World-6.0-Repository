@@ -1,0 +1,32 @@
+state={
+	id=1117
+	name="STATE_1117"
+	
+	history={
+		owner = ZBR
+		add_core_of = ZBR
+		victory_points = { # Zanzibar City
+			13390 5
+		}
+		buildings = {
+			infrastructure = 4
+			13390 = {
+				naval_base = 3
+
+			}
+			13391 = {
+				naval_base = 1
+
+			}
+
+		}
+	}
+	
+	provinces={
+		13390 13391 
+	}
+	manpower=570466
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

@@ -1,0 +1,35 @@
+state={
+	id=1115
+	name="STATE_1115"
+	
+	history={
+        owner = OCA
+		buildings = {
+			infrastructure = 2
+			10352 = {
+				naval_base = 1
+			}
+		}
+        add_core_of = OCA
+		victory_points = { # Pensacola
+			10352 10 
+		}
+		
+		victory_points = { # Panama City Beach
+			10380 5 
+		}
+		
+		victory_points = { # Destin
+			14075 5 
+		}
+
+	}
+	
+	provinces={
+		10352 10380 14075
+	}
+	manpower=110399
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

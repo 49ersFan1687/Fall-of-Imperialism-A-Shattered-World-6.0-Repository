@@ -1,0 +1,33 @@
+
+state={
+	id=939
+	name="STATE_939"
+	resources={
+		aluminium=4.000
+	}
+
+	history={
+		owner = ATL
+		add_core_of = ATL
+		
+		buildings = {
+			infrastructure = 1
+			4980 = {
+				naval_base = 2
+			}
+		}
+		
+		victory_points = { # Macapá
+			4980 5 
+		}
+
+	}
+
+	provinces={
+		4980 
+	}
+	manpower=415106
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

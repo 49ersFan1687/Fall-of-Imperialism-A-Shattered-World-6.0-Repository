@@ -1,0 +1,30 @@
+
+state={
+	id=807
+	name="STATE_807"
+
+	history={
+		owner = EUR
+		buildings = {
+			infrastructure = 3
+			arms_factory = 2
+			industrial_complex = 1
+			air_base = 2
+
+		}
+		add_core_of = EUR
+		
+		victory_points = {
+			442 3 
+		}
+
+	}
+
+	provinces={
+		442 466 3410 3434 6499 6522 11507 
+	}
+	manpower=2027462
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

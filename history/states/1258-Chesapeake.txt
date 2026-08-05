@@ -1,0 +1,26 @@
+state={
+	id=1258
+	name="STATE_1258"
+	
+	resources={
+		steel=2
+	}
+	
+	history={
+		owner = OCA
+		add_core_of = OCA
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+	}
+	
+	provinces={
+		6892 9786 13537 13538
+	}
+	manpower=1047659
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

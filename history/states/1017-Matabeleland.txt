@@ -1,0 +1,33 @@
+state={
+	id=1017
+	name="STATE_1017"
+	
+	resources={
+		steel=12.000
+		aluminium=12.000
+		coal=12.000
+	}
+	
+	history={
+		owner = FRT
+		add_core_of = FRT
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		
+		victory_points = { # Bulawayo
+			1874 10
+		}
+
+	}
+	provinces={
+		1874 2151 
+	}
+	manpower=1135986
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

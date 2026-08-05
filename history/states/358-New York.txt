@@ -1,0 +1,48 @@
+state={
+	id=358
+	name="STATE_358"
+	
+	resources={
+		steel=13
+		aluminium=2
+		oil=1
+	}
+	
+	history={
+		owner = OCA
+		add_core_of = OCA
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+		}
+		
+		victory_points = { # Albany
+			9693 15
+		}
+		
+		victory_points = { # Utica
+			9616 5
+		}
+		
+		victory_points = { # Syracuse
+			6795 10
+		}
+		
+		victory_points = { # Binghampton
+			6717 5
+		}
+		
+		victory_points = { # Elmira
+			11650 5
+		}
+	}
+	
+	provinces={
+		1436 3702 6717 6795 6916 9693 9708 11650 11660 13544 14113
+	}
+	manpower=2268124
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

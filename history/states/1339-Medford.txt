@@ -1,0 +1,33 @@
+state={
+	id=1339
+	name="STATE_1339"
+	
+	resources={
+		steel=2
+		aluminium=10
+		tungsten=8
+	}
+	
+	history={
+		owner = OCA
+		add_core_of = OCA
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 1
+		}
+		
+		victory_points = { # Medford
+			3471 5 
+		}
+	}
+	
+	provinces={
+		505 3471 11733 13828 13829 
+	}
+	manpower=236753
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

@@ -1,0 +1,44 @@
+
+state={
+	id=396
+	name="STATE_396"
+	manpower = 1658682
+	state_category = rural
+	
+	resources={
+		steel=12
+		oil=2
+		coal=6
+	}
+
+	history={
+		owner = OCA
+		add_core_of = OCA
+		
+		buildings = {
+			infrastructure = 3
+		}
+		
+		victory_points = { # Kokoma
+			7551 5 
+		}
+		victory_points = { # Lafayette
+			13661 5 
+		}
+		victory_points = { # Anderson
+			13613 5 
+		}
+		victory_points = { # Muncie
+			9810 5 
+		}
+		victory_points = { # Richmond
+			9796 5 
+		}
+	}
+
+	provinces={
+		870 4531 7551 9796 9810 13612 13613 13661
+	}
+
+	local_supplies=0.0 
+}

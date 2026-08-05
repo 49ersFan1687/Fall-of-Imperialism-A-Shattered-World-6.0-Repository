@@ -1,0 +1,26 @@
+state={
+	id=1044
+	name="STATE_1044"
+	
+	history={
+		owner = OCA
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = OCA
+		
+		victory_points = {
+			9379 10 
+		}
+
+	}
+	
+	provinces={
+		9379 
+	}
+	manpower=1999043
+	buildings_max_level_factor=1.000
+	state_category=large_city
+	local_supplies=0.000
+}

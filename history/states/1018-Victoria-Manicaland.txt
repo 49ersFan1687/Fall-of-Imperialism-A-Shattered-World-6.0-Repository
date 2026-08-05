@@ -1,0 +1,30 @@
+state={
+	id=1018
+	name="STATE_1018"
+	
+	resources = {
+		coal = 2
+	}
+	
+	history={
+		owner = FRT
+		add_core_of = FRT
+		
+		buildings = {
+			infrastructure = 2
+
+		}
+		
+		victory_points = { # Fort Victoria
+			7842 5
+		}
+
+	}
+	provinces={
+		7842 14399
+	}
+	manpower=1882665
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

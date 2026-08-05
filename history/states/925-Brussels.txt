@@ -1,0 +1,29 @@
+
+state={
+	id=925
+	name="STATE_925"
+	resources={
+		tungsten=5.000
+	}
+
+	history={
+		owner = EUR
+		add_core_of = EUR
+		buildings = {
+			infrastructure = 1
+
+		}
+		victory_points = {
+			516 30 
+		}
+
+	}
+
+	provinces={
+		516 
+	}
+	manpower=989900
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+	local_supplies=0.000
+}

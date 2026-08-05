@@ -1,0 +1,36 @@
+
+state={
+	id=962
+	name="STATE_962"
+	
+	resources = {
+		coal = 10
+	}
+
+	history={
+		owner = GRA
+		add_core_of = GRA
+		add_core_of = COL
+		
+		buildings = {
+			infrastructure = 2
+			8056 = {
+				naval_base = 1
+			}
+		}
+		victory_points = { # Barranquilla
+			1937 5 
+		}
+		victory_points = { # Riohacha
+			2085 5 
+		}
+	}
+
+	provinces={
+		1937 2085 8056 
+	}
+	manpower=3368570
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

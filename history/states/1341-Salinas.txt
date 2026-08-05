@@ -1,0 +1,26 @@
+state={
+	id=1341
+	name="STATE_1341"
+	
+	history={
+		owner = OCA
+		add_core_of = OCA
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		
+		victory_points = { # Salinas
+			13949 5
+		}
+	}
+	
+	provinces={
+		6694 6861 9637 13941 13942 13945 13947 13948 13949 13954 13955 13958 13959 
+	}
+	manpower=992099
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

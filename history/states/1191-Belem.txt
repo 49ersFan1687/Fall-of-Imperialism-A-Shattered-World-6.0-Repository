@@ -1,0 +1,28 @@
+state={
+	id=1191
+	name="STATE_1191"
+	
+	history={
+		owner = ATL
+		add_core_of = ATL
+		
+		buildings = {
+			infrastructure = 1
+			12853 = {
+				naval_base = 2
+			}
+		}
+		
+		victory_points = { # Belém
+			12853 10 
+		}
+	}
+	
+	provinces={
+		2035 2214 5008 10874 12853 12999 13283 13284 13329 13351 14276 14277 14278
+	}
+	manpower=4907073
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

@@ -1,0 +1,34 @@
+
+state={
+	id=48
+	name="STATE_48"
+	manpower = 2360384
+	resources={
+		aluminium = 2
+	}
+	
+	
+	state_category = city
+
+	history={
+		owner = EUR
+		victory_points = { #Sofia
+			949 20 
+		}
+		victory_points = { #Vidin
+			9771 5
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 6
+			air_base = 3
+		}
+		add_core_of = EUR
+	}
+
+	provinces={
+		793 935 949 965 3908 3971 9771 11754 
+	}
+
+	local_supplies=0.0 
+}

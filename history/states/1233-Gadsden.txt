@@ -1,0 +1,34 @@
+state={
+	id=1233
+	name="STATE_1233"
+	
+	resources={
+		steel=20
+		aluminium=10
+		tungsten=2
+		oil=2
+	}
+	
+	history={
+		owner = OCA
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 3
+			arms_factory = 2
+			air_base = 2
+		}
+		add_core_of = OCA
+		
+		victory_points = { # Tuscon
+			13461 10
+		}
+	}
+	
+	provinces={
+		3834 7920 10783 13458 13459 13461 13462 13463 
+	}
+	manpower=1015835
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

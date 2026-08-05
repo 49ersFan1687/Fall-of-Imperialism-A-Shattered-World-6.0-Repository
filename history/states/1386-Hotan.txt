@@ -1,0 +1,21 @@
+state={
+	id=1386
+	name="STATE_1386"
+
+	history={
+		owner = ESA
+		add_core_of = ESA
+		
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	
+	provinces={
+		4973 7790 8042 8086 8112 
+	}
+	manpower=800997
+	buildings_max_level_factor=1
+	state_category=rural
+	local_supplies=0
+}

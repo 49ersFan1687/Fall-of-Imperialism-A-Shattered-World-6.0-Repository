@@ -1,0 +1,26 @@
+state={
+	id=1427
+	name="STATE_1427"
+
+	history={
+		owner = EUR
+		add_core_of = EUR
+		
+		buildings = {
+			infrastructure = 3
+			arms_factory = 2
+			industrial_complex = 2
+		}
+		
+		victory_points = {
+			587 5 
+		}
+	}
+	provinces={
+		587 3444 3547 9522 
+	}
+	manpower=4168500
+	buildings_max_level_factor=1
+	state_category=large_city
+	local_supplies=0
+}

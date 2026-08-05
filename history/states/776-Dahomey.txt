@@ -1,0 +1,30 @@
+
+state={
+	id=776
+	name="STATE_776" # Benin/Dahomey
+	manpower = 3219750
+	
+	state_category = rural
+	history={
+		owner = FWA
+		add_core_of = FWA
+		add_core_of = DAH
+		
+		buildings = {
+			infrastructure = 2
+			10919 = {
+				naval_base = 1
+			}
+		}
+		
+		victory_points = {
+			10919 5
+		}
+	}
+
+	provinces={
+		10919 12874
+	}
+
+	local_supplies=1.0 
+}

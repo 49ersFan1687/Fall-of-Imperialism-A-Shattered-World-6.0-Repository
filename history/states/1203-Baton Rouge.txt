@@ -1,0 +1,38 @@
+state={
+	id=1203
+	name="STATE_1203"
+	
+	resources={
+		oil=2
+	}
+	
+	history={
+		owner = OCA
+		add_core_of = OCA
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+		}
+		
+		victory_points = { # Baton Rouge
+			1453 10 
+		}
+		
+		victory_points = { # Hammond
+			7524 5 
+		}
+		
+		victory_points = { # Slidell
+			13994 5 
+		}
+	}
+	
+	provinces={
+		1453 7524 13993 13994 13995 13996
+	}
+	manpower=612546
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

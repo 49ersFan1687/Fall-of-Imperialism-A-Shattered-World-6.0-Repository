@@ -1,0 +1,29 @@
+
+state={
+	id=560
+	name="STATE_560"
+	
+	resources={
+		steel=12
+	}
+
+	history={
+		owner = OCA
+		add_core_of = OCA
+		buildings = {
+			infrastructure = 2
+		}
+		
+		victory_points = { # Bangor
+			12459 5 
+		}
+	}
+
+	provinces={
+		1282 1338 1619 4287 6719 10247 10318 12202 12221 12459 
+	}
+	manpower=554704
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

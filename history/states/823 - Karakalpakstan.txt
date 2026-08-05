@@ -1,0 +1,32 @@
+state={
+	id=823
+	name="STATE_823"
+	
+	history = {
+	
+		victory_points = {
+			1614 5
+		}
+		victory_points = {
+			12465 10
+		}
+		
+		owner = EUR
+		
+		buildings = {
+			infrastructure = 2
+
+		}
+		
+		add_core_of = EUR
+		
+	}
+	
+	provinces={
+		1479 1576 1614 4488 4618 7541 10348 10395 10435 12233 12324 12454 12465 12471 12474 13207 
+	}
+	manpower=1976810
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

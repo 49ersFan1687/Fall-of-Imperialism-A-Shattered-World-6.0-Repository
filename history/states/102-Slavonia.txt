@@ -1,0 +1,23 @@
+
+state={
+	id=102
+	name="STATE_102"
+
+	history={
+		owner = EUR
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = EUR
+
+	}
+
+	provinces={
+		624 3627 9595 11594 
+	}
+	manpower=1237832
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

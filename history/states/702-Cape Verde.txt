@@ -1,0 +1,25 @@
+state={
+	id=702
+	name="STATE_702"
+	manpower = 335473
+	
+	state_category = rural
+
+	history={
+		owner = GNB
+		add_core_of = GNB
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			13014 ={
+				naval_base = 1
+			}
+		}
+	}
+
+	provinces={
+		13014 
+	}
+
+	local_supplies=0.0 
+}

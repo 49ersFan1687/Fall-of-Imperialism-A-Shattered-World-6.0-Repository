@@ -1,0 +1,23 @@
+
+state={
+	id=894
+	name="STATE_894"
+
+	history={
+		owner = OCA
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = OCA
+
+	}
+
+	provinces={
+		8136 12921 
+	}
+	manpower=415412
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

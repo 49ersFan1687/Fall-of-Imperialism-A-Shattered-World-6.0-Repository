@@ -1,0 +1,36 @@
+
+state={
+	id=122
+	name="STATE_122"
+	resources={
+		steel=11.000
+		aluminium=3.000
+		coal=4.000
+	}
+
+	history={
+		owner = OCA
+		victory_points = {
+			377 15 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			377 = {
+				naval_base = 3
+
+			}
+
+		}
+		add_core_of = OCA
+
+	}
+
+	provinces={
+		377
+	}
+	manpower=1379207
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

@@ -1,0 +1,41 @@
+state={
+	id=1296
+	name="STATE_1296"
+	
+	history={
+		owner = OCA
+		add_core_of = OCA
+		
+		buildings = {
+			infrastructure = 5
+			arms_factory = 3
+			industrial_complex = 7
+			air_base = 3
+		}
+		
+		victory_points = { # Chicago
+			9450 30
+		}
+		victory_points = { # Naperville
+			13596 10
+		}
+		victory_points = { # Joliet
+			13600 5
+		}
+		victory_points = { # Aurora
+			13601 5
+		}
+		victory_points = { # Waukegan
+			13599 5
+		}
+
+	}
+	
+	provinces={
+		9450 13596 13597 13598 13599 13600 13601 13602 13603
+	}
+	manpower=6847276
+	buildings_max_level_factor=1.000
+	state_category = megalopolis
+	local_supplies=0.000
+}

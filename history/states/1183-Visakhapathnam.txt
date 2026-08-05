@@ -1,0 +1,41 @@
+state={
+	id=1183
+	name="STATE_1183"
+	
+	resources = {
+		coal = 28
+	}
+	
+	history={
+		owner = RAJ
+		add_core_of = RAJ
+		add_core_of = PID
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			10255 ={
+				naval_base = 1
+			}
+			7340 ={
+				naval_base = 1
+			}
+		}
+		victory_points = { # Visakhapatnam
+			10255 20
+		}
+		victory_points = { # Vijayawada
+			7340 5
+		}
+		victory_points = { # Kakinada
+			4237 5
+		}
+
+	}
+	provinces={
+		1228 4237 7297 7340 10001 10255 
+	}
+	manpower=6316680
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

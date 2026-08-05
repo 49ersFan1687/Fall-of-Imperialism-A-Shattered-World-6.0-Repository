@@ -1,0 +1,49 @@
+
+state={
+	id=519
+	name="STATE_519"
+	
+	resources = {
+		coal = 12
+	}
+
+	history={
+		owner = OCA
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			dockyard = 1
+			12910 = {
+				naval_base = 5
+
+			}
+			5225 = {
+				naval_base = 3
+
+			}
+
+		}
+		victory_points = { # Adelaide
+			12910 20 
+		}
+		victory_points = { # Port Augusta
+			5225 10
+		}
+		victory_points = { # Marree
+			2205 5
+		}
+		victory_points = { # Mount Gambier
+			1773 5
+		}
+		add_core_of = OCA
+
+	}
+
+	provinces={
+		1773 2205 5211 5225 7567 10925 12910 12918 12924 
+	}
+	manpower=1117805
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

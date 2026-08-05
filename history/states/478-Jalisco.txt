@@ -1,0 +1,30 @@
+
+state={
+	id=478
+	name="STATE_478"
+	resources={
+		tungsten=8.000
+	}
+
+	history={
+		owner = MZT
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+		add_core_of = MZT
+		victory_points = { # Guadalajara
+			13089 10 
+		}
+
+	}
+
+	provinces={
+		2051 5052 12746 13089 
+	}
+	manpower=4771998	
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

@@ -1,0 +1,31 @@
+state={
+	id=1307
+	name="STATE_1307"
+	
+	resources={
+		aluminium=2
+	}
+	
+	history={
+		owner = OCA
+		add_core_of = OCA
+		
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 3
+		}
+		
+		victory_points = { # Cincinnati
+			4601 10 
+		}
+	}
+	
+	provinces={
+		4601 13649 13650
+	}
+	manpower=636887
+	buildings_max_level_factor=1.000
+	state_category = city
+	local_supplies=0.000
+}

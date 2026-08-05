@@ -1,0 +1,35 @@
+state={
+	id=974
+	name="STATE_974"
+	provinces={
+		507 6489 9458 
+	}
+	history={
+		owner = OCA
+		victory_points = { # Portsmouth
+			9458 15 
+		}
+		victory_points = { # Southampton
+			6489 5 
+		}
+		buildings = {
+			infrastructure = 3 #was: 7
+			industrial_complex = 1
+			air_base = 2
+			9458 = {
+				naval_base = 10
+				naval_headquarters = {
+					level = 1
+					allowed = {
+						has_dlc = "No Compromise, No Surrender"
+					}
+				}
+			}
+		}
+		add_core_of = OCA
+	}
+	manpower=1536923
+	state_category = city
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

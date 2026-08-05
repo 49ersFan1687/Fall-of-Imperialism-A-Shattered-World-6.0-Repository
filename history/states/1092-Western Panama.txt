@@ -1,0 +1,32 @@
+state={
+	id=1092
+	name="STATE_1092"
+	
+	resources = {
+		coal=4
+	}
+	
+	history={
+		owner = IAS
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			4611 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = IAS
+		victory_points = {
+			4611 1
+		}
+
+	}
+	
+	provinces={
+		1633 4611 4624 
+	}
+	manpower=859200
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

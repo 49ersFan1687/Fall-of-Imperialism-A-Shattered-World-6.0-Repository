@@ -1,0 +1,31 @@
+state={
+	id=511
+	name="STATE_511"
+	history={
+		owner = ARG
+		add_core_of = ARG
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 1
+
+		}
+		victory_points = { # Mendoza
+			13288 10 
+		}
+		victory_points = { # Rivadavia
+			8215 5 
+		}
+		victory_points = { # San Rafael
+			10992 5 
+		}
+
+	}
+	provinces={
+		2215 8215 10992 11021 13287 13288 
+	}
+	manpower=1299373
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

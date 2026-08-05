@@ -1,0 +1,41 @@
+state={
+	id=1273
+	name="STATE_1273"
+	
+	history={
+		owner = OCA
+		add_core_of = OCA
+		
+		buildings = {
+			infrastructure = 2
+		}
+		
+		victory_points = { # Greensboro
+			10081 10
+		}
+		
+		victory_points = { # Winston-Salem
+			12445 5
+		}
+		
+		victory_points = { # Fayetteville
+			14088 5 
+		}
+		
+		victory_points = { # Laurinburg
+			14089 5 
+		}
+		
+		victory_points = { # Durham
+			14090 5 
+		}
+	}
+	
+	provinces={
+		1019 7083 10051 10081 12445 14088 14089 14090 14091 14138 14139
+	}
+	manpower=739680
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

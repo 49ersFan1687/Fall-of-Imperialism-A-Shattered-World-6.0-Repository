@@ -1,0 +1,25 @@
+state={
+	id=1040
+	name="STATE_1040"
+	
+	history={
+		owner = OCA
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = OCA
+		
+		victory_points = { # Oxford
+			9239 10
+		}
+	}
+	
+	provinces={
+		9239 
+	}
+	manpower=1716468
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

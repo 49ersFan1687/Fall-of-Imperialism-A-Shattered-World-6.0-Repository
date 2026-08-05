@@ -1,0 +1,34 @@
+state={
+	id=1234
+	name="STATE_1234"
+	
+	resources={
+		steel=12
+		tungsten=2
+		oil=1
+		coal=12
+	}
+	
+	history={
+		owner = OCA
+		add_core_of = OCA
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		
+		victory_points = { # Calumet
+			13467 5 
+		}
+	}
+	
+	provinces={
+		868 13465 13467 13468 
+	}
+	manpower=163974
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

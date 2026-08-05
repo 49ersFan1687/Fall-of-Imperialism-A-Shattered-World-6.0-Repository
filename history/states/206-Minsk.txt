@@ -1,0 +1,38 @@
+
+state={
+	id=206
+	name="STATE_206"
+
+	history={
+		owner = EUR
+		victory_points = {
+			11370 20 
+		}
+		victory_points = {
+			9289 5 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			air_base = 8
+
+		}
+		add_core_of = EUR
+		1939.1.1 = {
+			buildings = {
+				industrial_complex = 3
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		11370 
+	}
+	manpower=1447000
+	buildings_max_level_factor=1.000
+	state_category=large_city
+	local_supplies=5.000
+}

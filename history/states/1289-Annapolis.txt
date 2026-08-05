@@ -1,0 +1,29 @@
+state={
+	id=1289
+	name="STATE_1289"
+	
+	history={
+		owner = OCA
+		add_core_of = OCA
+		
+		buildings = {
+			infrastructure = 4
+		}
+		
+		victory_points = { # Annapolis
+			13575 10
+		}
+		
+		victory_points = { # St. Charles
+			11892 10
+		}
+	}
+	
+	provinces={
+		11892 13575 14141 14142
+	}
+	manpower=920731
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=town
+}

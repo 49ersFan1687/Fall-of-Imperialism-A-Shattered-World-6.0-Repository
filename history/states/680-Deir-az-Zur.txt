@@ -1,0 +1,27 @@
+state={
+	id=680
+	name="STATE_680"
+	manpower = 409100
+	
+	resources={
+		oil=10.000
+		steel=10.000
+	}
+	
+	state_category = rural
+
+	history={
+		owner = SYR
+		add_core_of = SYR
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+
+	provinces={
+		901 2013 
+	}
+
+	local_supplies=4.0 
+}

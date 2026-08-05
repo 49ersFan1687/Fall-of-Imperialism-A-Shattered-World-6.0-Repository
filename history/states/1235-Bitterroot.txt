@@ -1,0 +1,32 @@
+state={
+	id=1235
+	name="STATE_1235"
+	
+	resources={
+		tungsten=20 # was: 16
+		chromium=12 # was: 2
+	}
+	
+	history={
+		owner = OCA
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = OCA
+		
+		victory_points = { # Butte
+			7779 3
+		}
+		victory_points = { # Missoula
+			6742 5
+		}
+	}
+	
+	provinces={
+		1736 1854 4838 6742 7779 12676 14195 14196 14198 14199
+	}
+	manpower=225748
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

@@ -1,0 +1,29 @@
+state={
+	id=449
+	name="STATE_449"
+	
+	history={
+		owner = RME
+		buildings = {
+			infrastructure = 2
+			arms_factory=2
+		}
+		add_core_of = RME
+		add_core_of = LBA
+		
+		victory_points = { # Euphranta
+			4047 10
+		}
+		victory_points = { # Arae Philaenorum
+			12088 5 
+		}
+	}
+	
+	provinces={
+		1041 4047 7136 7194 10046 10117 12088 13073 
+	}
+	manpower=112357
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

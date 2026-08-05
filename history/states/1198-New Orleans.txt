@@ -1,0 +1,31 @@
+state={
+	id=1198
+	name="STATE_1198"
+	
+	history={
+		owner = OCA
+		add_core_of = OCA
+		
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			air_base = 5
+			7552 = {
+				naval_base = 5
+
+			}
+		}
+		
+		victory_points = { # New Orleans
+			7552 25 
+		}
+	}
+	
+	provinces={
+		7552 13987 13991 14005 14006
+	}
+	manpower=1276137
+	buildings_max_level_factor=1.000
+	state_category=large_city
+	local_supplies=0.000
+}

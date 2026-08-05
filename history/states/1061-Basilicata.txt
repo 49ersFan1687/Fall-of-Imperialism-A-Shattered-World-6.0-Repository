@@ -1,0 +1,20 @@
+state={
+	id=1061
+	name="STATE_1061"
+	
+	history = {
+		owner = EUR
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = EUR
+	}
+	
+	provinces={
+		3958 3968 6972 9856 
+	}
+	manpower=610186	
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

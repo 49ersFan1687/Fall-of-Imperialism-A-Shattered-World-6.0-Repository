@@ -1,0 +1,27 @@
+state={
+	id=1404
+	name="STATE_1404"
+
+	history={
+		owner = ESA
+		add_core_of = ESA
+		
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 1
+		}
+		
+		victory_points = {
+			1025 10 
+		}
+	}
+	
+	provinces={
+		1025 1158 4164 7110 10011 
+	}
+	manpower=5143260
+	buildings_max_level_factor=1
+	state_category = large_town
+	local_supplies=0
+}

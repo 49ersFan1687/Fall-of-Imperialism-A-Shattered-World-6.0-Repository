@@ -1,0 +1,21 @@
+
+state={
+	id=847
+	name="STATE_847"
+	manpower = 478429
+	state_category = rural
+	resources={
+	}
+	history={
+		owner = EUR
+		buildings = {
+			infrastructure = 1 
+			industrial_complex = 1
+		}
+		add_core_of = EUR
+	}
+	provinces={
+		636 9587 3612 9618  
+	}
+	local_supplies=0.0 
+}

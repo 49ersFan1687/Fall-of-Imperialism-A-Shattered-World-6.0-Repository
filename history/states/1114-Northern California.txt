@@ -1,0 +1,37 @@
+state={
+	id=1114
+	name="STATE_1114"
+	
+	resources={
+		steel=6
+		oil=12
+	}
+	
+	history={
+		owner = OCA
+		add_core_of = OCA
+		
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+			air_base = 2
+		}
+		
+		victory_points = { # Redding
+			766 15
+		}
+		
+		victory_points = { # Yuba City
+			13846 5
+		}
+	}
+	
+	provinces={
+		766 13846 13847 13848
+	}
+	manpower=237520
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

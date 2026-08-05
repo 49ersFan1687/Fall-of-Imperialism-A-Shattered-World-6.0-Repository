@@ -1,0 +1,53 @@
+
+state={
+	id=192
+	name="STATE_192"
+
+	history={
+		owner = EUR
+		victory_points = {
+			11670 10 
+		}
+		victory_points = {
+			6727 1 
+		}
+		victory_points = {
+			3757 3 
+		}
+		victory_points = {
+			741 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			air_base = 6
+			11670 = {
+				naval_base = 3
+				coastal_bunker = 1
+
+			}
+			6727 = {
+				naval_base = 3
+
+			}
+
+		}
+		add_core_of = EUR
+		1939.1.1 = {
+			buildings = {
+				industrial_complex = 2
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		741 754 3575 3701 3704 3738 3757 6727 6743 9576 9698 9714 11670 11703 
+	}
+	manpower=2022197
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=6.000
+}

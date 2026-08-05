@@ -1,0 +1,24 @@
+state={
+	id=1139
+	name="STATE_1139"
+	
+	history={
+		owner = PAL
+		add_core_of = PAL
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		victory_points = {
+			13402 20 
+		}
+	}
+	
+	provinces={
+		13402 
+	}
+	manpower=442000
+	buildings_max_level_factor=1.000
+	state_category=large_city
+	local_supplies=0.000
+}

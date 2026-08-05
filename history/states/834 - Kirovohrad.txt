@@ -1,0 +1,36 @@
+
+state={
+	id=834
+	name="STATE_834"
+
+	history={
+		owner = EUR
+		victory_points = {
+			3452 3 
+		}
+		victory_points = {
+			6478 1 
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = EUR
+		1939.1.1 = {
+			buildings = {
+				industrial_complex = 2
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		409 434 3403 3452 3468 6451 6478 9573 11409 
+	}
+	manpower=777192
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=6.000
+}

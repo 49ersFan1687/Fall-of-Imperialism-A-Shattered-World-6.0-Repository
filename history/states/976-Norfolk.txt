@@ -1,0 +1,24 @@
+state={
+	id=976
+	name="STATE_976"
+	provinces={
+		322 3287 
+	}
+	history={
+		owner = OCA
+		buildings = {
+			infrastructure = 3 #was: 7
+			industrial_complex = 1
+			synthetic_refinery = 1
+		}
+		add_core_of = OCA
+		
+		victory_points = { # Norwich
+			322 5
+		}
+	}
+	manpower=676688
+	state_category = town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

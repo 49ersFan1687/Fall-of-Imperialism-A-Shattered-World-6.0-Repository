@@ -1,0 +1,25 @@
+state={
+	id=1262
+	name="STATE_1262"
+	
+	history={
+		owner = OCA
+		buildings = {
+			infrastructure = 4 #was: 5
+			industrial_complex = 2
+		}
+		add_core_of = OCA
+		
+		victory_points = { # Columbia
+			13546 10
+		}
+	}
+	
+	provinces={
+		13546 13547 
+	}
+	manpower=523498
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

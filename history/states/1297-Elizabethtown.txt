@@ -1,0 +1,35 @@
+state={
+	id=1297
+	name="STATE_1297"
+	
+	resources={
+		steel=2
+		aluminium=4
+		oil=1
+		coal=24
+	}
+	
+	history={
+		owner = OCA
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = OCA
+		
+		victory_points = { # Elizabethtown
+			954 5
+		}
+		
+		victory_points = { # Urbana
+			1655 5
+		}
+	}
+	
+	provinces={
+		1655 954 1604 4508 7626 7831 
+	}
+	manpower=456485
+	buildings_max_level_factor=1.000
+	state_category = rural
+	local_supplies=0.000
+}

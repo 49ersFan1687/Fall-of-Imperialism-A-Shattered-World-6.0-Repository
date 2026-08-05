@@ -1,0 +1,30 @@
+state={
+	id=1048
+	name="STATE_1048"
+	
+	resources = {
+		coal = 16
+	}
+	
+	history={
+		owner = OCA
+		add_core_of = OCA
+		
+		buildings = {
+			infrastructure = 3
+
+		}
+		
+		victory_points = { # Warwick
+			6270 5
+		}
+	}
+	
+	provinces={
+		6270 
+	}
+	manpower=466045
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

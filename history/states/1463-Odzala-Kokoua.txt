@@ -1,0 +1,22 @@
+state={
+	id=1463
+	name="STATE_1463"
+	
+	history={
+		owner = EQG
+		add_core_of = EQG
+		add_core_of = RCG
+		
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces={
+		3109 
+	}
+	manpower=475390
+	buildings_max_level_factor=1
+	state_category=rural
+	local_supplies=0
+}

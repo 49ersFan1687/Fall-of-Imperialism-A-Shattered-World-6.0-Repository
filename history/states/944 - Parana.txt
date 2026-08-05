@@ -1,0 +1,59 @@
+
+state={
+	id=944
+	name="STATE_944"
+
+	history={
+		owner = PNA
+		add_core_of = PNA
+		
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+		}
+		
+		victory_points = { # Curitiba
+			8181 15 
+		}
+		
+		victory_points = { # Ponta Grossa
+			14298 5
+		}
+		
+		victory_points = { # Londrina
+			14295 5
+		}
+		
+		victory_points = { # Maringá
+			14294 5
+		}
+		
+		victory_points = { # Guarapuava
+			14301 5
+		}
+		
+		victory_points = { # Francisco Beltrão
+			14308 5
+		}
+		
+		victory_points = { # Foz do Iguacu
+			14311 5
+		}
+		
+		victory_points = { # Toledo
+			14310 5
+		}
+		
+		victory_points = { # Cascavel
+			14309 10
+		}
+	}
+
+	provinces={
+		2109 4587 5156 5178 8181 8239 14293 14294 14295 14296 14297 14298 14299 14300 14301 14302 14303 14304 14305 14306 14307 14308 14309 14310 14311 14312 14313
+	}
+	manpower=7749752
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

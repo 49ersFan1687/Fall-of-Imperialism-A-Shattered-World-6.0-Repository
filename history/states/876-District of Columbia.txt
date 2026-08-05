@@ -1,0 +1,26 @@
+
+state={
+	id=876
+	name="STATE_876"
+
+	history={
+		owner = OCA
+		add_core_of = OCA
+		
+		buildings = {
+			infrastructure = 1
+		}
+		
+		victory_points = { # Washington
+			3957 20 
+		}
+	}
+
+	provinces={
+		3957 14145 14146
+	}
+	manpower=633382 
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

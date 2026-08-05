@@ -1,0 +1,35 @@
+state={
+	id=1301
+	name="STATE_1301"
+	
+	resources={
+		steel=2
+		aluminium=1
+		tungsten=1
+		coal=20
+	}
+	
+	history={
+		owner = OCA
+		add_core_of = OCA
+		
+		buildings = {
+			infrastructure = 2
+		}
+		
+		victory_points = { # Evansville
+			11635 10 
+		}
+		victory_points = { # New Albany
+			1881 5 
+		}
+	}
+	
+	provinces={
+		1881 4527 10448 11621 11635 12437 13611
+	}
+	manpower=800415
+	buildings_max_level_factor=1.000
+	state_category = rural
+	local_supplies=0.000
+}

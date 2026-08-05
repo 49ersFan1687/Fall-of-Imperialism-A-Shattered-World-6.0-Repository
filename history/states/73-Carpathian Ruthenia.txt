@@ -1,0 +1,27 @@
+state={
+	id=73
+	name="STATE_73"
+	manpower = 747513
+	
+	state_category = town
+	
+	history={
+		victory_points = {
+			3548 10
+		}
+		victory_points = {
+			6571 5 
+		}
+		owner = EUR
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = EUR
+	}
+
+	provinces={
+		3548 6571 9563 11536 
+	}
+
+	local_supplies=0.0 
+}

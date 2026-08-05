@@ -1,0 +1,34 @@
+state={
+	id=896
+	name="STATE_896"
+	manpower = 2537400
+	state_category = rural
+	
+	resources={
+		steel=6.000
+	}
+	
+	history={
+		owner = FRT
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = FRT
+		
+		victory_points = {
+			2120 3 
+		}
+		victory_points = {
+			5155 5 
+		}
+	}
+
+
+	provinces={
+		2120 5155 12935 12950 
+	}
+
+	buildings_max_level_factor=1.000
+	local_supplies = 0.000
+}

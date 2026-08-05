@@ -1,0 +1,34 @@
+state={
+	id=1330
+	name="STATE_1330"
+	
+	resources={
+		steel=12
+		chromium=2
+		tungsten=12
+	}
+
+	history={
+		owner = OCA
+		add_core_of = OCA
+		
+		buildings = {
+			infrastructure = 2
+		}
+		
+		victory_points = { # Coeur d'Alene
+			12124 5
+		}
+		victory_points = { # Lewiston
+			4778 1
+		}
+	}
+	
+	provinces={
+		1832 3781 4778 12124 13725 13726 
+	}
+	manpower=231460
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

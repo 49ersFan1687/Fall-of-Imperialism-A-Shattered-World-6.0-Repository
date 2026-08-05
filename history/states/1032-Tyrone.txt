@@ -1,0 +1,23 @@
+state={
+	id=1032
+	name="STATE_1032"
+	
+	history={
+		owner = OCA
+		victory_points = {
+			385 1 # Londonderry
+		}
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = OCA
+	}
+	
+	provinces={
+		276 385 11257 
+	}
+	manpower=399601
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

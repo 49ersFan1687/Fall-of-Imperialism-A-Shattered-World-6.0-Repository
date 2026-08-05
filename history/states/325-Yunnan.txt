@@ -1,0 +1,32 @@
+
+state={
+	id=325
+	name="STATE_325"
+	resources={
+		tungsten=2.000
+		coal=32
+	}
+
+	history={
+		owner = ESA
+		add_core_of = ESA
+		victory_points = {
+			1319 10 
+		}
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 3
+
+		}
+
+	}
+
+	provinces={
+		1114 1172 1196 1319 1383 1522 1653 4501 4559 4937 5009 7446 7606 7965 7976 8023 8126 10346 10413 10776 10863 12262 12282 12789 12898 
+	}
+	manpower=32553817
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=3.000
+}

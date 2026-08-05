@@ -1,0 +1,39 @@
+state={
+	id=1328
+	name="STATE_1328"
+	
+	resources={
+		oil=6
+	}
+	
+	history={
+		owner = OCA
+		add_core_of = OCA
+		
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+		}
+		
+		victory_points = { # Yakima
+			12155 5
+		}
+		
+		victory_points = { # Kennewick
+			10690 5
+		}
+		
+		victory_points = { # Wenatchee
+			13757 5
+		}
+	}
+	
+	provinces={
+		10155 10690 12155 13757 13785 13786 13787 
+	}
+	manpower=408357
+	buildings_max_level_factor=1.000
+	state_category = town
+	local_supplies=0.000
+}

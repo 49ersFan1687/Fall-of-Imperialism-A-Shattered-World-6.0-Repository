@@ -1,0 +1,36 @@
+
+state={
+	id=294
+	name="STATE_294"
+	manpower = 1166917
+	
+	state_category = town
+	
+	resources={
+		oil=12
+	}
+
+	history={
+		owner = OMA
+		add_core_of = OMA
+		
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 2
+			10760 = {
+				naval_base = 3
+			}
+		}
+		
+		victory_points = { # Muscat
+			10760 10
+		}
+	}
+
+	provinces={
+		1947 4993 5049 8020 10760 
+	}
+
+	local_supplies=0.0 
+}

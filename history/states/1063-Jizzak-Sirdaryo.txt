@@ -1,0 +1,27 @@
+state={
+	id=1063
+	name="STATE_1063"
+	
+	resources = {
+		coal = 12
+	}
+	
+	history = {
+	
+		owner = EUR
+		
+		buildings = {
+			infrastructure = 3
+		}
+		
+		add_core_of = EUR
+	}
+	
+	provinces={
+		7682 11687 
+	}
+	manpower=1157255
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

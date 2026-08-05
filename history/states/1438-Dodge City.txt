@@ -1,0 +1,29 @@
+state={
+	id=1438
+	name="STATE_1438"
+	
+	resources={
+		oil=8
+	}
+
+	history={
+		owner = OCA
+		add_core_of = OCA
+		
+		buildings = {
+			infrastructure = 2
+		}
+		
+		victory_points = { # Dodge City
+			4586 5
+		}
+	}
+	
+	provinces={
+		4586 10340 13657 
+	}
+	manpower=363613
+	buildings_max_level_factor=1
+	state_category = rural
+	local_supplies=0
+}

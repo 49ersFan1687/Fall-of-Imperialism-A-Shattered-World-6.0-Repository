@@ -1,0 +1,44 @@
+
+state={
+	id=388
+	name="STATE_388"
+	manpower = 595156
+	state_category = town
+	
+	resources={
+		steel = 4
+		tungsten=11
+		oil=8
+		coal=12
+	}
+
+	history={
+		owner = OCA
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = OCA
+		
+		victory_points = { # Billings
+			1851 5 
+		}
+		
+		victory_points = { # Great Falls 
+			4860 5 
+		}
+		
+		victory_points = { # Miles City
+			7760 1
+		}
+		
+		victory_points = { # Bozeman
+			4741 3
+		}
+	}
+
+	provinces={
+		1767 1851 4741 4857 4860 7760 7880 10587 10706 12572 12585 13470 14189 14190 14191 14192 14193 14194
+	}
+
+	local_supplies=0.0 
+}

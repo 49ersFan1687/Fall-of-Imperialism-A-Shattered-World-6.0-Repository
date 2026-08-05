@@ -1,0 +1,32 @@
+state={
+	id=1405
+	name="STATE_1405"
+
+	history={
+		owner = ESA
+		add_core_of = ESA
+		
+		buildings = {
+			infrastructure = 4
+			air_base = 5
+			dockyard = 4
+			arms_factory = 1
+			industrial_complex = 3
+			9950 = {
+				naval_base = 6
+			}
+		}
+		
+		victory_points = {
+			9950 30
+		}
+	}
+	
+	provinces={
+		9950 
+	}
+	manpower=1095738
+	buildings_max_level_factor=1
+	state_category = city
+	local_supplies=0
+}

@@ -1,0 +1,22 @@
+state={
+	id=1402
+	name="STATE_1402"
+
+	history = {
+		owner = ESA
+		add_core_of = ESA
+
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+	}
+	
+	provinces={
+		1051 1133 4054 4142 7113 12097 
+	}
+	manpower=3886578
+	buildings_max_level_factor=1
+	state_category = large_town
+	local_supplies=0
+}

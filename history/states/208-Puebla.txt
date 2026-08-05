@@ -1,0 +1,27 @@
+
+state={
+	id=208
+	name="STATE_208"
+
+	history={
+		owner = MZT
+		buildings = {
+			infrastructure = 3
+			air_base = 3
+
+		}
+		add_core_of = MZT
+		victory_points = { # Puebla
+			8089 20 
+		}
+
+	}
+
+	provinces={
+		8089 12867 
+	}
+	manpower=3787685	
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

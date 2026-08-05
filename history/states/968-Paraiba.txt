@@ -1,0 +1,33 @@
+
+state={
+	id=968
+	name="STATE_968"
+
+	history={
+		owner = ATL
+		add_core_of = ATL
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			2227 = {
+				naval_base = 1
+			}
+		}
+		
+		victory_points = { # João Pessoa
+			2227 5
+		}
+		victory_points = { # Campa Grande
+			1446 5
+		}
+	}
+
+	provinces={
+		1446 2227 7561 10989 
+	}
+	manpower=2504351
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

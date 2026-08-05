@@ -1,0 +1,27 @@
+state={
+	id=1174
+	name="STATE_1174"
+	
+	history={
+		owner = IRQ
+		add_core_of = IRQ
+		
+		victory_points = {
+			7994 5
+		}
+		
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 3
+		}
+	}
+	
+	provinces={
+		7977 7994 10876 
+	}
+	manpower=2703331
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

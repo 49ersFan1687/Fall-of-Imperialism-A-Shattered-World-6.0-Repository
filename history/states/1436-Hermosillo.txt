@@ -1,0 +1,25 @@
+state={
+	id=1436
+	name="STATE_1436"
+	
+	history={
+		owner = OCA
+		add_core_of = OCA
+		
+		buildings = {
+			infrastructure = 3
+		}
+		
+		victory_points = { # Hermosillo
+			10765 15
+		}
+	}
+	
+	provinces={
+		2069 5071 8012 10765 10848 12833 13214 14384 14385 14386 14387
+	}
+	manpower=673492
+	buildings_max_level_factor=1
+	state_category = town
+	local_supplies=0
+}
