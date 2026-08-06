@@ -1,6 +1,6 @@
 ﻿l_english:
 #COUNTRY NAMES#
- CAL: "California"
+ CAL: "California Republic"
  CAL_DEF: "California Republic"
  CAL_ADJ: "Californian"
  OPM: "Oregon Military District"
@@ -15,6 +15,9 @@
  PCD: "People's Republic of Cascadia"
  PCD_DEF: "People's Republic of Cascadia"
  PCD_ADJ: "Cascadian"
+ CSD: "Provisional Authority of Cascadia"
+ CSD_DEF: "Provisional Authority of Cascadia"
+ CSD_ADJ: "Cascadian"
  WGP: "Washington Government"
  WGP_DEF: "Washington Provisional Government"
  WGP_ADJ: "Washingtonian"
