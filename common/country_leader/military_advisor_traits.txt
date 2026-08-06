@@ -54,7 +54,7 @@ leader_traits = {
 		random = no
 	}
 
-    cos_school_of_defence = {
+    cos_school_of_defensive_warfare = {
 		production_speed_bunker_factor = 0.15
 		production_speed_coastal_bunker_factor = 0.15
 		production_speed_anti_air_building_factor = 0.15
@@ -64,7 +64,7 @@ leader_traits = {
 		random = no
 	}
 
-    cos_school_of_psychology = {
+    cos_school_of_psychological_warfare = {
         army_org_factor = 0.1
 		army_morale_factor = 0.1
 		experience_gain_army = 0.05
