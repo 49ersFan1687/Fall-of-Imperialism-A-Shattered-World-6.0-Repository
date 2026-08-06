@@ -448,7 +448,6 @@ characters = {
                 panzer_expert
             }
 			skill = 5
-			legacy_id = 999
 			attack_skill = 4
 			defense_skill = 3
 			planning_skill = 3
@@ -488,7 +487,42 @@ characters = {
 	}
 
     ### Admirals ###
+    CAL_ernest_joseph_king = {
+		name = CAL_ernest_joseph_king
+		portraits = {
+			army = {
+				large = "gfx/leaders/CAL/Portrait_CAL_Ernest_Joseph_King.dds"
+			}
+		}
+	}
+	
+	CAL_chester_william_nimitz = {
+		name = CAL_chester_william_nimitz
+		portraits = {
+			army = {
+				large = "gfx/leaders/CAL/Portrait_CAL_Chester_William_Nimitz.dds"
+			}
+		}
 
+	}
+
+	CAL_william_daniel_Leahy = {
+		name = CAL_william_daniel_Leahy
+		portraits = {
+			army = {
+				large = "gfx/leaders/CAL/Portrait_CAL_William_Daniel_Leahy.dds"
+			}
+		}
+	}
+
+	CAL_william_fredrick_halsey_jr = {
+		name = CAL_william_fredrick_halsey_jr
+		portraits = {
+			army = {
+				large = "gfx/leaders/CAL/Portrait_CAL_William_Fredrick_Halsey_Jr.dds"
+			}
+		}
+	}
 
     ## Advisors - Army (Chiefs/High Command) - NOT GENREALS/FIELD MARSHALS ##
 
