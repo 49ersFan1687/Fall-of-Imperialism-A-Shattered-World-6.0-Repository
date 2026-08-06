@@ -1,5 +1,20 @@
 l_english:
 
+### Descriptions ###
+esotericism_desc: "Totalitarian Regime"
+national_socialism_desc: "Totalitarian Regime"
+ultranationalism_desc: "Totalitarian Regime"
+fascism_desc: "Totalitarian Regime"
+paternal_autocrat_desc: "Authoritarian Regime"
+accelerationism_desc: "Accelerationist Regime"
+neutrality_desc: "Authoritarian Regime"
+conservatism_desc: "Democratic Regime"
+social_democracy_desc: "Democratic Regime"
+socialism_desc: "Socialist Regime"
+syndicalism_desc: "Socialist Regime"
+communism_desc: "Totalitarian Regime"
+democratic_desc: "Democratic Regime"
+
 ### SubIdeologies - Communism ###
 
 ### SubIdeologies - Syndicalism ###
