@@ -128,4 +128,3 @@ recruit_character = CAL_william_daniel_leahy
 ##################
 ### Scientists ###
 ##################
-recruit_character = CAL_niels_henrik_david_bohr

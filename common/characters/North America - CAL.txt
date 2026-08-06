@@ -488,39 +488,91 @@ characters = {
 
     ### Admirals ###
     CAL_ernest_joseph_king = {
-		name = CAL_ernest_joseph_king
+		name = "Ernest Joseph King"
 		portraits = {
 			army = {
 				large = "gfx/leaders/CAL/Portrait_CAL_Ernest_Joseph_King.dds"
 			}
 		}
+		navy_leader = {
+			traits = {
+				blockade_runner
+				superior_tactician
+				career_officer
+				concealment_expert
+			}
+			skill = 3
+			attack_skill = 3
+			defense_skill = 2
+			maneuvering_skill = 2
+			coordination_skill = 3
+		}	
 	}
 	
 	CAL_chester_william_nimitz = {
-		name = CAL_chester_william_nimitz
+		name = "Chester William Nimitz"
 		portraits = {
 			army = {
 				large = "gfx/leaders/CAL/Portrait_CAL_Chester_William_Nimitz.dds"
 			}
 		}
-
+		navy_leader = {
+			traits = {
+				superior_tactician
+				seawolf
+				lancer
+				silent_hunter
+			}
+			skill = 3
+			attack_skill = 4
+			defense_skill = 2
+			maneuvering_skill = 2
+			coordination_skill = 3
+		}
 	}
 
 	CAL_william_daniel_Leahy = {
-		name = CAL_william_daniel_Leahy
+		name = "William Daniel Leahy"
 		portraits = {
 			army = {
 				large = "gfx/leaders/CAL/Portrait_CAL_William_Daniel_Leahy.dds"
 			}
 		}
+		navy_leader = {
+			traits = {
+				old_guard_navy
+				superior_tactician
+				ironside
+				fleet_protector
+				big_guns_expert
+			}
+			skill = 4
+			attack_skill = 3
+			defense_skill = 3
+			maneuvering_skill = 3
+			coordination_skill = 4
+		}
 	}
 
 	CAL_william_fredrick_halsey_jr = {
-		name = CAL_william_fredrick_halsey_jr
+		name = "William Fredrick Halsey Jr."
 		portraits = {
 			army = {
 				large = "gfx/leaders/CAL/Portrait_CAL_William_Fredrick_Halsey_Jr.dds"
 			}
+		}
+		navy_leader = {
+			traits = {
+				aviation_enthusiast
+				superior_tactician
+				spotter
+				flight_deck_manager
+			}
+			skill = 3
+			attack_skill = 2
+			defense_skill = 2
+			maneuvering_skill = 3
+			coordination_skill = 3
 		}
 	}
 
