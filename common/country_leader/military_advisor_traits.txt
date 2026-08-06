@@ -67,6 +67,7 @@ leader_traits = {
     cos_school_of_psychology = {
         army_org_factor = 0.1
 		army_morale_factor = 0.1
+		experience_gain_army = 0.05
 		random = no
     }
 
