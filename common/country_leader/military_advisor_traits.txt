@@ -52,6 +52,16 @@ leader_traits = {
 		random = no
 	}
 
+    cos_school_of_defence = {
+		production_speed_bunker_factor = 0.15
+		production_speed_coastal_bunker_factor = 0.15
+		production_speed_anti_air_building_factor = 0.15
+        cat_grand_battle_plan_cost_factor = -0.15
+        experience_gain_army = 0.05
+		max_dig_in = 10
+		random = no
+	}
+
     ### Army Advisor Traits - Common ###
 
 
