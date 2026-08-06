@@ -1,14 +1,48 @@
 leader_traits = {
-    ### Chief of Staff Traits ###
-    
+    ### Chief of Staff Traits - Common ###
+    cos_school_of_commando_operations = {
+        special_forces_attack_factor = 0.15
+		special_forces_defence_factor = 0.15
+		special_forces_cap = 0.03
+        experience_gain_army = 0.05
+		random = no
+    }
 
-    ### Army Advisor Traits ###
+    cos_school_of_manoeuvre_warfare = {
+		army_speed_factor = 0.1
+		equipment_bonus = {
+			motorized_equipment = {
+				maximum_speed = 0.1
+				instant = yes
+			}
+			mechanized_equipment = {
+				maximum_speed = 0.1
+				instant = yes
+			}
+		}
+		army_armor_attack_factor = 0.1
+		army_armor_defence_factor = 0.1
+		random = no
+	}
+
+    ### Army Advisor Traits - Common ###
 
 
-    ### Navy Advisor Traits ###
+    ### Navy Advisor Traits - Common ###
 
 
-    ### Air Advisor Traits ###
+    ### Air Advisor Traits - Common ###
 
+
+    ### Chief of Staff Traits - Unique ###
+
+
+    ### Army Advisor Traits - Unique ###
+
+
+    ### Navy Advisor Traits - Unique ###
+
+
+    ### Air Advisor Traits - Unique ###
 }
 
