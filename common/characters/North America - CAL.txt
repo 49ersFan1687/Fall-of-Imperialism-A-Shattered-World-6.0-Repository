@@ -68,33 +68,6 @@ characters = {
         }
     }
 
-    CAL_omar_nelson_bradley = {
-        name = "Omar Nelson Bradley"
-        portraits = {
-            civilian = {
-                large = "gfx/leaders/CAL/Portrait_CAL_Omar_Nelson_Bradley.dds"
-            }
-            army = {
-                large = "gfx/leaders/CAL/Portrait_CAL_Omar_Nelson_Bradley.dds"
-            }
-        }
-        field_marshal = {
-			#desc = dont' leave equal symbol empty
-			traits = {
-				trait_engineer
-				cautious
-				organizer
-				brilliant_strategist
-				career_officer
-			}
-			skill = 4
-			attack_skill = 4
-			defense_skill = 4
-			planning_skill = 5
-			logistics_skill = 3
-		}
-    }
-
     CAL_george_smith_patton_jr = {
 		name = "George Smith Patton Jr."
 		portraits = {
@@ -122,6 +95,33 @@ characters = {
 	}
 
     ### Field Marshals ###
+	CAL_omar_nelson_bradley = {
+        name = "Omar Nelson Bradley"
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/CAL/Portrait_CAL_Omar_Nelson_Bradley.dds"
+            }
+            army = {
+                large = "gfx/leaders/CAL/Portrait_CAL_Omar_Nelson_Bradley.dds"
+            }
+        }
+        field_marshal = {
+			#desc = dont' leave equal symbol empty
+			traits = {
+				trait_engineer
+				cautious
+				organizer
+				brilliant_strategist
+				career_officer
+			}
+			skill = 4
+			attack_skill = 4
+			defense_skill = 4
+			planning_skill = 5
+			logistics_skill = 3
+		}
+    }
+
     CAL_curtis_emerson_lemay = {
         name = "Curtis Emerson LeMay"
         portraits = {
