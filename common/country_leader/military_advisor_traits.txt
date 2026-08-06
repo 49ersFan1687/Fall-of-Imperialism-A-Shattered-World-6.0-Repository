@@ -64,6 +64,12 @@ leader_traits = {
 		random = no
 	}
 
+    cos_school_of_psychology = {
+        army_org_factor = 0.1
+		army_morale_factor = 0.1
+		random = no
+    }
+
     ### Army Advisor Traits - Common ###
 
 
