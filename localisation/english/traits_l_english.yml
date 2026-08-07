@@ -1,5 +1,7 @@
 l_english:
 
+##### MILITARY TRAITS #####
+
 ### Military Traits - Chief of Staff ###
 cos_school_of_commando_operations:0 "School of Commando Operations"
 cos_school_of_manoeuvre_warfare:0 "School of Manoeuvre Warfare"
@@ -11,9 +13,7 @@ cos_school_of_psychological_warfare:0 "School of Psychological Warfare"
 ### Military Traits - Army Advisor Traits ###
 
 
-
 ### Military Traits - Navy Advisor Traits ###
-
 
 
 ### Military Traits - Air Force Advisor Traits ###
