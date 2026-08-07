@@ -1,0 +1,18 @@
+leader_traits = {
+    ### Head of Government ###
+
+
+    ### Foreign Minister ###
+
+
+    ### Defense Minister ###
+
+
+    ### Economy Minister ###
+
+
+    ### Interior Minister ###
+
+
+    
+}
