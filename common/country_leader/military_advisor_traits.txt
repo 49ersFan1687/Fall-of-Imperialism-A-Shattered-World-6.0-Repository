@@ -73,6 +73,11 @@ leader_traits = {
 
     ### Army Advisor Traits - Common ###
 
+	## Army Chiefs ##
+
+
+	## High Command ##
+	
 
     ### Navy Advisor Traits - Common ###
 
