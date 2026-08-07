@@ -119,6 +119,15 @@ characters = {
 			planning_skill = 5
 			logistics_skill = 3
 		}
+		advisor = {
+			cost = 150
+			slot = chief_of_staff
+			idea_token = cos_omar_nelson_bradley
+			ledger = army
+			traits = {
+				cos_school_of_mass_combat
+			}
+		}
     }
 
     CAL_curtis_emerson_lemay = {
