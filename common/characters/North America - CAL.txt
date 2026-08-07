@@ -126,6 +126,7 @@ characters = {
         portraits = {
             army = {
                 large = "gfx/leaders/CAL/Portrait_CAL_Curtis_Emerson_Lemay.dds"
+				small = "gfx/leaders/CAL/small/Portrait_CAL_Curtis_Emerson_lemay_small.dds"
             }
         }
         field_marshal = {
