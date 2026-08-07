@@ -1,0 +1,7 @@
+spriteTypes = {
+    # California #
+	spriteType = {
+		name = "GFX_CAL_Dwight_David_Eisenhower"
+		textureFile = "gfx/leaders/CAL/small/Portrait_CAL_Dwight_David_Eisenhower_small.dds"
+	}
+}
