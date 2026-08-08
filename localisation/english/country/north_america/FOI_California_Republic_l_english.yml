@@ -1,6 +1,6 @@
 l_english:
 
-### COUNTRY NAMES ###
+### Country Names ###
 CAL: "California Republic" ### Starting Country Name
 CAL_DEF: "California Republic"
 CAL_ADJ: "Californian"
@@ -10,5 +10,37 @@ CAL_united_west_coast_DEF: "Pacific States of America"
 CAL_united_west_coast_ADJ: "Pacifican"
 
 ### Political Party Names - Start ###
+CAL_communism_party: "§R[BANNED]§!"
+CAL_communism_party_long: "§YCommunist Party of the United States of America§!"
+CAL_socialism_party: "§R[BANNED]§!"
+CAL_socialism_party_long: "§YIndustrial Workers of the World (Left)§!"
+CAL_syndicalism_party: "§R[BANNED]§!"
+CAL_syndicalism_party_long: "§YIndustrial Workers of the World (Right)§!"
+CAL_social_democracy_party: "Progressives"
+CAL_social_democracy_party_long: "§YProgressive Party§!"
+CAL_democratic_party: "Democrats"
+CAL_democratic_party_long: "§YDemocrat Party§!"
+CAL_market_liberal_party: "Republicans [M]"
+CAL_market_liberal_party_long: "§YRepublican Party - Moderates§!"
+CAL_conservatism_party: "Republicans [C]"
+CAL_conservatism_party_long: "§YRepublican Party - Conservatives§!"
+CAL_neutrality_party: "SCA [M]"
+CAL_neutrality_party_long: "§YSecond Continental Army (Moderates)§!"
+CAL_paternal_autocrat_party: "SCA [HL]"
+CAL_paternal_autocrat_party_long: "§YSecond Continental Army (Hardliners)§!"
+CAL_fascism_party: "§R[BANNED]§!"
+CAL_fascism_party_long: "§YSilver Legion of America (Moderates)§!"
+CAL_ultranationalism_party: "§R[BANNED]§!"
+CAL_ultranationalism_party_long: "§YSilver Legion of America (Sovereignists)§!"
+CAL_national_socialism_party: "§R[BANNED]§!"
+CAL_national_socialism_party_long: "§YSilver Legion of America (Pelleyites)§!"
+CAL_esotericism_party: "§R[BANNED]§!"
+CAL_esotericism_party_long: "§YSilver Legion of America (Pelleyites)§!"
+CAL_accelerationism_party: "§R[BANNED]§!"
+CAL_accelerationism_party_long: "§YCalifornia Artist Association§!"
+
+### Starting Ideas ###
+
+
 
 ### Leader/General Descriptions ###
