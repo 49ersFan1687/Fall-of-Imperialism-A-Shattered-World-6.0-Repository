@@ -7,7 +7,11 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_ideology_democratic_group"
-		texturefile = "gfx/interface/ideologies/democratic_group.dds"
+		texturefile = "gfx/interface/ideologies/social_liberalism_main_ideology.png"
+	}
+	spriteType = {
+		name = "GFX_ideology_market_liberal_group"
+		texturefile = "gfx/interface/ideologies/market_liberalism_main_ideology.png"
 	}
 	spriteType = {
 		name = "GFX_ideology_neutrality_group"
@@ -57,12 +61,19 @@ spriteTypes = {
 
 ### Social Liberal Subideologies ###
 	spriteType = {
-		name = "GFX_ideology_GER_market_liberalism_ideology"
-		texturefile = "gfx/interface/ideologies/GER_market_liberalism_ideology.png"
+		name = "GFX_ideology_social_liberal_stratocratic_liberalism_ideology"
+		texturefile = "gfx/interface/ideologies/social_liberal_stratocratic_liberalism_ideology.png"
 	}
 
 ### Market Liberal Subideologies ###
-
+	spriteType = {
+		name = "GFX_ideology_GER_market_liberalism_ideology"
+		texturefile = "gfx/interface/ideologies/GER_market_liberalism_ideology.png"
+	}
+	spriteType = {
+		name = "GFX_ideology_market_liberal_stratocratic_liberalism_ideology"
+		texturefile = "gfx/interface/ideologies/market_liberal_stratocratic_liberalism_ideology.png"
+	}
 
 ### Conservative Subideologies ###
 	spriteType = {

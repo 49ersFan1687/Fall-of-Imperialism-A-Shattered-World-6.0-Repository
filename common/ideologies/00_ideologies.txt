@@ -117,6 +117,7 @@ ideologies = {
 			national_progressivism_ideology = { }
 			social_democratic_junta_ideology = { }
 			social_democracy_jeffersonian_democracy_ideology = { }
+			harmonic_stratocracy_ideology = { }
 		}
 		dynamic_faction_names = { }
 		color = { 148 80 142 }
