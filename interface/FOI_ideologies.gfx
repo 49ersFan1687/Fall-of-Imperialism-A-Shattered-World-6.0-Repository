@@ -28,7 +28,7 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideologies/red_junta_communism_ideology.png"
 	}
 	spriteType = {
-		name = "GFX_ideology_trotskyism_ideology"
+		name = "GFX_ideology_communism_trotskyism_ideology"
 		texturefile = "gfx/interface/ideologies/trotskyism_ideology.png"
 	}
 	spriteType = {
@@ -36,11 +36,11 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideologies/GER_leninism_ideology.png"
 	}
 	spriteType = {
-		name = "GFX_ideology_maoism_ideology"
+		name = "GFX_ideology_communism_maoism_ideology"
 		texturefile = "gfx/interface/ideologies/maoism_ideology.png"
 	}
 	spriteType = {
-		name = "GFX_ideology_stalinism_ideology"
+		name = "GFX_ideology_communism_stalinism_ideology"
 		texturefile = "gfx/interface/ideologies/stalinism_ideology.png"
 	}
 
