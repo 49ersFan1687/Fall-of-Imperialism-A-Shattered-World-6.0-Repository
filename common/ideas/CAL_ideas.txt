@@ -1,0 +1,3 @@
+ideas = {
+    ### Starting Focus Tree Ideas ###
+}
