@@ -1,6 +1,6 @@
 leader_traits = {
     ### German Leader Traits ###
-    der_fuhrer = {
+    der_fuhrer = { ### For Hitler and all his Successors ###
         
     }
 }
