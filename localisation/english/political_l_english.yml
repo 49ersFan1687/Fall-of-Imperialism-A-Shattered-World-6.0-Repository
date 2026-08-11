@@ -16,6 +16,8 @@ communism_desc: "Totalitarian Regime"
 democratic_desc: "Democratic Regime"
 
 ### SubIdeologies - Communism ###
+communism_ideology: "Communism"
+communism_ideology_desc: ""
 
 ### SubIdeologies - Syndicalism ###
 
@@ -24,8 +26,16 @@ democratic_desc: "Democratic Regime"
 ### SubIdeologies - Social Democracy ###
 
 ### SubIdeologies - Social Liberalism ###
+social_liberalism_ideology: "Social Liberalism"
+social_liberalism_ideology_desc: ""
+social_liberal_stratocratic_liberalism_ideology: "Stratocratic Liberalism"
+social_liberal_stratocratic_liberalism_ideology_desc: ""
 
 ### SubIdeologies - Market Liberalism ###
+market_liberalism_ideology: "Market Liberalism"
+market_liberalism_ideology_desc: ""
+market_liberal_stratocratic_liberalism_ideology: "Stratocratic Liberalism"
+market_liberal_stratocratic_liberalism_ideology_desc: ""
 
 ### SubIdeologies - Conservatism ###
 
