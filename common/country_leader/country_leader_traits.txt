@@ -3,4 +3,6 @@ leader_traits = {
     der_fuhrer = { ### For Hitler and all his Successors ###
         
     }
+
+    ### American Leader Traits ###
 }
