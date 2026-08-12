@@ -41,6 +41,10 @@ spriteTypes = {
 		textureFile = "gfx/leaders/CAL/Portrait_CAL_Glynda_Goodwitch.dds"
 	}
 	spriteType = {
+		name = "GFX_CAL_Henry_Agard_Wallace"
+		textureFile = "gfx/leaders/CAL/Portrait_CAL_Henry_Agard_Wallace.dds"
+	}
+	spriteType = {
 		name = "GFX_CAL_Henry_Harley_Arnold"
 		textureFile = "gfx/leaders/CAL/Portrait_CAL_Henry_Harley_Arnold.dds"
 	}
@@ -104,4 +108,6 @@ spriteTypes = {
 		name = "GFX_CAL_John_Lesesne_DeWitt"
 		textureFile = "gfx/leaders/CAL/Portrait_CAL_John_Lesesne_DeWitt.dds" 
 	}
+
+	### Cascadia ###
 }

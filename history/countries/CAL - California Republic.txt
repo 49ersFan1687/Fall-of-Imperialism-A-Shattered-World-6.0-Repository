@@ -83,6 +83,7 @@ create_country_leader = {
 ### Country Leader ###
 ######################
 recruit_character = CAL_provisional_council
+recruit_character = CAL_henry_agard_wallace
 
 ################
 ### Advsiors ###

@@ -15,6 +15,15 @@ characters = {
 		}
     }
 
+	CAL_henry_agard_wallace = {
+		name = "Henry Agard Wallace"
+		portraits = {
+            civilian = {
+                large = "gfx/leaders/CAL/Portrait_CAL_Henry_Agard_Wallace.dds"
+            }
+        }
+	}
+
     ### Military Leaders ###
     CAL_dwight_david_eisenhower = {
         name = "Dwight David Eisenhower"
