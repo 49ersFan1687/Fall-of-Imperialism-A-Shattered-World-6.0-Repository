@@ -1,17 +1,17 @@
 leader_traits = {
-    ### Head of Government ###
+    ### Head of Government - Common ###
 
 
-    ### Foreign Minister ###
+    ### Foreign Minister - Common ###
 
 
-    ### Defense Minister ###
+    ### Defense Minister - Common ###
 
 
-    ### Economy Minister ###
+    ### Economy Minister - Common ###
 
 
-    ### Interior Minister ###
+    ### Interior Minister - Common ###
 
 
     
