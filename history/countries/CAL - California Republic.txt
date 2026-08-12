@@ -85,13 +85,11 @@ create_country_leader = {
 recruit_character = CAL_provisional_council
 recruit_character = CAL_henry_agard_wallace
 
-################
-### Advsiors ###
-################
 
-#############################
-## Second Continental Army ##
-#############################
+### Advsiors ###
+
+
+### Army ###
 recruit_character = CAL_dwight_david_eisenhower
 recruit_character = CAL_omar_nelson_bradley
 recruit_character = CAL_george_catlett_marshall
@@ -114,18 +112,13 @@ recruit_character = CAL_charles_hartwell_bonesteel_iii
 recruit_character = CAL_creighton_williams_abrams_jr
 recruit_character = CAL_albert_coady_wedemeyer
 
-#############
-## US Navy ##
-#############
+### US Navy ###
 recruit_character = CAL_ernest_joseph_king
 recruit_character = CAL_chester_william_nimitz
 recruit_character = CAL_william_fredrick_halsey_jr
 recruit_character = CAL_william_daniel_leahy
 
-##################
 ### Operatives ###
-##################
 
-##################
+
 ### Scientists ###
-##################
