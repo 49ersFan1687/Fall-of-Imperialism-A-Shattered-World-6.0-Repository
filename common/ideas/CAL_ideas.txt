@@ -1,3 +1,5 @@
 ideas = {
-    ### Starting Focus Tree Ideas ###
+    country = {
+        ### Starting Focus Tree Ideas ###
+    }
 }
