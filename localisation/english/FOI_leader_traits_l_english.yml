@@ -33,7 +33,8 @@ air_commander:0 "Air Commander"
 air_commander_desc:0 "General of the Air Forces."
 
 ### Unit Leader Traits - Personality Traits ###
-
+GER_heer_officer:0 "Heer Officer"
+GER_heer_officer_desc:0 "§LThis officer is loyal to the Wehrmacht High Command.§!"
 
 
 ##### CIVILIAN TRAITS #####
