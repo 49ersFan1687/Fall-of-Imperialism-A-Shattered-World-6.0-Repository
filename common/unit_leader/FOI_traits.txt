@@ -1,4 +1,5 @@
 leader_traits = {
+	### Artillery Unit Leader Traits ###
     artillery_officer = {
 		type = corps_commander
 		trait_type = personality_trait
@@ -51,6 +52,7 @@ leader_traits = {
 		mutually_exclusive = scavenger
 	}
 
+	### Air Commander Traits ###
     air_commander = {
 		type = land
 		trait_type = personality_trait
@@ -69,4 +71,6 @@ leader_traits = {
 			factor = 1
 		}
 	}
+
+	### Personality Traits ###
 }
