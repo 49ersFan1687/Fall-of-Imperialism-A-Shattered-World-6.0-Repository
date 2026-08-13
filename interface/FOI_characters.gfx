@@ -1,4 +1,7 @@
 spriteTypes = {
+	# Greater Germanic Reich #
+	
+
 	# California #
 	spriteType = {
 		name = "GFX_CAL_Albert_Coady_Wedemeyer"
