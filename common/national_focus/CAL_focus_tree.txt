@@ -237,7 +237,6 @@ shared_focus = {
 
 ### Starting Focus Tree - Canadian Aid Branch ###
 
-### Starting Focus Tree - Canadian Aid Branch ###
 
 ### Starting Focus Tree - Canadian Aid Branch ###
 shared_focus = {
@@ -249,10 +248,301 @@ shared_focus = {
 		focus = CAL_call_for_desparate_measures
 	}
 
-    x = 10
+    x = 0
     y = 1
 
     completion_reward = {
 
     }
 }
+
+shared_focus = {
+    id = CAL_send_our_best_and_brightest
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_seek_aid_from_up_north
+	prerequisite = {
+		focus = CAL_seek_aid_from_up_north
+	}
+
+    x = 0
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_alexanders_millitary_mission
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_send_our_best_and_brightest
+	prerequisite = {
+		focus = CAL_send_our_best_and_brightest
+	}
+
+    x = -2
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_canadian_investments_in_california
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_send_our_best_and_brightest
+	prerequisite = {
+		focus = CAL_send_our_best_and_brightest
+	}
+
+    x = 0
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_a_sign_of_goodwill
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_send_our_best_and_brightest
+	prerequisite = {
+		focus = CAL_send_our_best_and_brightest
+	}
+
+    x = 3
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_purchase_canadian_guns
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_alexanders_millitary_mission
+	prerequisite = {
+		focus = CAL_alexanders_millitary_mission
+	}
+
+    x = 0
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_canadian_vehicle_lend_lease
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_canadian_investments_in_california
+	prerequisite = {
+		focus = CAL_canadian_investments_in_california
+	}
+
+    x = 0
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_repatriate_american_personnel
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_a_sign_of_goodwill
+	prerequisite = {
+		focus = CAL_a_sign_of_goodwill
+	}
+
+    x = -1
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_open_up_los_angeles_port
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_a_sign_of_goodwill
+	prerequisite = {
+		focus = CAL_a_sign_of_goodwill
+	}
+
+    x = 1
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_canadian_arms_factories
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_purchase_canadian_guns
+	prerequisite = {
+		focus = CAL_purchase_canadian_guns
+	}
+    prerequisite = {
+        focus = CAL_canadian_vehicle_lend_lease
+    }
+
+    x = 1
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_purchase_canadian_equipment
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_canadian_vehicle_lend_lease
+	prerequisite = {
+		focus = CAL_canadian_vehicle_lend_lease
+	}
+
+    x = 1
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_canadian_californian_trade_agreement
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_repatriate_american_personnel
+	prerequisite = {
+		focus = CAL_repatriate_american_personnel
+	}
+    prerequisite = {
+        focus = CAL_open_up_los_angeles_port
+    }
+
+    x = 1
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_joint_excercises
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_purchase_canadian_guns
+	prerequisite = {
+		focus = CAL_purchase_canadian_guns
+    }
+
+    x = 0
+    y = 2
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_sign_the_canadian_californian_economic_treaty
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_canadian_arms_factories
+	prerequisite = {
+		focus = CAL_canadian_arms_factories
+    }
+    prerequisite = {
+        focus = CAL_purchase_canadian_equipment
+    }
+
+    x = 1
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_import_resources_from_canada
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_canadian_californian_trade_agreement
+	prerequisite = {
+		focus = CAL_canadian_californian_trade_agreement
+    }
+
+    x = 0
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_finalize_the_agreements
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_sign_the_canadian_californian_economic_treaty
+	prerequisite = {
+		focus = CAL_joint_excercises
+    }
+    prerequisite = {
+        focus = CAL_sign_the_canadian_californian_economic_treaty
+    }
+    prerequisite = {
+        focus = CAL_import_resources_from_canada
+    }
+
+    x = 0
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_potential_observer_status_in_the_bermuda_accord
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_finalize_the_agreements
+	prerequisite = {
+		focus = CAL_finalize_the_agreements
+    }
+
+    x = 0
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+### Starting Focus Tree - Canadian Aid Branch ###
+
+### Starting Focus Tree - Canadian Aid Branch ###
