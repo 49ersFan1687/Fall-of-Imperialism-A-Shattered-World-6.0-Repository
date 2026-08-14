@@ -89,4 +89,15 @@ leader_traits = {
 			factor = 1
 		}
 	}
+
+	USA_marine_corps_officer = {
+		type = corps_commander
+		trait_type = personality_trait
+		trait_xp_factor = {
+			naval_invader = 1
+		}
+		new_commander_weight = {
+			factor = 0
+		}
+	}
 }
