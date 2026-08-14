@@ -1,7 +1,7 @@
 version="0.1"
 tags={
 	"Alternative History"
-}`
+}
 replace_path = "common/characters"
 replace_path = "history/countries"
 replace_path = "history/states"
