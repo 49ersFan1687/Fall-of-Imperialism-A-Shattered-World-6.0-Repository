@@ -248,7 +248,7 @@ shared_focus = {
 		focus = CAL_call_for_desparate_measures
 	}
 
-    x = 0
+    x = 9
     y = 1
 
     completion_reward = {
