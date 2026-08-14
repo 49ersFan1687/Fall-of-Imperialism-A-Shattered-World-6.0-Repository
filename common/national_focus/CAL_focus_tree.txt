@@ -233,4 +233,26 @@ shared_focus = {
     }
 }
 
-### Starting Focus Tree - Canadian Branch ###
+### Starting Focus Tree - Canadian Aid Branch ###
+
+### Starting Focus Tree - Canadian Aid Branch ###
+
+### Starting Focus Tree - Canadian Aid Branch ###
+
+### Starting Focus Tree - Canadian Aid Branch ###
+shared_focus = {
+    id = CAL_seek_aid_from_up_north
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_call_for_desparate_measures
+	prerequisite = {
+		focus = CAL_call_for_desparate_measures
+	}
+
+    x = 10
+    y = 1
+
+    completion_reward = {
+
+    }
+}
