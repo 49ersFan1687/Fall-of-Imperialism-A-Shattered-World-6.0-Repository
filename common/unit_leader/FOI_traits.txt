@@ -74,7 +74,7 @@ leader_traits = {
 
 	### Personality Traits ###
 	GER_heer_officer = {
-		type = land
+		type = corps_commander
 		trait_type = personality_trait
 		modifier = {
 			army_speed_factor = 0.075
