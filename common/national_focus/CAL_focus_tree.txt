@@ -1,0 +1,236 @@
+### Fall of Imperialism - The California Republic Focus Tree ###
+focus_tree = {
+    id = CAL_starting_tree
+    country = {
+		factor = 0
+
+		modifier = {
+			add = 10
+			original_tag = CAL
+		}
+	}
+    default = no
+    shared_focus = CAL_americas_last_refuge_for_liberty
+    continuous_focus_position = { x = 9999 y = 9999 }
+}
+
+### Starting Focus Tree - Beginning Branch ###
+shared_focus = {
+	id = CAL_americas_last_refuge_for_liberty
+	#icon = 
+	cost = 5
+	
+	x = 6
+	y = 0
+
+	completion_reward = {
+		
+	}
+}
+
+shared_focus = {
+    id = CAL_remnants_of_the_federal_government
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_americas_last_refuge_for_liberty
+	prerequisite = {
+		focus = CAL_americas_last_refuge_for_liberty
+	}
+
+    x = -1
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_the_american_calamity
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_americas_last_refuge_for_liberty
+	prerequisite = {
+		focus = CAL_americas_last_refuge_for_liberty
+	}
+
+    x = 1
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_the_fate_of_the_golden_state
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_remnants_of_the_federal_government
+	prerequisite = {
+		focus = CAL_remnants_of_the_federal_government
+	}
+
+    x = -1
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_a_fragile_peace
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_remnants_of_the_federal_government
+	prerequisite = {
+		focus = CAL_remnants_of_the_federal_government
+	}
+    prerequisite = {
+        focus = CAL_the_american_calamity
+    }
+
+    x = 1
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_barely_holding_on
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_the_american_calamity
+	prerequisite = {
+		focus = CAL_the_american_calamity
+	}
+
+    x = 1
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_the_californian_emergency
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_remnants_of_the_federal_government
+	prerequisite = {
+		focus = CAL_remnants_of_the_federal_government
+	}
+    prerequisite = {
+        focus = CAL_a_fragile_peace
+    }
+
+    x = 0
+    y = 2
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_surrounded_on_all_sides
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_the_american_calamity
+	prerequisite = {
+		focus = CAL_the_american_calamity
+	}
+    prerequisite ={
+        focus = CAL_a_fragile_peace
+    }
+
+    x = 0
+    y = 2
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_hope_in_our_situation
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_the_californian_emergency
+	prerequisite = {
+		focus = CAL_the_fate_of_the_golden_state
+	}
+    prerequisite ={
+        focus = CAL_the_californian_emergency
+    }
+
+    x = -1
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_making_every_piece_count
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_surrounded_on_all_sides
+	prerequisite = {
+		focus = CAL_surrounded_on_all_sides
+	}
+    prerequisite ={
+        focus = CAL_barely_holding_on
+    }
+
+    x = 1
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_desparate_times
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_hope_in_our_situation
+	prerequisite = {
+		focus = CAL_hope_in_our_situation
+	}
+    prerequisite ={
+        focus = CAL_making_every_piece_count
+    }
+
+    x = 2
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_call_for_desparate_measures
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_desparate_times
+	prerequisite = {
+		focus = CAL_desparate_times
+	}
+
+    x = 0
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+### Starting Focus Tree - Canadian Branch ###
