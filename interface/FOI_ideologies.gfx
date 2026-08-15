@@ -58,6 +58,10 @@ spriteTypes = {
 		name = "GFX_ideology_GER_social_democracy_ideology"
 		texturefile = "gfx/interface/ideologies/GER_social_democracy_ideology.png"
 	}
+	spriteType = {
+		name = "GFX_ideology_social_democracy_harmonic_stratocracy_ideology"
+		texturefile = "gfx/interface/ideologies/social_democracy_harmonic_stratocracy.png"
+	}
 
 ### Social Liberal Subideologies ###
 	spriteType = {
