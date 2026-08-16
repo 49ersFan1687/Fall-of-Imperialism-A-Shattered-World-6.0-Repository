@@ -90,14 +90,16 @@ leader_traits = {
 		}
 	}
 
-	USA_marine_corps_officer = {
+	united_states_marine_corps_officer = {
 		type = corps_commander
 		trait_type = personality_trait
-		trait_xp_factor = {
-			naval_invader = 1
+		modifier = {
+			naval_invasion_prep_speed = 0.10
+			
 		}
-		new_commander_weight = {
-			factor = 0
+
+		ai_will_do = {
+			factor = 1
 		}
 	}
 }
