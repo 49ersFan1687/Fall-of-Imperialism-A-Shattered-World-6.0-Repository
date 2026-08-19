@@ -95,7 +95,6 @@ leader_traits = {
 		trait_type = personality_trait
 		modifier = {
 			naval_invasion_prep_speed = 0.10
-			
 		}
 
 		ai_will_do = {

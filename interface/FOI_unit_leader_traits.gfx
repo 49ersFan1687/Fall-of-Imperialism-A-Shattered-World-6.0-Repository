@@ -1,4 +1,5 @@
-spriteTypes = {	
+spriteTypes = {
+	### Generic Traits ###
 	spriteType = {
 		name = "GFX_trait_artillery_officer"
 		texturefile = "gfx/interface/traits/trait_artillery_officer.png"
@@ -17,6 +18,13 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_trait_air_commander"
 		texturefile = "gfx/interface/traits/trait_air_commander.png"
+		legacy_lazy_load = no
+	}
+
+	### Unique Traits ###
+	spriteType = {
+		name = "GFX_trait_united_states_marine_corps_officer"
+		texturefile = "gfx/interface/traits/trait_united_states_marine_corps_officer.png"
 		legacy_lazy_load = no
 	}
 }
