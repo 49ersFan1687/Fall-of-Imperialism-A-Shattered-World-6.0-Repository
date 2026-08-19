@@ -352,7 +352,7 @@ shared_focus = {
 	prerequisite = {
 		focus = CAL_the_direction_of_democracy
 	}
-    prerequisite = {
+    mutually_exclusive = {
         focus = CAL_by_the_people_for_the_people
     }
 
