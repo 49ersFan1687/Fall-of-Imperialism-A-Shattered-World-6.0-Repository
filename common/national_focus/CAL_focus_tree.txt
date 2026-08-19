@@ -235,8 +235,298 @@ shared_focus = {
 
 ### Starting Focus Tree - Canadian Aid Branch ###
 
-### Starting Focus Tree - Canadian Aid Branch ###
+### Starting Focus Tree - Political Branch ###
+shared_focus = {
+    id = CAL_address_the_ongoing_political_situation
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_call_for_desparate_measures
+	prerequisite = {
+		focus = CAL_call_for_desparate_measures
+	}
 
+    x = 0
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_the_legacy_of_a_great_nation
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_address_the_ongoing_political_situation
+	prerequisite = {
+		focus = CAL_address_the_ongoing_political_situation
+	}
+
+    x = 0
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_our_roots_in_destiny
+    #icon = 
+	cost = 2
+    relative_position_id = CAL_the_legacy_of_a_great_nation
+	prerequisite = {
+		focus = CAL_the_legacy_of_a_great_nation
+	}
+
+    x = -1
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_our_eastern_herritage
+    #icon = 
+	cost = 2
+    relative_position_id = CAL_the_legacy_of_a_great_nation
+	prerequisite = {
+		focus = CAL_the_legacy_of_a_great_nation
+	}
+
+    x = 1
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_the_direction_of_democracy
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_our_roots_in_destiny
+	prerequisite = {
+		focus = CAL_our_roots_in_destiny
+	}
+    prerequisite = {
+        focus = CAL_our_eastern_herritage
+    }
+
+    x = 1
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_by_the_people_for_the_people
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_the_direction_of_democracy
+	prerequisite = {
+		focus = CAL_the_direction_of_democracy
+	}
+    mutually_exclusive = {
+        focus = CAL_an_army_with_a_democracy
+    }
+
+    x = -2
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_an_army_with_a_democracy
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_the_direction_of_democracy
+	prerequisite = {
+		focus = CAL_the_direction_of_democracy
+	}
+    prerequisite = {
+        focus = CAL_by_the_people_for_the_people
+    }
+
+    x = 2
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_keeping_the_peace
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_by_the_people_for_the_people
+	prerequisite = {
+		focus = CAL_by_the_people_for_the_people
+	}
+
+    x = -1
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_a_democracy_maintained
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_by_the_people_for_the_people
+	prerequisite = {
+		focus = CAL_by_the_people_for_the_people
+	}
+
+    x = 1
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_the_military_industrial_complex
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_an_army_with_a_democracy
+	prerequisite = {
+		focus = CAL_an_army_with_a_democracy
+	}
+
+    x = -1
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_well_be_marching_home_again
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_an_army_with_a_democracy
+	prerequisite = {
+		focus = CAL_an_army_with_a_democracy
+	}
+
+    x = 1
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_the_pearl_of_the_west
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_keeping_the_peace
+	prerequisite = {
+		focus = CAL_keeping_the_peace
+	}
+    prerequisite = {
+        focus = CAL_a_democracy_maintained
+    }
+
+    x = 1
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_keeping_up_with_our_stability
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_a_democracy_maintained
+	prerequisite = {
+		focus = CAL_a_democracy_maintained
+        focus = CAL_the_military_industrial_complex
+    }
+
+    x = 1
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_no_vote_unturned
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_the_military_industrial_complex
+	prerequisite = {
+		focus = CAL_the_military_industrial_complex
+	}
+    prerequisite = {
+        focus = CAL_well_be_marching_home_again
+    }
+
+    x = 1
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_californias_wild_wacky_world
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_keeping_up_with_our_stability
+	prerequisite = {
+		focus = CAL_the_pearl_of_the_west
+        focus = CAL_no_vote_unturned
+	}
+    prerequisite = {
+        focus = CAL_keeping_up_with_our_stability
+    }
+
+    x = 0
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_the_gambles_in_election_season
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_californias_wild_wacky_world
+	prerequisite = {
+		focus = CAL_californias_wild_wacky_world
+	}
+
+    x = 0
+    y = 1
+
+    completion_reward = {
+
+    }
+}
 
 ### Starting Focus Tree - Canadian Aid Branch ###
 shared_focus = {
@@ -248,7 +538,7 @@ shared_focus = {
 		focus = CAL_call_for_desparate_measures
 	}
 
-    x = 9
+    x = 7
     y = 1
 
     completion_reward = {

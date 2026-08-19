@@ -1,6 +1,15 @@
 ideas = {
     country = {
         ### Starting Focus Tree Ideas ###
+        CAL_idea_last_bastion_of_liberty = {
+            on_add = { log = "[GetDateText]: [Root.GetName]: add idea CAL_idea_last_bastion_of_liberty" }
+            allowed = { always = no }
+            picture = 
+            modifier = {
+
+            }
+        }
+
         
 
         ### Economy Ideas ###
