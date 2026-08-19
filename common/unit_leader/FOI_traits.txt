@@ -95,6 +95,9 @@ leader_traits = {
 		trait_type = personality_trait
 		modifier = {
 			naval_invasion_prep_speed = 0.10
+			special_forces_attack_factor = 0.07
+			special_forces_defence_factor = 0.05
+			shore_bombardment_bonus = 0.15
 		}
 
 		ai_will_do = {
