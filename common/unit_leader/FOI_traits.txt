@@ -90,7 +90,7 @@ leader_traits = {
 		}
 	}
 
-	united_states_marine_corps_officer = {
+	USA_united_states_marine_corps_officer = {
 		type = corps_commander
 		trait_type = personality_trait
 		modifier = {
