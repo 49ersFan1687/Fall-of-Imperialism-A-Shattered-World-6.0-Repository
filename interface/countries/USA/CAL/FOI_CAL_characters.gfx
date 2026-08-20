@@ -1,8 +1,12 @@
 spriteTypes = {
-	# Greater Germanic Reich #
+	# California - Civilian Leaders #
+	spriteType = {
+		name = "GFX_CAL_Henry_Agard_Wallace"
+		textureFile = "gfx/leaders/CAL/Portrait_CAL_Henry_Agard_Wallace.dds"
+	}
 	
 
-	# California #
+	# California - Generals #
 	spriteType = {
 		name = "GFX_CAL_Albert_Coady_Wedemeyer"
 		textureFile = "gfx/leaders/CAL/Portrait_CAL_Albert_Coady_Wedemeyer.dds"
@@ -10,10 +14,6 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_CAL_Charles_Hartwell_Bonesteel_III"
 		textureFile = "gfx/leaders/CAL/Portrait_CAL_Charles_Hartwell_Bonesteel_III.dds"
-	}
-	spriteType = {
-		name = "GFX_CAL_Chester_William_Nimitz"
-		textureFile = "gfx/leaders/CAL/Portrait_CAL_Chester_William_Nimitz.dds"
 	}
 	spriteType = {
 		name = "GFX_CAL_Creighton_Williams_Abrams_Jr"
@@ -28,10 +28,6 @@ spriteTypes = {
 		textureFile = "gfx/leaders/CAL/Portrait_CAL_Dwight_David_Eisenhower.dds"
 	}
 	spriteType = {
-		name = "GFX_CAL_Ernest_Joseph_King"
-		textureFile = "gfx/leaders/CAL/Portrait_CAL_Ernest_Joseph_King.dds"
-	}
-	spriteType = {
 		name = "GFX_CAL_George_Catlett_Marshall"
 		textureFile = "gfx/leaders/CAL/Portrait_CAL_George_Catlett_Marshall.dds"
 	}
@@ -43,10 +39,7 @@ spriteTypes = {
 		name = "GFX_CAL_Glynda_Goodwitch"
 		textureFile = "gfx/leaders/CAL/Portrait_CAL_Glynda_Goodwitch.dds"
 	}
-	spriteType = {
-		name = "GFX_CAL_Henry_Agard_Wallace"
-		textureFile = "gfx/leaders/CAL/Portrait_CAL_Henry_Agard_Wallace.dds"
-	}
+	
 	spriteType = {
 		name = "GFX_CAL_Henry_Harley_Arnold"
 		textureFile = "gfx/leaders/CAL/Portrait_CAL_Henry_Harley_Arnold.dds"
@@ -99,6 +92,21 @@ spriteTypes = {
 		name = "GFX_CAL_William_Childs_Westmoreland"
 		textureFile = "gfx/leaders/CAL/Portrait_CAL_William_Childs_Westmoreland.dds"
 	}
+	
+	spriteType = {
+		name = "GFX_CAL_John_Lesesne_DeWitt"
+		textureFile = "gfx/leaders/CAL/Portrait_CAL_John_Lesesne_DeWitt.dds" 
+	}
+
+	# California - Admirals #
+	spriteType = {
+		name = "GFX_CAL_Chester_William_Nimitz"
+		textureFile = "gfx/leaders/CAL/Portrait_CAL_Chester_William_Nimitz.dds"
+	}
+	spriteType = {
+		name = "GFX_CAL_Ernest_Joseph_King"
+		textureFile = "gfx/leaders/CAL/Portrait_CAL_Ernest_Joseph_King.dds"
+	}
 	spriteType = {
 		name = "GFX_CAL_William_Daniel_Leahy"
 		textureFile = "gfx/leaders/CAL/Portrait_CAL_William_Daniel_Leahy.dds"
@@ -107,10 +115,4 @@ spriteTypes = {
 		name = "GFX_CAL_William_Fredrick_Halsey_Jr"
 		textureFile = "gfx/leaders/CAL/Portrait_CAL_William_Fredrick_Halsey_Jr.dds"
 	}
-	spriteType = {
-		name = "GFX_CAL_John_Lesesne_DeWitt"
-		textureFile = "gfx/leaders/CAL/Portrait_CAL_John_Lesesne_DeWitt.dds" 
-	}
-
-	### Cascadia ###
 }
