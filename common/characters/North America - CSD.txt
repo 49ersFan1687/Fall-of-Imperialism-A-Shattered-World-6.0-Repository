@@ -4,7 +4,7 @@ characters = {
 
     ### Military Leaders ###
     CSD_atsuko_maeda = {
-        name = CSD_atsuko_maeda
+        name = "Atsuko Maeda"
 		portraits = {
 			civilian = {
 				large = "gfx/leaders/CSD/Portrait_CSD_Atsuko_Maeda.dds"
