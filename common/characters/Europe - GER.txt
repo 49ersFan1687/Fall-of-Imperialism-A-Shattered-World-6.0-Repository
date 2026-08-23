@@ -1,6 +1,19 @@
 characters = {
     ### Civilian Leaders ###
-    
+    GER_adolf_hitler = {
+        name = "Adolf Hitler"
+        portraits = {
+			civilian = {
+				large = "gfx/leaders/GER/Portrait_GER_Adolf_Hitler.dds"
+			}
+		}
+         country_leader = {
+			ideology = nazism_ideology
+			traits = {
+
+			}
+		}
+    }
 
     ### Military Leaders ###
 

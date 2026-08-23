@@ -1,0 +1,7 @@
+spriteTypes = {
+    ### Leaders ###
+    spriteType = {
+		name = "GFX_GER_Adolf_Hitler"
+		textureFile = "gfx/leaders/GER/Portrait_GER_Adolf_Hitler.dds"
+	}
+}
