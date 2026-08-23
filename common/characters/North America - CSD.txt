@@ -3,7 +3,40 @@ characters = {
 
 
     ### Military Leaders ###
-
+    CSD_atsuko_maeda = {
+        name = CSD_atsuko_maeda
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Atsuko_Maeda.dds"
+			}
+			army = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Atsuko_Maeda.dds"
+			}
+		}
+		country_leader = {
+			# desc = POLITICS_ATSUKO_MAEDA_DESC
+			expire = "1994.4.20"
+			ideology = stratocratic_conservatism_ideology
+			#traits = {
+			#	CSD_the_iron_mare
+			#}
+		}
+		field_marshal = {
+			traits = {
+				career_officer
+				armor_officer
+				skilled_staffer
+				organizer
+				panzer_leader
+			}
+			skill = 4
+			attack_skill = 4
+			defense_skill = 3
+			planning_skill = 3
+			logistics_skill = 4
+		}
+		gender = female
+    }
 
     ### Field Marshals ###
 

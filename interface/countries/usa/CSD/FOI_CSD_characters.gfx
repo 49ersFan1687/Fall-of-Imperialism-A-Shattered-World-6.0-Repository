@@ -1,0 +1,7 @@
+spriteTypes = {
+    ### Leaders ###
+    spriteType = {
+		name = "GFX_CSD_Atsuko_Maeda"
+		textureFile = "gfx/leaders/CSD/Portrait_CSD_Atsuko_Maeda.dds"
+	}
+}
