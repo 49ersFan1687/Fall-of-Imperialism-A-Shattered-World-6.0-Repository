@@ -167,7 +167,7 @@ characters = {
 			idea_token = air_chief_curtis_lemay
 			ledger = air_force
 			traits = {
-				
+				air_chief_bombs_away_lemay
 			}
 		}
     }

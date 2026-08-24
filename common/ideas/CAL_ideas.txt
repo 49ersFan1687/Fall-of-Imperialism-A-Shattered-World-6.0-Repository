@@ -13,8 +13,6 @@ ideas = {
             }
         }
 
-        
-
         ### Economy Ideas ###
     }
 }

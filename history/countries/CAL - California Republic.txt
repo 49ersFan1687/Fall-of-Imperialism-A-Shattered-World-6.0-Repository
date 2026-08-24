@@ -95,7 +95,6 @@ recruit_character = CAL_george_smith_patton_jr
 recruit_character = CAL_curtis_emerson_lemay
 
 ### Army ###
-
 recruit_character = CAL_omar_nelson_bradley
 recruit_character = CAL_walton_harris_walker
 recruit_character = CAL_smedley_darlington_butler

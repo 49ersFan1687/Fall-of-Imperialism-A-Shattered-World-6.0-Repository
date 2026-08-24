@@ -10,13 +10,20 @@ cos_school_of_mass_combat:0 "School of Mass Combat"
 cos_school_of_defensive_warfare:0 "School of Defensive Warfare"
 cos_school_of_psychological_warfare:0 "School of Psychological Warfare"
 
-### Military Traits - Army Advisor Traits ###
+### Military Traits - Army High Command Advisor Traits ###
 
 
-### Military Traits - Navy Advisor Traits ###
+### Military Traits - Navy High Command Advisor Traits ###
 
 
-### Military Traits - Air Force Advisor Traits ###
+### Military Traits - Air Force High Command Advisor Traits ###
+
+## Army Chief ##
+
+## Air Chief ##
+air_chief_bombs_away_lemay:0 ""Bombs Away" Lemay"
+
+## Navy Chief ##
 
 
 ### Unit Leader Traits - Artillery ###
