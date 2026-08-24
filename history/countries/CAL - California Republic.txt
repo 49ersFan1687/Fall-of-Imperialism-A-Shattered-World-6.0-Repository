@@ -78,23 +78,25 @@ create_country_leader = {
 	ideology = ultranationalism_ideology
 }
 
-
-######################
-### Country Leader ###
-######################
+### Civilian Leaders ###
 recruit_character = CAL_provisional_council
 recruit_character = CAL_henry_agard_wallace
 
+### Military Leaders ###
+recruit_character = CAL_dwight_david_eisenhower
+recruit_character = CAL_george_catlett_marshall
+recruit_character = CAL_george_smith_patton_jr
 
-### Advsiors ###
+### Advsiors - Heads of Government ###
 
+
+
+### Field Marshals ###
+recruit_character = CAL_curtis_emerson_lemay
 
 ### Army ###
-recruit_character = CAL_dwight_david_eisenhower
+
 recruit_character = CAL_omar_nelson_bradley
-recruit_character = CAL_george_catlett_marshall
-recruit_character = CAL_curtis_emerson_lemay
-recruit_character = CAL_george_smith_patton_jr
 recruit_character = CAL_walton_harris_walker
 recruit_character = CAL_smedley_darlington_butler
 recruit_character = CAL_glynda_goodwitch

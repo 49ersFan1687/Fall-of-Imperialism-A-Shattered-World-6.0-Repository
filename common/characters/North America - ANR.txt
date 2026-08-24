@@ -1,0 +1,52 @@
+characters = {
+    ### Civilian Leaders ###
+    ANR_wallace_humphrey_white = {
+        name = "Wallace Humphrey White Jr."
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/ANR/Portrait_ANR_Wallace_Humphrey_White_Jr.png"
+            }
+        }
+        country_leader = {
+			ideology = auth_national_conservatism_ideology
+			traits = {
+
+			}
+		}
+    }
+
+    ### Military Leaders ###
+    
+
+    ### Field Marshals ###
+
+
+    ### Corps Commanders ###
+
+
+    ### Admirals ###
+
+
+    ## Advisors - Army (Chiefs/High Command) - NOT GENREALS/FIELD MARSHALS ##
+
+
+    ## Advisors - Navy (Chiefs/High Command) - NOT GENREALS/FIELD MARSHALS ##
+
+
+    ## Advisors - Air Force (Chiefs/High Command) - NOT GENREALS/FIELD MARSHALS ##
+
+
+    ## Advisors - Civilian ##
+
+
+    ### Scientists - Air ###
+
+
+    ### Scientists - Army ###
+
+
+    ### Scientists - Naval ###
+
+
+    ### Scientists - Nuclear ###
+}

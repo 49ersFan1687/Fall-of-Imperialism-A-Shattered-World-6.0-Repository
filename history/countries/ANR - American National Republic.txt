@@ -34,15 +34,10 @@ set_autonomy = {
 	autonomous_state = autonomy_integrated_puppet
 	freedom_level = 0.5
 }
-create_country_leader = {
-	name = "Wallace White"
-	desc = ""
-	picture = GFX_Wallace_White_ANR
-	ideology = auth_national_conservatism_ideology
-	traits = {
-		#
-	}
-}
+
+### Civilian Leaders ###
+recruit_character = ANR_wallace_humphrey_white_jr
+
 create_country_leader = {
 	name = "Strom Thurmonds"
 	desc = ""

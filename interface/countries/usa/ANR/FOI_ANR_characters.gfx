@@ -1,0 +1,7 @@
+spriteTypes = {
+    ### Leaders ###
+    spriteType = {
+		name = "GFX_ANR_Wallace_Humphrey_White"
+		textureFile = "gfx/leaders/ANR/Portrait_ANR_Wallace_Humphrey_White_Jr.png"
+	}
+}
