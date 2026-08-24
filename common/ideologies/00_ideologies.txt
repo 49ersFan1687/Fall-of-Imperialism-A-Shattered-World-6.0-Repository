@@ -118,6 +118,7 @@ ideologies = {
 			social_democracy_social_democratic_junta_ideology = { }
 			social_democracy_jeffersonian_democracy_ideology = { }
 			social_democracy_harmonic_stratocracy_ideology = { }
+			social_democracy_moderate_dixiecrat_ideology = { }
 		}
 		dynamic_faction_names = { }
 		color = { 148 80 142 }
@@ -148,6 +149,7 @@ ideologies = {
 			liberal_national_progressivism_ideology = { }
 			liberal_longism_ideology = { }
 			social_liberalism_jeffersonian_democracy_ideology = { }
+			social_liberalism_moderate_dixiecrat_ideology = { }
 		}
 		dynamic_faction_names = { }
 		color = { 31 121 181 }
@@ -172,6 +174,7 @@ ideologies = {
 			free_market_capitalism_ideology = { }
 			market_liberalism_liberal_conservatism_ideology = { }
 			market_liberal_stratocratic_liberalism_ideology = { }
+			market_liberal_moderate_dixiecrat_ideology = { }
 		}
 		dynamic_faction_names = { }
 		color = { 160 160 0 }
@@ -205,6 +208,7 @@ ideologies = {
 			conservative_oligarchy_ideology = { }
 			conservative_hamiltonian_democracy_ideology = { }
 			conservative_prussian_constitutionalism_ideology = { }
+			conservative_moderate_dixiecrat_ideology = { }
         }
 		dynamic_faction_names = { }
 		color = { 22 37 138 }
@@ -236,7 +240,7 @@ ideologies = {
 			authoritarian_democracy_jacksonian_democracy_ideology = { }
 			authoritarian_democracy_bonapartism_ideology = { }
 			authoritarian_democracy_oligarchy_ideology = { }
-			moderate_dixiecrat_ideology = { }
+			authoritarian_democracy_moderate_dixiecrat_ideology = { }
 			social_authoritarianism_ideology = { }
 			authoritarian_democracy_police_state_ideology = { }
 			authoritarian_democracy_hamiltonian_democracy_ideology = { }

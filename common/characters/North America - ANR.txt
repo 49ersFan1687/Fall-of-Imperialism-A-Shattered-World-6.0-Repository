@@ -15,6 +15,25 @@ characters = {
 		}
     }
 
+    ANR_james_strom_thurmond_sr = {
+        name = "James Strom Thurmond Sr."
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/ANR/Portrait_ANR_James_Strom_Thurmond_Sr.png"
+            }
+        }
+        country_leader = {
+			ideology = conservative_moderate_dixiecrat_ideology
+			traits = {
+
+			}
+		}
+    }
+
+    ANR_richard_milhous_nixon = {
+
+    }
+
     ### Military Leaders ###
     
 

@@ -37,13 +37,4 @@ set_autonomy = {
 
 ### Civilian Leaders ###
 recruit_character = ANR_wallace_humphrey_white_jr
-
-create_country_leader = {
-	name = "Strom Thurmonds"
-	desc = ""
-	picture = GFX_Strom_ANR
-	ideology = christian_democracy_ideology
-	traits = {
-		#
-	}
-}
+recruit_character = ANR_james_strom_thurmond_sr

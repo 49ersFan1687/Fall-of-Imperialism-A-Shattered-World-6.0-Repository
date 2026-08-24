@@ -131,7 +131,7 @@ characters = {
 			logistics_skill = 3
 		}
 		advisor = {
-			cost = 150
+			cost = 100
 			slot = chief_of_staff
 			idea_token = cos_omar_nelson_bradley
 			ledger = army
@@ -161,6 +161,15 @@ characters = {
 	        planning_skill = 3
 	        logistics_skill = 3
         }
+		advisor = {
+			cost = 100
+			slot = air_chief
+			idea_token = air_chief_curtis_lemay
+			ledger = air_force
+			traits = {
+				
+			}
+		}
     }
 
     ### Corps Commanders ###
@@ -605,6 +614,19 @@ characters = {
 
 
     ## Advisors - Civilian ##
+
+	# Heads of Government #
+
+	
+	# Foreign Ministers #
+
+
+	# Economic Ministers #
+
+
+	# Interior Ministers #
+
+
 
 
     ### Scientists - Air ###
