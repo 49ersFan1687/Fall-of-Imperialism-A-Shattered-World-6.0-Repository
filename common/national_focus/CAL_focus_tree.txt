@@ -14,6 +14,34 @@ focus_tree = {
     continuous_focus_position = { x = 9999 y = 9999 }
 }
 
+focus_tree = {
+    id = CAL_west_coast_expansion_tree
+    country = {
+		factor = 0
+
+		modifier = {
+			add = 10
+			original_tag = CAL
+		}
+	}
+    default = no
+    continuous_focus_position = { x = 9999 y = 9999 }
+}
+
+focus_tree = {
+    id = CAL_west_coast_regional_tree
+    country = {
+		factor = 0
+
+		modifier = {
+			add = 10
+			original_tag = CAL
+		}
+	}
+    default = no
+    continuous_focus_position = { x = 9999 y = 9999 }
+}
+
 ### Starting Focus Tree - Beginning Branch ###
 shared_focus = {
 	id = CAL_americas_last_refuge_for_liberty
@@ -837,3 +865,5 @@ shared_focus = {
 
 
 ### Starting Focus Tree - Canadian Aid Branch ###
+
+

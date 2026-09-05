@@ -1,3 +1,7 @@
 spriteTypes = {
     ### STARING IDEAS - CALIFORNIA REPUBLIC ###
+    spriteType = {
+		name = "GFX_idea_CAL_last_bastion_of_liberty"
+		texturefile = "gfx/interface/ideas/CAL/CAL_last_bastion_of_liberty.dds"
+	}
 }

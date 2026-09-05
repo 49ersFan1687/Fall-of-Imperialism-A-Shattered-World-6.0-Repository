@@ -26,13 +26,12 @@ characters = {
 				career_officer
 				armor_officer
 				skilled_staffer
-				organizer
 				panzer_leader
 			}
 			skill = 4
 			attack_skill = 4
 			defense_skill = 3
-			planning_skill = 3
+			planning_skill = 2
 			logistics_skill = 4
 		}
 		gender = female

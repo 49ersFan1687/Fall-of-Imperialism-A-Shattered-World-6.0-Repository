@@ -10,7 +10,7 @@ characters = {
         country_leader = {
 			ideology = auth_national_conservatism_ideology
 			traits = {
-
+                #the_american_judas
 			}
 		}
     }
@@ -31,7 +31,18 @@ characters = {
     }
 
     ANR_richard_milhous_nixon = {
+        name = "Richard Milhouse Nixon"
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/ANR/Portrait_ANR_Richard_Milhous_Nixon.dds"
+            }
+        }
+        country_leader = {
+			ideology = 
+			traits = {
 
+			}
+		}
     }
 
     ### Military Leaders ###

@@ -4,7 +4,7 @@ ideas = {
         CAL_idea_last_bastion_of_liberty = {
             on_add = { log = "[GetDateText]: [Root.GetName]: add idea CAL_idea_last_bastion_of_liberty" }
             allowed = { always = no }
-            #picture = 
+            picture = GFX_idea_CAL_last_bastion_of_liberty
             modifier = {
                 war_support_factor = 0.05
                 army_core_attack_factor = 0.10

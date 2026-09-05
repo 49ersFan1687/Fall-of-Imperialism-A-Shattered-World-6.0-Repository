@@ -1,0 +1,52 @@
+characters = {
+    ### Civilian Leaders ###
+    MAR_herbert_clark_hoover = {
+        name = "Herbert Clark Hoover"
+        portraits = {
+			civilian = {
+				large = "gfx/leaders/GER/Portrait_GER_Adolf_Hitler.dds"
+			}
+		}
+        country_leader = {
+			ideology = national_conservatism_ideology
+			traits = {
+                #the_great_humanitarian
+			}
+		}
+    }
+
+    ### Military Leaders ###
+
+
+    ### Field Marshals ###
+
+
+    ### Corps Commanders ###
+
+
+    ### Admirals ###
+
+
+    ## Advisors - Army (Chiefs/High Command) - NOT GENREALS/FIELD MARSHALS ##
+
+
+    ## Advisors - Navy (Chiefs/High Command) - NOT GENREALS/FIELD MARSHALS ##
+
+
+    ## Advisors - Air Force (Chiefs/High Command) - NOT GENREALS/FIELD MARSHALS ##
+
+
+    ## Advisors - Civilian ##
+
+
+    ### Scientists - Air ###
+
+
+    ### Scientists - Army ###
+
+
+    ### Scientists - Naval ###
+
+
+    ### Scientists - Nuclear ###
+}
