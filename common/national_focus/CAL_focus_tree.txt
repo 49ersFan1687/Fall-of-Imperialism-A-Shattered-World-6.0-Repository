@@ -57,7 +57,7 @@ focus_tree = {
 }
 
 focus_tree = {
-    id = CAL_west_coast_civilian_military_tree
+    id = CAL_west_coast_military_regional_tree
     country = {
 		factor = 0
 
