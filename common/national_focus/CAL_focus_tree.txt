@@ -43,7 +43,7 @@ focus_tree = {
 }
 
 focus_tree = {
-    id = CAL_west_coast_regional_tree
+    id = CAL_west_coast_civilian_regional_tree
     country = {
 		factor = 0
 
@@ -57,7 +57,35 @@ focus_tree = {
 }
 
 focus_tree = {
-    id = CAL_west_coast_superregional_tree
+    id = CAL_west_coast_civilian_military_tree
+    country = {
+		factor = 0
+
+		modifier = {
+			add = 10
+			original_tag = CAL
+		}
+	}
+    default = no
+    continuous_focus_position = { x = 9999 y = 9999 }
+}
+
+focus_tree = {
+    id = CAL_west_coast_civilian_superregional_tree
+    country = {
+		factor = 0
+
+		modifier = {
+			add = 10
+			original_tag = CAL
+		}
+	}
+    default = no
+    continuous_focus_position = { x = 9999 y = 9999 }
+}
+
+focus_tree = {
+    id = CAL_west_coast_military_superregional_tree
     country = {
 		factor = 0
 
