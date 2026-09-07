@@ -4,7 +4,7 @@ characters = {
         name = "Herbert Clark Hoover"
         portraits = {
 			civilian = {
-				large = "gfx/leaders/GER/Portrait_GER_Adolf_Hitler.dds"
+				large = "gfx/leaders/MAR/Portrait_MAR_Herbert_Clark_Hoover.dds"
 			}
 		}
         country_leader = {
