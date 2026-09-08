@@ -319,6 +319,8 @@ shared_focus = {
 
 ### Starting Focus Tree - Canadian Aid Branch ###
 
+### Starting Focus Tree - Canadian Aid Branch ###
+
 ### Starting Focus Tree - Political Branch ###
 shared_focus = {
     id = CAL_address_the_ongoing_political_situation
@@ -916,9 +918,6 @@ shared_focus = {
 
     }
 }
-
-### Starting Focus Tree - Canadian Aid Branch ###
-
 
 ### Starting Focus Tree - Canadian Aid Branch ###
 
