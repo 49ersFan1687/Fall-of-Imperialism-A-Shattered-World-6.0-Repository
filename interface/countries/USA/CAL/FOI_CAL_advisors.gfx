@@ -12,4 +12,5 @@ spriteTypes = {
 		name = "GFX_CAL_Curtis_Emerson_lemay"
 		textureFile = "gfx/leaders/CAL/small/Portrait_CAL_Curtis_Emerson_lemay_small.dds"
 	}
+	spriteType
 }
