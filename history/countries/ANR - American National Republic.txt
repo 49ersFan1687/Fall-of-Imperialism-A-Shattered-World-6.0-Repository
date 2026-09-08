@@ -38,3 +38,4 @@ set_autonomy = {
 ### Civilian Leaders ###
 recruit_character = ANR_wallace_humphrey_white_jr
 recruit_character = ANR_james_strom_thurmond_sr
+recruit_character = ANR_richard_milhous_nixon

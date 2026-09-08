@@ -8,4 +8,8 @@ spriteTypes = {
 		name = "GFX_ANR_James_Strom_Thurmond_Sr"
 		textureFile = "gfx/leaders/ANR/Portrait_ANR_James_Strom_Thurmond_Sr.png"
 	}
+	spriteType = {
+		name = "GFX_ANR_Richard_Milhous_Nixon"
+		textureFile = "gfx/leaders/ANR/Portrait_ANR_Richard_Milhous_Nixon.png"
+	}
 }
