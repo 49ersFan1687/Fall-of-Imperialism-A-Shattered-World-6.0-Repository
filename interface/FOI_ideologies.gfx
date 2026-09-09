@@ -40,6 +40,10 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideologies/communism_stalinism_ideology.png"
 	}
 	spriteType = {
+		name = "GFX_ideology_communism_maoism_ideology"
+		texturefile = "gfx/interface/ideologies/communism_maoism_ideology.png"
+	}
+	spriteType = {
 		name = "GFX_ideology_communism_red_junta_ideology"
 		texturefile = "gfx/interface/ideologies/communism_red_junta_ideology.png"
 	}
@@ -55,10 +59,7 @@ spriteTypes = {
 		name = "GFX_ideology_GER_leninism_ideology"
 		texturefile = "gfx/interface/ideologies/GER_leninism_ideology.png"
 	}
-	spriteType = {
-		name = "GFX_ideology_communism_maoism_ideology"
-		texturefile = "gfx/interface/ideologies/communism_maoism_ideology.png"
-	}
+	
 	
 
 ### Syndicalist Subideologies ###
