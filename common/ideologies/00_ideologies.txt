@@ -246,6 +246,10 @@ ideologies = {
 			authoritarian_democracy_hamiltonian_democracy_ideology = { }
 			authoritarian_democracy_prussian_constitutionalism_ideology = { }
 			authoritarian_democracy_military_junta_ideology = { }
+			authoritarian_democracy_vytalian_stratocracy_ruby_ideology = { }
+			authoritarian_democracy_vytalian_stratocracy_weiss_ideology = { }
+			authoritarian_democracy_vytalian_stratocracy_blake_ideology = { }
+			authoritarian_democracy_vytalian_stratocracy_yang_ideology = { }
         }
 		dynamic_faction_names = { }
 		color = { 135 135 140 }

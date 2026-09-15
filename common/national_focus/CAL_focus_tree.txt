@@ -112,7 +112,9 @@ focus_tree = {
     continuous_focus_position = { x = 9999 y = 9999 }
 }
 
-### Starting Focus Tree - Beginning Branch ###
+################################################
+### |Starting Focus Tree - Beginning Branch| ###
+################################################
 shared_focus = {
 	id = CAL_americas_last_refuge_for_liberty
 	#icon = 
@@ -331,9 +333,23 @@ shared_focus = {
     }
 }
 
-### Starting Focus Tree - Canadian Aid Branch ###
+### Starting Focus Tree - Initial Military Branch ###
+shared_focus = {
+    id = CAL_expamd_and_rebuild_the_california_national_guard
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_call_for_desparate_measures
+	prerequisite = {
+		focus = CAL_call_for_desparate_measures
+	}
 
-### Starting Focus Tree - Canadian Aid Branch ###
+    x = -7
+    y = 1
+
+    completion_reward = {
+
+    }
+}
 
 ### Starting Focus Tree - Political Branch ###
 shared_focus = {
@@ -933,6 +949,6 @@ shared_focus = {
     }
 }
 
-### Starting Focus Tree - Canadian Aid Branch ###
+### Starting Focus Tree - Starting Economy Branch ###
 
 
