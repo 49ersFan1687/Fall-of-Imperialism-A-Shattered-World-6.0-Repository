@@ -44,6 +44,10 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideologies/communism_maoism_ideology.png"
 	}
 	spriteType = {
+		name = "GFX_ideology_communism_juche_ideology"
+		texturefile = "gfx/interface/ideologies/communism_juche_ideology.dds"
+	}
+	spriteType = {
 		name = "GFX_ideology_communism_red_junta_ideology"
 		texturefile = "gfx/interface/ideologies/communism_red_junta_ideology.png"
 	}
@@ -108,6 +112,10 @@ spriteTypes = {
 		name = "GFX_ideology_irish_national_catholicism_ideology"
 		texturefile = "gfx/interface/ideologies/irish_national_catholicism.png"
 	}
+	spriteType = {
+		name = "GFX_ideology_authoritarian_democracy_subhasim_ideology"
+		texturefile = "gfx/interface/ideologies/authoritarian_democracy_subhasism_ideology.dds"
+	}
 
 ### Paternal Autocrat Subideologies ###
 	spriteType = {
@@ -117,6 +125,10 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_ideology_horthyism_ideology"
 		texturefile = "gfx/interface/ideologies/horthyism_ideology.png"
+	}
+	spriteType = {
+		name = "GFX_ideology_wangism_ideology"
+		texturefile = "gfx/interface/ideologies/paternal_autocracy_wangism_ideology.dds"
 	}
 
 ### Accelerationist Subideologies ###
