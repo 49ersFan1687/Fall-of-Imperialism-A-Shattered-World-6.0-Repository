@@ -1,5 +1,5 @@
 spriteTypes = {
-    ### Leaders ###
+    ### Civilian Leaders ###
     spriteType = {
 		name = "GFX_MAR_Herbert_Clark_Hoover"
 		textureFile = "gfx/leaders/MAR/Portrait_MAR_Herbert_Clark_Hoover.dds"

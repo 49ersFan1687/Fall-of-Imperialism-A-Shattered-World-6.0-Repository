@@ -4,4 +4,9 @@ spriteTypes = {
 		name = "GFX_CSD_Atsuko_Maeda"
 		textureFile = "gfx/leaders/CSD/Portrait_CSD_Atsuko_Maeda.dds"
 	}
+
+	spriteType = {
+		name = "GFX_CSD_Ruby_Rose"
+		textureFile = "gfx/leaders/CSD/Portrait_CSD_Ruby_Rose.dds"
+	}
 }
