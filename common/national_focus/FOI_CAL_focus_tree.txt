@@ -274,22 +274,6 @@ shared_focus = {
 }
 
 shared_focus = {
-    id = CAL_farmlands_of_california
-    #icon = 
-    cost = 2
-    relative_position_id = CAL_address_the_ongoing_greater_depression
-    prerequisite = {
-        focus = CAL_address_the_ongoing_greater_depression
-    }
-    x = -2
-    y = 1
-    
-    completion_reward = {
-        
-    }
-}
-
-shared_focus = {
     id = CAL_arms_companies_subsidies
     #icon = 
     cost = 2
