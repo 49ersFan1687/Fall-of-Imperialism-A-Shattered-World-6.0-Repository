@@ -25,7 +25,7 @@ focus_tree = {
 		}
 	}
     default = no
-    continuous_focus_position = { x = 9999 y = 9999 }
+    continuous_focus_position = { x = 999 y = 999 }
 }
 
 focus_tree = {
@@ -120,7 +120,7 @@ shared_focus = {
 	#icon = 
 	cost = 5
 	
-	x = 6
+	x = 14
 	y = 0
 
 	completion_reward = {
@@ -129,7 +129,7 @@ shared_focus = {
 }
 
 shared_focus = {
-    id = CAL_remnants_of_the_federal_government
+    id = CAL_the_great_american_calamity
     #icon = 
 	cost = 5
     relative_position_id = CAL_americas_last_refuge_for_liberty
@@ -146,7 +146,7 @@ shared_focus = {
 }
 
 shared_focus = {
-    id = CAL_the_american_calamity
+    id = CAL_the_long_dead_march_west
     #icon = 
 	cost = 5
     relative_position_id = CAL_americas_last_refuge_for_liberty
@@ -163,12 +163,12 @@ shared_focus = {
 }
 
 shared_focus = {
-    id = CAL_the_fate_of_the_golden_state
+    id = CAL_the_remnants_of_the_federal_government
     #icon = 
 	cost = 5
-    relative_position_id = CAL_remnants_of_the_federal_government
+    relative_position_id = CAL_the_great_american_calamity
 	prerequisite = {
-		focus = CAL_remnants_of_the_federal_government
+		focus = CAL_the_great_american_calamity
 	}
 
     x = -1
@@ -180,15 +180,15 @@ shared_focus = {
 }
 
 shared_focus = {
-    id = CAL_a_fragile_peace
+    id = CAL_whisphers_of_hope
     #icon = 
 	cost = 5
-    relative_position_id = CAL_remnants_of_the_federal_government
+    relative_position_id = CAL_the_great_american_calamity
 	prerequisite = {
-		focus = CAL_remnants_of_the_federal_government
+		focus = CAL_the_great_american_calamity
 	}
     prerequisite = {
-        focus = CAL_the_american_calamity
+        focus = CAL_the_long_dead_march_west
     }
 
     x = 1
@@ -200,13 +200,13 @@ shared_focus = {
 }
 
 shared_focus = {
-    id = CAL_barely_holding_on
+    id = CAL_the_armed_forces_remnants
     #icon = 
 	cost = 5
-    relative_position_id = CAL_the_american_calamity
-	prerequisite = {
-		focus = CAL_the_american_calamity
-	}
+    relative_position_id = CAL_the_long_dead_march_west
+    prerequisite = {
+        focus = CAL_the_long_dead_march_west
+    }
 
     x = 1
     y = 1
@@ -217,19 +217,40 @@ shared_focus = {
 }
 
 shared_focus = {
-    id = CAL_the_californian_emergency
+    id = CAL_the_fateful_meeting
     #icon = 
 	cost = 5
-    relative_position_id = CAL_remnants_of_the_federal_government
-	prerequisite = {
-		focus = CAL_remnants_of_the_federal_government
-	}
+    relative_position_id = CAL_whisphers_of_hope
     prerequisite = {
-        focus = CAL_a_fragile_peace
+        focus = CAL_the_remnants_of_the_federal_government
+    }
+	prerequisite = {
+		focus = CAL_whisphers_of_hope
+    }
+    prerequisite = {
+        focus = CAL_the_armed_forces_remnants
     }
 
     x = 0
-    y = 2
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+### Starting Focus Tree - Initial Economic Branch ###
+shared_focus = {
+    id = CAL_address_the_ongoing_greater_depression
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_the_fateful_meeting
+	prerequisite = {
+		focus = CAL_the_fateful_meeting
+    }
+
+    x = -8
+    y = 1
 
     completion_reward = {
 
@@ -237,19 +258,199 @@ shared_focus = {
 }
 
 shared_focus = {
-    id = CAL_surrounded_on_all_sides
+    id = CAL_farmlands_of_california
+    #icon = 
+    cost = 2
+    relative_position_id = CAL_address_the_ongoing_greater_depression
+    prerequisite = {
+        focus = CAL_address_the_ongoing_greater_depression
+    }
+    x = -2
+    y = 1
+    
+    completion_reward = {
+        
+    }
+}
+
+shared_focus = {
+    id = CAL_farmlands_of_california
+    #icon = 
+    cost = 2
+    relative_position_id = CAL_address_the_ongoing_greater_depression
+    prerequisite = {
+        focus = CAL_address_the_ongoing_greater_depression
+    }
+    x = -2
+    y = 1
+    
+    completion_reward = {
+        
+    }
+}
+
+shared_focus = {
+    id = CAL_arms_companies_subsidies
+    #icon = 
+    cost = 2
+    relative_position_id = CAL_address_the_ongoing_greater_depression
+    prerequisite = {
+        focus = CAL_address_the_ongoing_greater_depression
+    }
+    x = 0
+    y = 1
+    
+    completion_reward = {
+        
+    }
+}
+
+shared_focus = {
+    id = CAL_dealing_with_labor_shortages
+    #icon = 
+    cost = 2
+    relative_position_id = CAL_address_the_ongoing_greater_depression
+    prerequisite = {
+        focus = CAL_address_the_ongoing_greater_depression
+    }
+    x = 2
+    y = 1
+    
+    completion_reward = {
+        
+    }
+}
+
+shared_focus = {
+    id = CAL_ramp_up_ration_production
+    #icon = 
+    cost = 2
+    relative_position_id = CAL_farmlands_of_california
+    prerequisite = {
+        focus = CAL_farmlands_of_california
+    }
+    x = 0
+    y = 1
+    
+    completion_reward = {
+        
+    }
+}
+
+shared_focus = {
+    id = CAL_create_the_war_research_department
+    #icon = 
+    cost = 2
+    relative_position_id = CAL_arms_companies_subsidies
+    prerequisite = {
+        focus = CAL_arms_companies_subsidies
+    }
+    x = 0
+    y = 1
+    
+    completion_reward = {
+        
+    }
+}
+
+shared_focus = {
+    id = CAL_place_factories_under_military_oversight
+    #icon = 
+    cost = 2
+    relative_position_id = CAL_dealing_with_labor_shortages
+    prerequisite = {
+        focus = CAL_dealing_with_labor_shortages
+    }
+    x = 0
+    y = 1
+    
+    completion_reward = {
+        
+    }
+}
+
+shared_focus = {
+    id = CAL_rebuilding_civilian_industry
+    #icon = 
+    cost = 2
+    relative_position_id = CAL_ramp_up_ration_production
+    prerequisite = {
+        focus = CAL_ramp_up_ration_production
+    }
+    x = 0
+    y = 1
+    
+    completion_reward = {
+        
+    }
+}
+
+shared_focus = {
+    id = CAL_rebuilding_destroyed_arms_factories
+    #icon = 
+    cost = 2
+    relative_position_id = CAL_create_the_war_research_department
+    prerequisite = {
+        focus = CAL_create_the_war_research_department
+    }
+    x = 0
+    y = 1
+    
+    completion_reward = {
+        
+    }
+}
+
+shared_focus = {
+    id = CAL_forming_a_reconstruction_corps
+    #icon = 
+    cost = 2
+    relative_position_id = CAL_place_factories_under_military_oversight
+    prerequisite = {
+        focus = CAL_place_factories_under_military_oversight
+    }
+    x = 0
+    y = 1
+    
+    completion_reward = {
+        
+    }
+}
+
+shared_focus = {
+    id = CAL_marshalls_reconstruction_plan_for_california
+    #icon = 
+    cost = 2
+    relative_position_id = CAL_rebuilding_destroyed_arms_factories
+    prerequisite = {
+        focus = CAL_rebuilding_civilian_industry
+    }
+    prerequisite = {
+        focus = CAL_rebuilding_destroyed_arms_factories
+    }
+    prerequisite = {
+        focus = CAL_forming_a_reconstruction_corps
+    }
+    x = 0
+    y = 1
+    
+    completion_reward = {
+        
+    }
+}
+
+### Starting Focus Tree - Initial Military Branch ###
+shared_focus = {
+    id = CAL_expand_and_rebuild_the_california_national_guard
     #icon = 
 	cost = 5
-    relative_position_id = CAL_the_american_calamity
+    relative_position_id = CAL_the_fateful_meeting
 	prerequisite = {
-		focus = CAL_the_american_calamity
-	}
-    prerequisite ={
-        focus = CAL_a_fragile_peace
+		focus = CAL_the_fateful_meeting
     }
 
     x = 0
-    y = 2
+    y = 1
 
     completion_reward = {
 
@@ -257,38 +458,233 @@ shared_focus = {
 }
 
 shared_focus = {
-    id = CAL_hope_in_our_situation
+    id = CAL_improved_rifle_designs
     #icon = 
-	cost = 5
-    relative_position_id = CAL_the_californian_emergency
-	prerequisite = {
-		focus = CAL_the_fate_of_the_golden_state
-	}
-    prerequisite ={
-        focus = CAL_the_californian_emergency
+    cost = 2
+    relative_position_id = CAL_expand_and_rebuild_the_california_national_guard
+    prerequisite = {
+        focus = CAL_expand_and_rebuild_the_california_national_guard
     }
+    x = -3
+    y = 1
+    
+    completion_reward = {
+        
+    }
+}
 
+shared_focus = {
+    id = CAL_form_the_fortieth_armored_division
+    #icon = 
+    cost = 2
+    relative_position_id = CAL_expand_and_rebuild_the_california_national_guard
+    prerequisite = {
+        focus = CAL_expand_and_rebuild_the_california_national_guard
+    }
     x = -1
     y = 1
-
+    
     completion_reward = {
-
+        
     }
 }
 
 shared_focus = {
-    id = CAL_making_every_piece_count
+    id = CAL_expand_the_military_police
+    #icon = 
+    cost = 2
+    relative_position_id = CAL_expand_and_rebuild_the_california_national_guard
+    prerequisite = {
+        focus = CAL_expand_and_rebuild_the_california_national_guard
+    }
+    x = 1
+    y = 1
+    
+    completion_reward = {
+        
+    }
+}
+
+shared_focus = {
+    id = CAL_new_artillery_designs
+    #icon = 
+    cost = 2
+    relative_position_id = CAL_expand_and_rebuild_the_california_national_guard
+    prerequisite = {
+        focus = CAL_expand_and_rebuild_the_california_national_guard
+    }
+    x = 3
+    y = 1
+    
+    completion_reward = {
+        
+    }
+}
+
+shared_focus = {
+    id = CAL_initial_motorization_efforts
+    #icon = 
+    cost = 2
+    relative_position_id = CAL_improved_rifle_designs
+    prerequisite = {
+        focus = CAL_improved_rifle_designs
+    }
+    x = 0
+    y = 1
+    
+    completion_reward = {
+        
+    }
+}
+
+shared_focus = {
+    id = CAL_new_tank_research
+    #icon = 
+    cost = 2
+    relative_position_id = CAL_form_the_fortieth_armored_division
+    prerequisite = {
+        focus = CAL_form_the_fortieth_armored_division
+    }
+    x = 0
+    y = 1
+    
+    completion_reward = {
+        
+    }
+}
+
+shared_focus = {
+    id = CAL_militarize_civil_police
+    #icon = 
+    cost = 2
+    relative_position_id = CAL_expand_the_military_police
+    prerequisite = {
+        focus = CAL_expand_the_military_police
+    }
+    x = 0
+    y = 1
+    
+    completion_reward = {
+        
+    }
+}
+
+shared_focus = {
+    id = CAL_anti_air_research
+    #icon = 
+    cost = 2
+    relative_position_id = CAL_new_artillery_designs
+    prerequisite = {
+        focus = CAL_new_artillery_designs
+    }
+    x = 0
+    y = 1
+    
+    completion_reward = {
+        
+    }
+}
+
+shared_focus = {
+    id = CAL_initial_mechanization_efforts
+    #icon = 
+    cost = 2
+    relative_position_id = CAL_initial_motorization_efforts
+    prerequisite = {
+        focus = CAL_initial_motorization_efforts
+    }
+    x = 0
+    y = 1
+    
+    completion_reward = {
+        
+    }
+}
+
+shared_focus = {
+    id = CAL_military_logistic_corps
+    #icon = 
+    cost = 2
+    relative_position_id = CAL_new_tank_research
+    prerequisite = {
+        focus = CAL_new_tank_research
+    }
+    x = 0
+    y = 1
+    
+    completion_reward = {
+        
+    }
+}
+
+shared_focus = {
+    id = CAL_centralized_mp_command
+    #icon = 
+    cost = 2
+    relative_position_id = CAL_militarize_civil_police
+    prerequisite = {
+        focus = CAL_militarize_civil_police
+    }
+    x = 0
+    y = 1
+    
+    completion_reward = {
+        
+    }
+}
+
+shared_focus = {
+    id = CAL_anti_tank_research
+    #icon = 
+    cost = 2
+    relative_position_id = CAL_anti_air_research
+    prerequisite = {
+        focus = CAL_anti_air_research
+    }
+    x = 0
+    y = 1
+    
+    completion_reward = {
+        
+    }
+}
+
+shared_focus = {
+    id = CAL_reactivate_destroyed_divisions
+    #icon = 
+    cost = 2
+    relative_position_id = CAL_military_logistic_corps
+    prerequisite = {
+        focus = CAL_initial_mechanization_efforts
+    }
+    prerequisite = {
+        focus = CAL_military_logistic_corps
+    }
+    prerequisite = {
+        focus = CAL_centralized_mp_command
+    }
+    prerequisite = {
+        focus = CAL_anti_tank_research
+    }
+    x = 1
+    y = 1
+    
+    completion_reward = {
+        
+    }
+}
+
+### Starting Focus Tree - Canadian Aid Branch ###
+shared_focus = {
+    id = CAL_seek_aid_from_up_north
     #icon = 
 	cost = 5
-    relative_position_id = CAL_surrounded_on_all_sides
+    relative_position_id = CAL_the_fateful_meeting
 	prerequisite = {
-		focus = CAL_surrounded_on_all_sides
+		focus = CAL_the_fateful_meeting
 	}
-    prerequisite ={
-        focus = CAL_barely_holding_on
-    }
 
-    x = 1
+    x = 8
     y = 1
 
     completion_reward = {
@@ -297,16 +693,47 @@ shared_focus = {
 }
 
 shared_focus = {
-    id = CAL_desparate_times
+    id = CAL_alexanders_millitary_mission
     #icon = 
 	cost = 5
-    relative_position_id = CAL_hope_in_our_situation
+    relative_position_id = CAL_seek_aid_from_up_north
 	prerequisite = {
-		focus = CAL_hope_in_our_situation
+		focus = CAL_seek_aid_from_up_north
 	}
-    prerequisite ={
-        focus = CAL_making_every_piece_count
+
+    x = -2
+    y = 1
+
+    completion_reward = {
+
     }
+}
+
+shared_focus = {
+    id = CAL_canadian_investments_in_california
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_seek_aid_from_up_north
+	prerequisite = {
+		focus = CAL_seek_aid_from_up_north
+	}
+
+    x = 0
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_a_sign_of_goodwill
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_seek_aid_from_up_north
+	prerequisite = {
+		focus = CAL_seek_aid_from_up_north
+	}
 
     x = 2
     y = 1
@@ -317,12 +744,12 @@ shared_focus = {
 }
 
 shared_focus = {
-    id = CAL_call_for_desparate_measures
+    id = CAL_purchase_canadian_equipment
     #icon = 
 	cost = 5
-    relative_position_id = CAL_desparate_times
+    relative_position_id = CAL_alexanders_millitary_mission
 	prerequisite = {
-		focus = CAL_desparate_times
+		focus = CAL_alexanders_millitary_mission
 	}
 
     x = 0
@@ -333,18 +760,108 @@ shared_focus = {
     }
 }
 
-### Starting Focus Tree - Initial Military Branch ###
 shared_focus = {
-    id = CAL_expamd_and_rebuild_the_california_national_guard
+    id = CAL_canadian_arms_factories
     #icon = 
 	cost = 5
-    relative_position_id = CAL_call_for_desparate_measures
+    relative_position_id = CAL_canadian_investments_in_california
 	prerequisite = {
-		focus = CAL_call_for_desparate_measures
+		focus = CAL_canadian_investments_in_california
+    }
+
+    x = 0
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_repatriate_american_personnel
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_a_sign_of_goodwill
+	prerequisite = {
+		focus = CAL_a_sign_of_goodwill
 	}
 
-    x = -7
+    x = 0
     y = 1
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_joint_excercises_with_the_canadians
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_purchase_canadian_equipment
+	prerequisite = {
+		focus = CAL_purchase_canadian_equipment
+	}
+
+    x = 0
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_import_resources_from_canada
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_canadian_arms_factories
+	prerequisite = {
+		focus = CAL_canadian_arms_factories
+    }
+
+    x = 0
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_open_up_los_angeles_ports
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_repatriate_american_personnel
+	prerequisite = {
+		focus = CAL_repatriate_american_personnel
+	}
+
+    x = 0
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_sign_the_canadian_californian_economic_treaty
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_canadian_arms_factories
+    prerequisite = {
+        focus = CAL_joint_excercises_with_the_canadians
+    }
+	prerequisite = {
+		focus = CAL_canadian_arms_factories
+    }
+    prerequisite = {
+        focus = CAL_open_up_los_angeles_ports
+    }
+
+    x = 0
+    y = 2
 
     completion_reward = {
 
@@ -356,83 +873,17 @@ shared_focus = {
     id = CAL_address_the_ongoing_political_situation
     #icon = 
 	cost = 5
-    relative_position_id = CAL_call_for_desparate_measures
-	prerequisite = {
-		focus = CAL_call_for_desparate_measures
-	}
-
-    x = 0
-    y = 1
-
-    completion_reward = {
-
+    relative_position_id = CAL_reactivate_destroyed_divisions
+    prerequisite = {
+        focus = CAL_marshalls_reconstruction_plan_for_california
     }
-}
-
-shared_focus = {
-    id = CAL_the_legacy_of_a_great_nation
-    #icon = 
-	cost = 5
-    relative_position_id = CAL_address_the_ongoing_political_situation
 	prerequisite = {
-		focus = CAL_address_the_ongoing_political_situation
-	}
-
-    x = 0
-    y = 1
-
-    completion_reward = {
-
-    }
-}
-
-shared_focus = {
-    id = CAL_our_roots_in_destiny
-    #icon = 
-	cost = 2
-    relative_position_id = CAL_the_legacy_of_a_great_nation
-	prerequisite = {
-		focus = CAL_the_legacy_of_a_great_nation
-	}
-
-    x = -1
-    y = 1
-
-    completion_reward = {
-
-    }
-}
-
-shared_focus = {
-    id = CAL_our_eastern_herritage
-    #icon = 
-	cost = 2
-    relative_position_id = CAL_the_legacy_of_a_great_nation
-	prerequisite = {
-		focus = CAL_the_legacy_of_a_great_nation
-	}
-
-    x = 1
-    y = 1
-
-    completion_reward = {
-
-    }
-}
-
-shared_focus = {
-    id = CAL_the_direction_of_democracy
-    #icon = 
-	cost = 5
-    relative_position_id = CAL_our_roots_in_destiny
-	prerequisite = {
-		focus = CAL_our_roots_in_destiny
+		focus = CAL_reactivate_destroyed_divisions
 	}
     prerequisite = {
-        focus = CAL_our_eastern_herritage
+        focus = CAL_sign_the_canadian_californian_economic_treaty
     }
-
-    x = 1
+    x = 0
     y = 1
 
     completion_reward = {
@@ -444,9 +895,9 @@ shared_focus = {
     id = CAL_by_the_people_for_the_people
     #icon = 
 	cost = 5
-    relative_position_id = CAL_the_direction_of_democracy
+    relative_position_id = CAL_address_the_ongoing_political_situation
 	prerequisite = {
-		focus = CAL_the_direction_of_democracy
+		focus = CAL_address_the_ongoing_political_situation
 	}
     mutually_exclusive = {
         focus = CAL_an_army_with_a_democracy
@@ -464,9 +915,9 @@ shared_focus = {
     id = CAL_an_army_with_a_democracy
     #icon = 
 	cost = 5
-    relative_position_id = CAL_the_direction_of_democracy
+    relative_position_id = CAL_address_the_ongoing_political_situation
 	prerequisite = {
-		focus = CAL_the_direction_of_democracy
+		focus = CAL_address_the_ongoing_political_situation
 	}
     mutually_exclusive = {
         focus = CAL_by_the_people_for_the_people
@@ -489,7 +940,7 @@ shared_focus = {
 		focus = CAL_by_the_people_for_the_people
 	}
 
-    x = -1
+    x = -3
     y = 1
 
     completion_reward = {
@@ -506,7 +957,7 @@ shared_focus = {
 		focus = CAL_by_the_people_for_the_people
 	}
 
-    x = 1
+    x = 0
     y = 1
 
     completion_reward = {
@@ -523,7 +974,7 @@ shared_focus = {
 		focus = CAL_an_army_with_a_democracy
 	}
 
-    x = -1
+    x = 0
     y = 1
 
     completion_reward = {
@@ -540,7 +991,7 @@ shared_focus = {
 		focus = CAL_an_army_with_a_democracy
 	}
 
-    x = 1
+    x = 3
     y = 1
 
     completion_reward = {
@@ -556,11 +1007,8 @@ shared_focus = {
 	prerequisite = {
 		focus = CAL_keeping_the_peace
 	}
-    prerequisite = {
-        focus = CAL_a_democracy_maintained
-    }
 
-    x = 1
+    x = 0
     y = 1
 
     completion_reward = {
@@ -569,16 +1017,32 @@ shared_focus = {
 }
 
 shared_focus = {
-    id = CAL_keeping_up_with_our_stability
+    id = CAL_reconstitute_the_supreme_court
     #icon = 
 	cost = 5
     relative_position_id = CAL_a_democracy_maintained
 	prerequisite = {
 		focus = CAL_a_democracy_maintained
-        focus = CAL_the_military_industrial_complex
-    }
+	}
 
-    x = 1
+    x = 0
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_hold_the_first_washingtonian_congress
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_the_military_industrial_complex
+	prerequisite = {
+		focus = CAL_the_military_industrial_complex
+	}
+
+    x = 0
     y = 1
 
     completion_reward = {
@@ -590,12 +1054,29 @@ shared_focus = {
     id = CAL_no_vote_unturned
     #icon = 
 	cost = 5
-    relative_position_id = CAL_the_military_industrial_complex
-	prerequisite = {
-		focus = CAL_the_military_industrial_complex
-	}
+    relative_position_id = CAL_well_be_marching_home_again
     prerequisite = {
         focus = CAL_well_be_marching_home_again
+    }
+
+    x = 0
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_the_first_emergency_state_of_the_union
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_the_pearl_of_the_west
+	prerequisite = {
+		focus = CAL_the_pearl_of_the_west
+    }
+    prerequisite = {
+        focus = CAL_reconstitute_the_supreme_court
     }
 
     x = 1
@@ -607,19 +1088,36 @@ shared_focus = {
 }
 
 shared_focus = {
-    id = CAL_californias_wild_wacky_world
+    id = CAL_the_enemies_we_have_to_deal_with
     #icon = 
 	cost = 5
-    relative_position_id = CAL_keeping_up_with_our_stability
+    relative_position_id = CAL_a_democracy_maintained
 	prerequisite = {
-		focus = CAL_the_pearl_of_the_west
-        focus = CAL_no_vote_unturned
-	}
+		focus = CAL_reconstitute_the_supreme_court
+        focus = CAL_hold_the_first_washingtonian_congress
+    }
+
+    x = 2
+    y = 2
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_impose_martial_law_around_california
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_no_vote_unturned
+	prerequisite = {
+		focus = CAL_hold_the_first_washingtonian_congress
+    }
     prerequisite = {
-        focus = CAL_keeping_up_with_our_stability
+        focus = CAL_no_vote_unturned
     }
 
-    x = 0
+    x = -1
     y = 1
 
     completion_reward = {
@@ -628,149 +1126,12 @@ shared_focus = {
 }
 
 shared_focus = {
-    id = CAL_the_gambles_in_election_season
+    id = CAL_welcome_back_exiled_politicians
     #icon = 
 	cost = 5
-    relative_position_id = CAL_californias_wild_wacky_world
+    relative_position_id = CAL_the_first_emergency_state_of_the_union
 	prerequisite = {
-		focus = CAL_californias_wild_wacky_world
-	}
-
-    x = 0
-    y = 1
-
-    completion_reward = {
-
-    }
-}
-
-### Starting Focus Tree - Canadian Aid Branch ###
-shared_focus = {
-    id = CAL_seek_aid_from_up_north
-    #icon = 
-	cost = 5
-    relative_position_id = CAL_call_for_desparate_measures
-	prerequisite = {
-		focus = CAL_call_for_desparate_measures
-	}
-
-    x = 7
-    y = 1
-
-    completion_reward = {
-
-    }
-}
-
-shared_focus = {
-    id = CAL_send_our_best_and_brightest
-    #icon = 
-	cost = 5
-    relative_position_id = CAL_seek_aid_from_up_north
-	prerequisite = {
-		focus = CAL_seek_aid_from_up_north
-	}
-
-    x = 0
-    y = 1
-
-    completion_reward = {
-
-    }
-}
-
-shared_focus = {
-    id = CAL_alexanders_millitary_mission
-    #icon = 
-	cost = 5
-    relative_position_id = CAL_send_our_best_and_brightest
-	prerequisite = {
-		focus = CAL_send_our_best_and_brightest
-	}
-
-    x = -2
-    y = 1
-
-    completion_reward = {
-
-    }
-}
-
-shared_focus = {
-    id = CAL_canadian_investments_in_california
-    #icon = 
-	cost = 5
-    relative_position_id = CAL_send_our_best_and_brightest
-	prerequisite = {
-		focus = CAL_send_our_best_and_brightest
-	}
-
-    x = 0
-    y = 1
-
-    completion_reward = {
-
-    }
-}
-
-shared_focus = {
-    id = CAL_a_sign_of_goodwill
-    #icon = 
-	cost = 5
-    relative_position_id = CAL_send_our_best_and_brightest
-	prerequisite = {
-		focus = CAL_send_our_best_and_brightest
-	}
-
-    x = 3
-    y = 1
-
-    completion_reward = {
-
-    }
-}
-
-shared_focus = {
-    id = CAL_purchase_canadian_guns
-    #icon = 
-	cost = 5
-    relative_position_id = CAL_alexanders_millitary_mission
-	prerequisite = {
-		focus = CAL_alexanders_millitary_mission
-	}
-
-    x = 0
-    y = 1
-
-    completion_reward = {
-
-    }
-}
-
-shared_focus = {
-    id = CAL_canadian_vehicle_lend_lease
-    #icon = 
-	cost = 5
-    relative_position_id = CAL_canadian_investments_in_california
-	prerequisite = {
-		focus = CAL_canadian_investments_in_california
-	}
-
-    x = 0
-    y = 1
-
-    completion_reward = {
-
-    }
-}
-
-shared_focus = {
-    id = CAL_repatriate_american_personnel
-    #icon = 
-	cost = 5
-    relative_position_id = CAL_a_sign_of_goodwill
-	prerequisite = {
-		focus = CAL_a_sign_of_goodwill
+		focus = CAL_the_first_emergency_state_of_the_union
 	}
 
     x = -1
@@ -782,12 +1143,12 @@ shared_focus = {
 }
 
 shared_focus = {
-    id = CAL_open_up_los_angeles_port
+    id = CAL_welcome_back_poltical_refugees
     #icon = 
 	cost = 5
-    relative_position_id = CAL_a_sign_of_goodwill
+    relative_position_id = CAL_the_first_emergency_state_of_the_union
 	prerequisite = {
-		focus = CAL_a_sign_of_goodwill
+		focus = CAL_the_first_emergency_state_of_the_union
 	}
 
     x = 1
@@ -799,15 +1160,185 @@ shared_focus = {
 }
 
 shared_focus = {
-    id = CAL_canadian_arms_factories
+    id = CAL_the_nationalists
     #icon = 
 	cost = 5
-    relative_position_id = CAL_purchase_canadian_guns
+    relative_position_id = CAL_the_enemies_we_have_to_deal_with
 	prerequisite = {
-		focus = CAL_purchase_canadian_guns
+		focus = CAL_the_enemies_we_have_to_deal_with
+    }
+
+    x = -1
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_the_reds
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_the_enemies_we_have_to_deal_with
+	prerequisite = {
+		focus = CAL_the_enemies_we_have_to_deal_with
+    }
+
+    x = 1
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_sideline_civilian_government
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_impose_martial_law_around_california
+	prerequisite = {
+		focus = CAL_impose_martial_law_around_california
+    }
+
+    x = -1
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_implement_military_tribunals
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_impose_martial_law_around_california
+	prerequisite = {
+		focus = CAL_impose_martial_law_around_california
+    }
+
+    x = 1
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_passing_emergency_laws
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_welcome_back_exiled_politicians
+    prerequisite = {
+        focus = CAL_welcome_back_exiled_politicians
+    }
+
+    x = 0
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_negotiate_with_opposition_parties
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_welcome_back_poltical_refugees
+    prerequisite = {
+        focus = CAL_welcome_back_poltical_refugees
+    }
+
+    x = 0
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_infiltrate_their_rallies
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_the_nationalists
+	prerequisite = {
+		focus = CAL_the_nationalists
+    }
+
+    x = 0
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_wiretap_their_meetings
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_the_reds
+	prerequisite = {
+		focus = CAL_the_reds
+    }
+
+    x = 0
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_the_protests_of_civilian_politicians
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_sideline_civilian_government
+    prerequisite = {
+        focus = CAL_sideline_civilian_government
+    }
+
+    x = 0
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_begin_military_crackdowns
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_implement_military_tribunals
+    prerequisite = {
+        focus = CAL_implement_military_tribunals
+    }
+
+    x = 0
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_safeguarding_democracy
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_passing_emergency_laws
+	prerequisite = {
+		focus = CAL_passing_emergency_laws
 	}
     prerequisite = {
-        focus = CAL_canadian_vehicle_lend_lease
+        focus = CAL_negotiate_with_opposition_parties
     }
 
     x = 1
@@ -819,129 +1350,76 @@ shared_focus = {
 }
 
 shared_focus = {
-    id = CAL_purchase_canadian_equipment
+    id = CAL_purge_those_bastards
     #icon = 
 	cost = 5
-    relative_position_id = CAL_canadian_vehicle_lend_lease
+    relative_position_id = CAL_infiltrate_their_rallies
 	prerequisite = {
-		focus = CAL_canadian_vehicle_lend_lease
+		focus = CAL_infiltrate_their_rallies
+    }
+
+    x = 0
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_harsh_crackdowns_on_the_far_left
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_wiretap_their_meetings
+	prerequisite = {
+		focus = CAL_wiretap_their_meetings
+    }
+
+    x = 0
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_the_american_prussia
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_the_protests_of_civilian_politicians
+	prerequisite = {
+		focus = CAL_the_protests_of_civilian_politicians
+	}
+    prerequisite = {
+        focus = CAL_begin_military_crackdowns
+    }
+
+    x = 1
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_the_gambles_in_election_season
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_purge_those_bastards
+    prerequisite = {
+		focus = CAL_safeguarding_democracy
+        focus = CAL_the_american_prussia
+	}
+	prerequisite = {
+		focus = CAL_purge_those_bastards
+	}
+    prerequisite = {
+		focus = CAL_harsh_crackdowns_on_the_far_left
 	}
 
     x = 1
-    y = 1
-
-    completion_reward = {
-
-    }
-}
-
-shared_focus = {
-    id = CAL_canadian_californian_trade_agreement
-    #icon = 
-	cost = 5
-    relative_position_id = CAL_repatriate_american_personnel
-	prerequisite = {
-		focus = CAL_repatriate_american_personnel
-	}
-    prerequisite = {
-        focus = CAL_open_up_los_angeles_port
-    }
-
-    x = 1
-    y = 1
-
-    completion_reward = {
-
-    }
-}
-
-shared_focus = {
-    id = CAL_joint_excercises
-    #icon = 
-	cost = 5
-    relative_position_id = CAL_purchase_canadian_guns
-	prerequisite = {
-		focus = CAL_purchase_canadian_guns
-    }
-
-    x = 0
-    y = 2
-
-    completion_reward = {
-
-    }
-}
-
-shared_focus = {
-    id = CAL_sign_the_canadian_californian_economic_treaty
-    #icon = 
-	cost = 5
-    relative_position_id = CAL_canadian_arms_factories
-	prerequisite = {
-		focus = CAL_canadian_arms_factories
-    }
-    prerequisite = {
-        focus = CAL_purchase_canadian_equipment
-    }
-
-    x = 1
-    y = 1
-
-    completion_reward = {
-
-    }
-}
-
-shared_focus = {
-    id = CAL_import_resources_from_canada
-    #icon = 
-	cost = 5
-    relative_position_id = CAL_canadian_californian_trade_agreement
-	prerequisite = {
-		focus = CAL_canadian_californian_trade_agreement
-    }
-
-    x = 0
-    y = 1
-
-    completion_reward = {
-
-    }
-}
-
-shared_focus = {
-    id = CAL_finalize_the_agreements
-    #icon = 
-	cost = 10
-    relative_position_id = CAL_sign_the_canadian_californian_economic_treaty
-	prerequisite = {
-		focus = CAL_joint_excercises
-    }
-    prerequisite = {
-        focus = CAL_sign_the_canadian_californian_economic_treaty
-    }
-    prerequisite = {
-        focus = CAL_import_resources_from_canada
-    }
-
-    x = 0
-    y = 1
-
-    completion_reward = {
-
-    }
-}
-
-shared_focus = {
-    id = CAL_potential_observer_status_in_the_bermuda_accord
-    #icon = 
-	cost = 5
-    relative_position_id = CAL_finalize_the_agreements
-	prerequisite = {
-		focus = CAL_finalize_the_agreements
-    }
-
-    x = 0
     y = 1
 
     completion_reward = {
