@@ -19,7 +19,9 @@ characters = {
 
 
     ### Field Marshals ###
-
+    MAR_douglas_macarthur = {
+        name = "Douglas MacArthur"
+    }
 
     ### Corps Commanders ###
 

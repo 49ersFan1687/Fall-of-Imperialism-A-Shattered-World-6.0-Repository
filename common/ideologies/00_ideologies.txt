@@ -250,6 +250,7 @@ ideologies = {
 			authoritarian_democracy_vytalian_stratocracy_weiss_ideology = { }
 			authoritarian_democracy_vytalian_stratocracy_blake_ideology = { }
 			authoritarian_democracy_vytalian_stratocracy_yang_ideology = { }
+			authoritarian_democracy_subhaism_ideology = {}
         }
 		dynamic_faction_names = { }
 		color = { 135 135 140 }
@@ -308,6 +309,7 @@ ideologies = {
 			paternal_autocrat_bonapartism_ideology = { }
 			paternal_autocrat_oligarchy_ideology = { }
 			paternal_autocrat_police_state_ideology = { }
+			paternal_autocrat_wangism_ideology = { }
         }
 		dynamic_faction_names = { }
 		color = { 54 54 54 }
