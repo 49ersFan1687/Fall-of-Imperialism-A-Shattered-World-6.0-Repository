@@ -887,7 +887,7 @@ shared_focus = {
         focus = CAL_an_army_with_a_democracy
     }
 
-    x = -2
+    x = -3
     y = 1
 
     completion_reward = {
@@ -907,7 +907,7 @@ shared_focus = {
         focus = CAL_by_the_people_for_the_people
     }
 
-    x = 2
+    x = 3
     y = 1
 
     completion_reward = {
@@ -924,7 +924,7 @@ shared_focus = {
 		focus = CAL_by_the_people_for_the_people
 	}
 
-    x = -3
+    x = -2
     y = 1
 
     completion_reward = {
@@ -975,7 +975,7 @@ shared_focus = {
 		focus = CAL_an_army_with_a_democracy
 	}
 
-    x = 3
+    x = 2
     y = 1
 
     completion_reward = {
@@ -1081,7 +1081,7 @@ shared_focus = {
         focus = CAL_hold_the_first_washingtonian_congress
     }
 
-    x = 2
+    x = 3
     y = 2
 
     completion_reward = {
