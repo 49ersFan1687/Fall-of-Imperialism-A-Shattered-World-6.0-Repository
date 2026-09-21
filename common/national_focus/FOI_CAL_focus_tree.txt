@@ -231,21 +231,58 @@ shared_focus = {
 }
 
 shared_focus = {
-    id = CAL_the_fateful_meeting
+    id = CAL_the_limping_eagle
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_the_remnants_of_the_federal_government
+    prerequisite = {
+        focus = CAL_the_remnants_of_the_federal_government
+    }
+    prerequisite = {
+        focus = CAL_whisphers_of_hope
+    }
+
+    x = 1
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_the_mauled_bear
     #icon = 
 	cost = 5
     relative_position_id = CAL_whisphers_of_hope
     prerequisite = {
-        focus = CAL_the_remnants_of_the_federal_government
-    }
-	prerequisite = {
-		focus = CAL_whisphers_of_hope
+        focus = CAL_whisphers_of_hope
     }
     prerequisite = {
         focus = CAL_the_armed_forces_remnants
     }
 
-    x = 0
+    x = 1
+    y = 1
+
+    completion_reward = {
+
+    }
+}
+
+shared_focus = {
+    id = CAL_the_fateful_meeting
+    #icon = 
+	cost = 5
+    relative_position_id = CAL_the_limping_eagle
+    prerequisite = {
+        focus = CAL_the_limping_eagle
+    }
+	prerequisite = {
+		focus = CAL_the_mauled_bear
+    }
+
+    x = 1
     y = 1
 
     completion_reward = {
@@ -1425,6 +1462,11 @@ shared_focus = {
     }
 }
 
-### Starting Focus Tree - Starting Economy Branch ###
+####################################################
+### |Interim Focus Tree - Civilian Victory Path| ###
+####################################################
 
 
+####################################################
+### |Interim Focus Tree - Military Victory Path| ###
+####################################################
