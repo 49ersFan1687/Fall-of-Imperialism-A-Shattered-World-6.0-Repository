@@ -15,21 +15,4 @@ leader_traits = {
 
     ### Interior Minister - Common ###
     
-
-
-    #### UNIQUE ADVISOR TRAITS ####
-
-    ### Head of Government - Unique ###
-
-
-    ### Foreign Minister - Unique ###
-
-
-    ### Defense Minister - Unique ###
-
-
-    ### Economy Minister - Unique ###
-
-
-    ### Interior Minister - Unique ###
 }
