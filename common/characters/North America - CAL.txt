@@ -8,7 +8,7 @@ characters = {
             }
         }
         country_leader = {
-			ideology = provisional_government_ideology
+			ideology = authoritarian_democracy_provisional_government_ideology
 			traits = {
 
 			}
