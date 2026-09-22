@@ -8,7 +8,7 @@ characters = {
             }
         }
         country_leader = {
-			ideology = auth_national_conservatism_ideology
+			ideology = authoritarian_democracy_auth_national_conservatism_ideology
 			traits = {
                 #the_american_judas
 			}
@@ -38,9 +38,9 @@ characters = {
             }
         }
         country_leader = {
-			ideology = 
+			ideology = conservatism_national_conservatism_ideology
 			traits = {
-
+                #tricky_dick
 			}
 		}
     }
