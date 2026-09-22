@@ -21,6 +21,9 @@ state={
 				naval_base = 1
 			}
 		}
+		victory_points = {
+			4608 3 
+		}
 
 		victory_points = {
 			13404 1 #Purwokerto
