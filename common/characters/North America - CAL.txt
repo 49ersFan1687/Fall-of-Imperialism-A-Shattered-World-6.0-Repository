@@ -331,6 +331,7 @@ characters = {
         portraits = {
 			army = {
 				large = "gfx/leaders/CAL/Portrait_CAL_Henry_Harley_Arnold.dds"
+				small = "gfx/leaders/CAL/small/Portrait_CAL_Henry_Harley_Arnold_small.dds"
 			}
 		}
         corps_commander = {

@@ -12,4 +12,10 @@ spriteTypes = {
 		name = "GFX_ANR_Richard_Milhous_Nixon"
 		textureFile = "gfx/leaders/ANR/Portrait_ANR_Richard_Milhous_Nixon.png"
 	}
+
+	### Generals ###
+	spriteType = {
+		name = "GFX_ANR_Pedro_Augusto_Del_Valle"
+		textureFile = "gfx/leaders/ANR/Portrait_ANR_Pedro_Augusto_Del_Valle.dds"
+	}
 }
