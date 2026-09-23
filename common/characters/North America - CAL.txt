@@ -355,6 +355,7 @@ characters = {
         portraits = {
 			army = {
 				large = "gfx/leaders/CAL/Portrait_CAL_Jacob_Loucks_Devers.dds"
+				small = "gfx/leaders/CAL/small/Portrait_CAL_Jacob_Loucks_Devers_small.dds"
 			}
 		}
         corps_commander = {

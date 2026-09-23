@@ -16,4 +16,8 @@ spriteTypes = {
 		name = "GFX_CAL_Henry_Harley_Arnold"
 		textureFile = "gfx/leaders/CAL/small/Portrait_CAL_Henry_Harley_Arnold_small.dds"
 	}
+	spriteType = {
+		name = "GFX_CAL_Jacob_Loucks_Devers"
+		textureFile = "gfx/leaders/CAL/small/Portrait_CAL_Jacob_Loucks_Devers_small.dds"
+	}
 }
