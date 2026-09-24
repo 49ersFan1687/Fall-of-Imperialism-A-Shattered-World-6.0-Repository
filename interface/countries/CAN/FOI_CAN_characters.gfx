@@ -1,0 +1,8 @@
+spriteTypes = {
+    ### Leaders ###
+    spriteType = {
+		name = "GFX_CAN_Louis_Stephen_St_Laurent"
+		textureFile = "gfx/leaders/CAN/Portrait_CAN_Louis_Stephen_St_Laurent.dds"
+	}
+}
+    
