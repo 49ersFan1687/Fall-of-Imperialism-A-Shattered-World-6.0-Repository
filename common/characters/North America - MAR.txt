@@ -8,7 +8,7 @@ characters = {
 			}
 		}
         country_leader = {
-			ideology = national_conservatism_ideology
+			ideology = conservatism_national_conservatism_ideology
 			traits = {
                 #the_great_humanitarian
 			}

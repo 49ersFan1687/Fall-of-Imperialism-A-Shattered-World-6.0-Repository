@@ -8,7 +8,7 @@ characters = {
 			}
 		}
          country_leader = {
-			ideology = nazism_ideology
+			ideology = national_socialism_nazism_ideology
 			traits = {
 
 			}
