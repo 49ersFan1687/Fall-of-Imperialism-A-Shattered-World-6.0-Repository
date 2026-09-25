@@ -17,7 +17,7 @@ democratic_desc: "Democratic Regime"
 
 ### SubIdeologies - Communism ###
 communism_ideology: "Communism"
-communism_ideology_desc: ""
+
 
 ### SubIdeologies - Syndicalism ###
 
@@ -25,28 +25,26 @@ communism_ideology_desc: ""
 
 ### SubIdeologies - Social Democracy ###
 social_democracy_harmonic_stratrocracy: "Harmonic Stratocracy"
-social_democracy_harmonic_stratrocracy_desc: ""
 
 ### SubIdeologies - Social Liberalism ###
 social_liberalism_ideology: "Social Liberalism"
-social_liberalism_ideology_desc: ""
 social_liberal_stratocratic_liberalism_ideology: "Stratocratic Liberalism"
-social_liberal_stratocratic_liberalism_ideology_desc: ""
+
 
 ### SubIdeologies - Market Liberalism ###
 market_liberalism_ideology: "Market Liberalism"
-market_liberalism_ideology_desc: ""
 market_liberal_stratocratic_liberalism_ideology: "Stratocratic Liberalism"
-market_liberal_stratocratic_liberalism_ideology_desc: ""
+
 
 ### SubIdeologies - Conservatism ###
 
-
 ### SubIdeologies - Authoritarian Democracy ###
 authoritarian_democracy_provisional_government_ideology: "Provisional Government"
-authoritarian_democracy_provisional_government_ideology_desc: ""
 authoritarian_democracy_auth_national_conservatism_ideology: "Authoritarian National Conservatism"
-authoritarian_democracy_auth_national_conservatism_ideology_desc: ""
+authoritarian_democracy_vytalian_stratocracy_ruby_ideology: "Vytalian Stratocracy"
+authoritarian_democracy_vytalian_stratocracy_weiss_ideology: "Vytalian Stratocracy"
+authoritarian_democracy_vytalian_stratocracy_blake_ideology: "Vytalian Stratocracy"
+authoritarian_democracy_vytalian_stratocracy_yang_ideology: "Vytalian Stratocracy"
 
 ### SubIdeologies - Paternal Autocracy ###
 
@@ -56,8 +54,33 @@ authoritarian_democracy_auth_national_conservatism_ideology_desc: ""
 
 ### SubIdeologies - National Socialism ###
 national_socialism_nazism_ideology: "National Socialism"
-national_socialism_nazism_ideology_desc: ""
 
 ### SubIdeologies - Esoteric National Socialism ###
 
 ### SubIdeologies - Accelerationism ###
+
+
+### IDEOLOGY DESCRIPTIONS - COMMUNISM ###
+communism_ideology_desc: ""
+
+### IDEOLOGY DESCRIPTIONS - SOCIAL DEMOCRACY ###
+social_democracy_harmonic_stratrocracy_desc: ""
+
+### IDEOLOGY DESCRIPTIONS - SOCIAL LIBERALISM ###
+social_liberalism_ideology_desc: ""
+social_liberal_stratocratic_liberalism_ideology_desc: ""
+
+### IDEOLOGY DESCRIPTIONS - MARKET LIBERALISM ###
+market_liberalism_ideology_desc: ""
+market_liberal_stratocratic_liberalism_ideology_desc: ""
+
+### IDEOLOGY DESCRIPTIONS - AUTHORITARIAN DEMOCRACY ###
+authoritarian_democracy_provisional_government_ideology_desc: ""
+authoritarian_democracy_auth_national_conservatism_ideology_desc: ""
+authoritarian_democracy_vytalian_stratocracy_ruby_ideology_desc: ""
+authoritarian_democracy_vytalian_stratocracy_weiss_ideology_desc: ""
+authoritarian_democracy_vytalian_stratocracy_blake_ideology_desc: ""
+authoritarian_democracy_vytalian_stratocracy_yang_ideology_desc: ""
+
+### IDEOLOGY DESCRIPTIONS - NATIONAL SOCIALISM ###
+national_socialism_nazism_ideology_desc: ""
