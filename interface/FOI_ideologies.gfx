@@ -22,7 +22,7 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideologies/fascism_group.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_national_socialism_group"
+		name = "GFX_ideology_national_socialism_nazism_ideology"
 		texturefile = "gfx/interface/ideologies/national_socialism_main_ideology.dds"
 	}
 
