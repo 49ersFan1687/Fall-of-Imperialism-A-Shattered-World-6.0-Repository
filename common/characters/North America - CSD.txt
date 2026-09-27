@@ -38,7 +38,41 @@ characters = {
     }
 
     ### Field Marshals ###
-
+	CSD_twilight_sparkle = {
+		name = "Twilight Sparkle"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Twilight_Sparkle.dds"
+			}
+			army = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Twilight_Sparkle.dds"
+			}
+		}
+		country_leader = {
+			# desc = POLITICS_TWILIGHT_SPARKLE_DESC
+			expire = "1994.4.20"
+			ideology = social_democracy_harmonic_stratocracy_ideology
+			#traits = {
+			#	CSD_princess_of_friendship
+			#}
+		}
+		field_marshal = {
+			traits = {
+				politically_connected
+				organizer
+				thorough_planner
+				inspirational_leader
+				expert_delegator
+				defensive_doctrine
+			}
+			skill = 4
+			attack_skill = 2
+			defense_skill = 2
+			planning_skill = 6
+			logistics_skill = 4
+		}
+		gender = female
+	}
 
     ### Corps Commanders ###
 
