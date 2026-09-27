@@ -23,7 +23,7 @@ characters = {
             }
         }
         country_leader = {
-			ideology = conservative_moderate_dixiecrat_ideology
+			ideology = conservatism_moderate_dixiecrat_ideology
 			traits = {
 
 			}

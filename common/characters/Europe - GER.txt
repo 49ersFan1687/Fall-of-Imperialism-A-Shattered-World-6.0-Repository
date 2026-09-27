@@ -10,7 +10,7 @@ characters = {
          country_leader = {
 			ideology = national_socialism_nazism_ideology
 			traits = {
-
+                #der_fuhrer
 			}
 		}
     }

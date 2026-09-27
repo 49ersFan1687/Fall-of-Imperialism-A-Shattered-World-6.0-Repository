@@ -204,11 +204,11 @@ ideologies = {
 			conservatism_stratocratic_conservatism_ideology = { }
 			conservatism_moderate_authoritarianism_ideology = { }
 			conservatism_whigism_ideology = { }
-			conservative_longism_ideology = { }
-			conservative_oligarchy_ideology = { }
-			conservative_hamiltonian_democracy_ideology = { }
-			conservative_prussian_constitutionalism_ideology = { }
-			conservative_moderate_dixiecrat_ideology = { }
+			conservatism_longism_ideology = { }
+			conservatism_oligarchy_ideology = { }
+			conservatism_hamiltonian_democracy_ideology = { }
+			conservatism_prussian_constitutionalism_ideology = { }
+			conservatism_moderate_dixiecrat_ideology = { }
         }
 		dynamic_faction_names = { }
 		color = { 22 37 138 }
