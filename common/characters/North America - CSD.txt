@@ -3,7 +3,7 @@ characters = {
 
 
     ### Military Leaders ###
-    CSD_atsuko_maeda = {
+    CSD_atsuko_maeda = { ### AKB48/SECOND CONTINENTAL ARMY OFFICER ###
         name = "Atsuko Maeda"
 		portraits = {
 			civilian = {
@@ -38,7 +38,7 @@ characters = {
     }
 
     ### Field Marshals ###
-	CSD_twilight_sparkle = {
+	CSD_twilight_sparkle = { ### EQUESTRIAN OFFICER ###
 		name = "Twilight Sparkle"
 		portraits = {
 			civilian = {
