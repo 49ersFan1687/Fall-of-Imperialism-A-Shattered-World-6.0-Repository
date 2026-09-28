@@ -1,0 +1,7 @@
+spriteTypes = {
+    ### Leaders ###
+    spriteType = {
+		name = "GFX_FFR_charles_andre_joseph_marie_de_gaulle"
+		textureFile = "gfx/leaders/FFR/Portrait_FFR_charles_andre_joseph_marie_de_gaulle.dds"
+	}
+}

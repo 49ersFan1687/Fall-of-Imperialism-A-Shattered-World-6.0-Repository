@@ -1,0 +1,53 @@
+characters = {
+    ### Civilian Leaders ###
+    
+
+    ### Military Leaders ###
+    FFR_charles_andre_joseph_marie_de_gaulle = {
+        name = "Charles André Joseph Marie de Gaulle"
+        portraits = {
+			civilian = {
+				large = "gfx/leaders/FFR/Portrait_FFR_charles_andre_joseph_marie_de_gaulle.dds"
+			}
+		}
+        country_leader = {
+			ideology = conservatism_gaulism_ideology
+			traits = {
+                
+			}
+		}
+    }
+
+
+    ### Field Marshals ###
+
+
+    ### Corps Commanders ###
+
+
+    ### Admirals ###
+
+
+    ## Advisors - Army (Chiefs/High Command) - NOT GENREALS/FIELD MARSHALS ##
+
+
+    ## Advisors - Navy (Chiefs/High Command) - NOT GENREALS/FIELD MARSHALS ##
+
+
+    ## Advisors - Air Force (Chiefs/High Command) - NOT GENREALS/FIELD MARSHALS ##
+
+
+    ## Advisors - Civilian ##
+
+
+    ### Scientists - Air ###
+
+
+    ### Scientists - Army ###
+
+
+    ### Scientists - Naval ###
+
+
+    ### Scientists - Nuclear ###
+}
