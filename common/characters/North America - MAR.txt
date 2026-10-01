@@ -21,6 +21,14 @@ characters = {
     ### Field Marshals ###
     MAR_douglas_macarthur = {
         name = "Douglas MacArthur"
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/MAR/Portrait_MAR_Herbert_Clark_Hoover.dds"
+            }
+            army = {
+                large = "gfx/leaders/MAR/Portrait_MAR_Herbert_Clark_Hoover.dds"
+            }
+        }
     }
 
     ### Corps Commanders ###
