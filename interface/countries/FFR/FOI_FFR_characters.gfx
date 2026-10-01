@@ -1,7 +1,11 @@
 spriteTypes = {
     ### Leaders ###
     spriteType = {
-		name = "GFX_FFR_charles_andre_joseph_marie_de_gaulle"
-		textureFile = "gfx/leaders/FFR/Portrait_FFR_charles_andre_joseph_marie_de_gaulle.dds"
+		name = "GFX_FFR_charles_andre_joseph_marie_de_gaulle_civilian"
+		textureFile = "gfx/leaders/FFR/Portrait_FFR_charles_andre_joseph_marie_de_gaulle_civilian.dds"
+	}
+	spriteType = {
+		name = "GFX_FFR_charles_andre_joseph_marie_de_gaulle_military"
+		textureFile = "gfx/leaders/FFR/Portrait_FFR_charles_andre_joseph_marie_de_gaulle_military.dds"
 	}
 }

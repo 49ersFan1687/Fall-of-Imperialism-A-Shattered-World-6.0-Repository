@@ -7,8 +7,11 @@ characters = {
         name = "Charles André Joseph Marie de Gaulle"
         portraits = {
 			civilian = {
-				large = "gfx/leaders/FFR/Portrait_FFR_charles_andre_joseph_marie_de_gaulle.dds"
+				large = "gfx/leaders/FFR/Portrait_FFR_charles_andre_joseph_marie_de_gaulle_civilian.dds"
 			}
+            army = {
+                large = "gfx/leaders/FFR/Portrait_FFR_charles_andre_joseph_marie_de_gaulle_military.dds"
+            }
 		}
         country_leader = {
 			ideology = conservatism_gaulism_ideology
@@ -16,6 +19,20 @@ characters = {
                 
 			}
 		}
+        field_marshal = {
+            traits = {
+		        career_officer
+		        armor_officer
+		        panzer_leader
+                desert_fox
+                war_hero
+	        }
+	        skill = 4
+	        attack_skill = 4
+	        defense_skill = 4
+	        planning_skill = 3
+	        logistics_skill = 2
+        }
     }
 
 
