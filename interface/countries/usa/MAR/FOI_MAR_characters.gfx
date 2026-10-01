@@ -4,4 +4,10 @@ spriteTypes = {
 		name = "GFX_MAR_Herbert_Clark_Hoover"
 		textureFile = "gfx/leaders/MAR/Portrait_MAR_Herbert_Clark_Hoover.dds"
 	}
+
+	### Field Marshals ###
+	spriteType = {
+		name = "GFX_MAR_Douglas_Macarthur"
+		textureFile = "gfx/leaders/MAR/Portrait_MAR_Douglas_Macarthur.dds"
+	}
 }
