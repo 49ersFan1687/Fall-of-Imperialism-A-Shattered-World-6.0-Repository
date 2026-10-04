@@ -105,7 +105,7 @@ leader_traits = {
 		}
 	}
 
-	CSD_vytalian_legion_officer = {
+	CSD_vytalian_legion_officer_trait = {
 		type = corps_commander
 		trait_type = personality_trait
 		modifier = {
@@ -117,7 +117,7 @@ leader_traits = {
 		}
 	}
 
-	CSD_equestrian_legion_officer = {
+	CSD_equestrian_legion_officer_trait = {
 		type = corps_commander
 		trait_type = personality_trait
 		modifier = {

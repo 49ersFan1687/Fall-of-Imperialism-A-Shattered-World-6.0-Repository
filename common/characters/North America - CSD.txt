@@ -35,9 +35,8 @@ characters = {
 			logistics_skill = 4
 		}
 		gender = female
-    }
-
-    ### Field Marshals ###
+	}
+	
 	CSD_twilight_sparkle = { ### EQUESTRIAN OFFICER ###
 		name = "Twilight Sparkle"
 		portraits = {
@@ -64,6 +63,7 @@ characters = {
 				inspirational_leader
 				expert_delegator
 				defensive_doctrine
+				#CSD_equestrian_legion_officer_trait
 			}
 			skill = 4
 			attack_skill = 2
@@ -73,6 +73,46 @@ characters = {
 		}
 		gender = female
 	}
+	
+	CSD_ruby_rose = { ### VYTALIAN OFFICER ###
+		name = "Ruby Rose"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Ruby_Rose.dds"
+			}
+			army = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Ruby_Rose.dds"
+			}
+		}
+		country_leader = {
+			# desc = POLITICS_RUBY_ROSE_DESC
+			expire = "1994.4.20"
+			ideology = authoritarian_democracy_vytalian_stratocracy_ruby_ideology
+			#traits = {
+			#	CSD_princess_of_friendship
+			#}
+		}
+		field_marshal = {
+			traits = {
+				politically_connected
+				offensive_doctrine
+				brilliant_strategist
+				infantry_leader
+				infantry_expert
+				#CSD_vytalian_legion_officer_trait
+			}
+			skill = 4
+			attack_skill = 2
+			defense_skill = 2
+			planning_skill = 4
+			logistics_skill = 3
+		}
+	}
+
+    ### Field Marshals ###
+	
+
+	
 
     ### Corps Commanders ###
 

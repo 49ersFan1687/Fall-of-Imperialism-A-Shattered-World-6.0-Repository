@@ -16,4 +16,16 @@ spriteTypes = {
 		name = "GFX_CSD_Ruby_Rose"
 		textureFile = "gfx/leaders/CSD/Portrait_CSD_Ruby_Rose.dds"
 	}
+	spriteType = {
+		name = "GFX_CSD_Weiss_Schnee"
+		textureFile = "gfx/leaders/CSD/Portrait_CSD_Weiss_Schnee.dds"
+	}
+	spriteType = {
+		name = "GFX_CSD_Blake_Belladonna"
+		textureFile = "gfx/leaders/CSD/Portrait_CSD_Blake_Belladonna.dds"
+	}
+	spriteType = {
+		name = "GFX_CSD_Yang_Xiao_Long"
+		textureFile = "gfx/leaders/CSD/Portrait_CSD_Blake_Belladonna.dds"
+	}
 }

@@ -4,7 +4,10 @@ spriteTypes = {
 		name = "GFX_CAL_Henry_Agard_Wallace"
 		textureFile = "gfx/leaders/CAL/Portrait_CAL_Henry_Agard_Wallace.dds"
 	}
-	
+	spriteType = {
+		name = "GFX_CAL_Provisional_Council"
+		textureFile = "gfx/leaders/CAL/Portrait_CAL_Provisional_Council.dds"
+	}
 
 	# California - Generals #
 	spriteType = {
@@ -71,10 +74,6 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_CAL_Omar_Nelson_Bradley"
 		textureFile = "gfx/leaders/CAL/Portrait_CAL_Omar_Nelson_Bradley.dds"
-	}
-	spriteType = {
-		name = "GFX_CAL_Provisional_Council"
-		textureFile = "gfx/leaders/CAL/Portrait_CAL_Provisional_Council.dds"
 	}
 	spriteType = {
 		name = "GFX_CAL_Smedley_Darlington_Butler"
