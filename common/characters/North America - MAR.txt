@@ -29,6 +29,20 @@ characters = {
                 large = "gfx/leaders/MAR/Portrait_MAR_Herbert_Clark_Hoover.dds"
             }
         }
+        field_marshal = {
+			traits = {
+                brilliant_strategist
+                career_officer
+                media_personality
+                politically_connected
+                offensive_doctrine
+            }
+			skill = 4
+			attack_skill = 4
+			defense_skill = 3
+			planning_skill = 4
+			logistics_skill = 2
+		}
     }
 
     ### Corps Commanders ###
