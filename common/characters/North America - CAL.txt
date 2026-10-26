@@ -618,7 +618,16 @@ characters = {
     ## Advisors - Civilian ##
 
 	# Heads of Government #
-
+	CAL_huey_pierce_long_jr = {
+		name = "Huey Pierce Long Jr."
+		name = "William Fredrick Halsey Jr."
+		portraits = {
+			army = {
+				large = "gfx/leaders/CAL/Portrait_CAL_Huey_Pierce_Long_Jr.dds"
+			}
+		}
+		
+	}
 	
 	# Foreign Ministers #
 
