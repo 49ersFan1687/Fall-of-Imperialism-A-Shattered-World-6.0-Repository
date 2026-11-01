@@ -150,7 +150,7 @@ recruit_character = CSD_oscar_pine
 
 
 # Second Continental Army Cascadian Branch - Hope's Peak Academy Generals (Dream on, forever!) #
- 
+recruit_character = CSD_junko_enoshima
 
 # Second Continental Army Cascadian Branch - U.A. High School Generals (Plus Ultra!) #
 

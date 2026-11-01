@@ -28,4 +28,10 @@ spriteTypes = {
 		name = "GFX_CSD_Yang_Xiao_Long"
 		textureFile = "gfx/leaders/CSD/Portrait_CSD_Blake_Belladonna.dds"
 	}
+
+	### Danganronpa Characters ###
+	spriteType = {
+		name = "GFX_CSD_Junko_Enoshima"
+		textureFile = "gfx/leaders/CSD/Portrait_CSD_Junko_Enoshima.dds"
+	}
 }
